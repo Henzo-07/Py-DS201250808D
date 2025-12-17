@@ -1,0 +1,2501 @@
+Date,Region,Customers,Product Type,Bag Size (kg),Quantity Sold,Unit Price,Total Revenue
+1/1/2025,Abuja,BuildRight Co,Portland Cement,25,864,3789,3273696
+1/2/2025,Kano,StoneWorks Ltd,Portland Cement,25,551,2641,1455191
+1/3/2025,Kano,Dangote Ltd,Portland Cement,25,114,2963,337782
+1/4/2025,Lagos,Dangote Ltd,PPC,25,891,3310,2949210
+1/5/2025,Abuja,MegaCem,PPC,50,687,2440,1676280
+1/6/2025,Abuja,Eterna Plc,Portland Cement,50,720,2050,1476000
+1/7/2025,Portharcourt,Dangote Ltd,Portland Cement,25,535,3757,2009995
+1/8/2025,Lagos,BuildRight Co,Portland Cement,50,481,3580,1721980
+1/9/2025,Kano,Dangote Ltd,Slag Cement,50,668,3540,2364720
+1/10/2025,Portharcourt,BuildRight Co,Slag Cement,25,213,2857,608541
+1/11/2025,Portharcourt,Dangote Ltd,PPC,50,130,3271,425230
+1/12/2025,Lagos,StoneWorks Ltd,Portland Cement,25,690,2952,2036880
+1/13/2025,Portharcourt,StoneWorks Ltd,Portland Cement,25,700,2284,1598800
+1/14/2025,Portharcourt,Eterna Plc,Portland Cement,25,287,2006,575722
+1/15/2025,Lagos,MegaCem,Slag Cement,50,846,3148,2663208
+1/16/2025,Lagos,Eterna Plc,Slag Cement,50,440,2044,899360
+1/17/2025,Lagos,Eterna Plc,PPC,50,214,3962,847868
+1/18/2025,Kaduna,Eterna Plc,PPC,25,845,3064,2589080
+1/19/2025,Portharcourt,Eterna Plc,Slag Cement,50,174,3433,597342
+1/20/2025,Kaduna,Eterna Plc,Portland Cement,25,502,2871,1441242
+1/21/2025,Portharcourt,Dangote Ltd,Slag Cement,25,383,2607,998481
+1/22/2025,Kano,Eterna Plc,Slag Cement,25,297,3098,920106
+1/23/2025,Kaduna,StoneWorks Ltd,White Cement,25,528,2004,1058112
+1/24/2025,Kano,MegaCem,White Cement,50,604,3004,1814416
+1/25/2025,Abuja,Eterna Plc,White Cement,50,961,3224,3098264
+1/26/2025,Kaduna,Eterna Plc,PPC,25,994,3660,3638040
+1/27/2025,Kano,StoneWorks Ltd,White Cement,25,56,2200,123200
+1/28/2025,Lagos,BuildRight Co,White Cement,50,148,3434,508232
+1/29/2025,Kaduna,Eterna Plc,PPC,25,561,2245,1259445
+1/30/2025,Kano,MegaCem,Slag Cement,25,432,2136,922752
+1/31/2025,Portharcourt,Eterna Plc,PPC,25,147,3229,474663
+2/1/2025,Lagos,Eterna Plc,Slag Cement,25,518,2559,1325562
+2/2/2025,Abuja,Eterna Plc,Portland Cement,25,641,3808,2440928
+2/3/2025,Portharcourt,Dangote Ltd,PPC,25,180,3981,716580
+2/4/2025,Kano,Eterna Plc,Slag Cement,50,909,3620,3290580
+2/5/2025,Abuja,Eterna Plc,White Cement,50,701,3248,2276848
+2/6/2025,Kaduna,Dangote Ltd,Portland Cement,25,866,2854,2471564
+2/7/2025,Portharcourt,Dangote Ltd,White Cement,25,413,3772,1557836
+2/8/2025,Kaduna,Eterna Plc,White Cement,25,158,3961,625838
+2/9/2025,Abuja,BuildRight Co,White Cement,50,277,2161,598597
+2/10/2025,Abuja,Eterna Plc,Portland Cement,25,89,2913,259257
+2/11/2025,Lagos,Dangote Ltd,Slag Cement,25,805,2510,2020550
+2/12/2025,Kaduna,BuildRight Co,Portland Cement,50,466,3122,1454852
+2/13/2025,Abuja,StoneWorks Ltd,Slag Cement,50,925,2298,2125650
+2/14/2025,Kaduna,StoneWorks Ltd,Portland Cement,50,940,2559,2405460
+2/15/2025,Abuja,MegaCem,Portland Cement,50,464,2349,1089936
+2/16/2025,Abuja,Dangote Ltd,Slag Cement,25,343,3582,1228626
+2/17/2025,Kaduna,MegaCem,Slag Cement,50,507,2443,1238601
+2/18/2025,Kano,Eterna Plc,White Cement,25,858,2057,1764906
+2/19/2025,Portharcourt,Eterna Plc,PPC,50,537,2258,1212546
+2/20/2025,Kano,Eterna Plc,Slag Cement,25,626,2092,1309592
+2/21/2025,Kano,MegaCem,White Cement,50,449,2417,1085233
+2/22/2025,Kano,MegaCem,Slag Cement,50,351,2214,777114
+2/23/2025,Kano,Dangote Ltd,White Cement,50,304,2601,790704
+2/24/2025,Abuja,StoneWorks Ltd,White Cement,25,353,3745,1321985
+2/25/2025,Abuja,BuildRight Co,Slag Cement,25,290,2612,757480
+2/26/2025,Lagos,StoneWorks Ltd,PPC,50,764,2468,1885552
+2/27/2025,Abuja,Eterna Plc,Portland Cement,50,299,3853,1152047
+2/28/2025,Abuja,Eterna Plc,Portland Cement,25,278,3565,991070
+3/1/2025,Portharcourt,StoneWorks Ltd,Slag Cement,50,593,2436,1444548
+3/2/2025,Kano,Eterna Plc,Portland Cement,50,347,3729,1293963
+3/3/2025,Kano,StoneWorks Ltd,Slag Cement,50,446,2127,948642
+3/4/2025,Portharcourt,Eterna Plc,PPC,50,384,2180,837120
+3/5/2025,Kaduna,BuildRight Co,PPC,50,679,3690,2505510
+3/6/2025,Kaduna,MegaCem,White Cement,25,676,3829,2588404
+3/7/2025,Abuja,Dangote Ltd,Portland Cement,50,845,2937,2481765
+3/8/2025,Portharcourt,Dangote Ltd,Portland Cement,25,580,2343,1358940
+3/9/2025,Abuja,BuildRight Co,PPC,25,604,3534,2134536
+3/10/2025,Kaduna,Eterna Plc,Portland Cement,50,292,2770,808840
+3/11/2025,Portharcourt,MegaCem,White Cement,25,577,2399,1384223
+3/12/2025,Kano,Eterna Plc,Slag Cement,25,557,3967,2209619
+3/13/2025,Lagos,Eterna Plc,Slag Cement,25,971,2115,2053665
+3/14/2025,Lagos,StoneWorks Ltd,PPC,50,114,2834,323076
+3/15/2025,Kaduna,Eterna Plc,White Cement,50,357,2011,717927
+3/16/2025,Abuja,BuildRight Co,White Cement,25,197,2400,472800
+3/17/2025,Abuja,Dangote Ltd,White Cement,25,118,2967,350106
+3/18/2025,Lagos,Eterna Plc,PPC,50,713,2103,1499439
+3/19/2025,Portharcourt,StoneWorks Ltd,Slag Cement,50,84,2783,233772
+3/20/2025,Kaduna,BuildRight Co,Slag Cement,50,421,3408,1434768
+3/21/2025,Portharcourt,BuildRight Co,White Cement,25,367,3905,1433135
+3/22/2025,Portharcourt,Dangote Ltd,PPC,25,560,3777,2115120
+3/23/2025,Abuja,StoneWorks Ltd,PPC,50,567,2912,1651104
+3/24/2025,Lagos,Eterna Plc,White Cement,25,687,3807,2615409
+3/25/2025,Kaduna,BuildRight Co,Slag Cement,50,596,3711,2211756
+3/26/2025,Kaduna,Eterna Plc,Portland Cement,25,280,2328,651840
+3/27/2025,Portharcourt,StoneWorks Ltd,PPC,25,802,2918,2340236
+3/28/2025,Abuja,Dangote Ltd,Portland Cement,25,978,2523,2467494
+3/29/2025,Kaduna,Eterna Plc,PPC,25,293,2500,732500
+3/30/2025,Kaduna,Eterna Plc,Slag Cement,25,147,2931,430857
+3/31/2025,Lagos,StoneWorks Ltd,White Cement,50,373,2596,968308
+4/1/2025,Kano,BuildRight Co,Slag Cement,50,480,2164,1038720
+4/2/2025,Kaduna,BuildRight Co,PPC,50,695,2386,1658270
+4/3/2025,Portharcourt,Dangote Ltd,PPC,50,756,3011,2276316
+4/4/2025,Kaduna,StoneWorks Ltd,Slag Cement,25,908,3249,2950092
+4/5/2025,Abuja,Eterna Plc,Portland Cement,25,943,3787,3571141
+4/6/2025,Kano,BuildRight Co,White Cement,25,709,3227,2287943
+4/7/2025,Kaduna,BuildRight Co,PPC,25,452,3602,1628104
+4/8/2025,Lagos,BuildRight Co,Portland Cement,25,721,3232,2330272
+4/9/2025,Kaduna,BuildRight Co,PPC,50,225,3065,689625
+4/10/2025,Lagos,BuildRight Co,White Cement,50,378,2506,947268
+4/11/2025,Kaduna,MegaCem,Slag Cement,50,163,3825,623475
+4/12/2025,Portharcourt,Eterna Plc,White Cement,25,244,2431,593164
+4/13/2025,Kaduna,MegaCem,White Cement,25,334,3165,1057110
+4/14/2025,Abuja,Eterna Plc,PPC,25,443,2572,1139396
+4/15/2025,Kano,StoneWorks Ltd,Portland Cement,25,814,3667,2984938
+4/16/2025,Lagos,BuildRight Co,White Cement,25,855,2096,1792080
+4/17/2025,Lagos,Dangote Ltd,Slag Cement,25,421,3994,1681474
+4/18/2025,Kaduna,Eterna Plc,PPC,25,199,2945,586055
+4/19/2025,Abuja,StoneWorks Ltd,Portland Cement,25,808,3271,2642968
+4/20/2025,Abuja,Dangote Ltd,White Cement,50,365,2839,1036235
+4/21/2025,Abuja,MegaCem,Slag Cement,50,873,2371,2069883
+4/22/2025,Abuja,BuildRight Co,Portland Cement,25,847,3546,3003462
+4/23/2025,Portharcourt,Dangote Ltd,White Cement,50,570,2844,1621080
+4/24/2025,Portharcourt,Dangote Ltd,Slag Cement,25,528,2078,1097184
+4/25/2025,Kano,StoneWorks Ltd,PPC,25,936,2810,2630160
+4/26/2025,Kaduna,Dangote Ltd,Portland Cement,50,443,3784,1676312
+4/27/2025,Kaduna,Dangote Ltd,PPC,50,961,2401,2307361
+4/28/2025,Kaduna,MegaCem,Portland Cement,25,999,2019,2016981
+4/29/2025,Portharcourt,Dangote Ltd,Portland Cement,50,503,2124,1068372
+4/30/2025,Lagos,MegaCem,Slag Cement,25,309,3302,1020318
+5/1/2025,Lagos,Dangote Ltd,PPC,25,745,2371,1766395
+5/2/2025,Abuja,Dangote Ltd,Portland Cement,25,56,2103,117768
+5/3/2025,Kano,MegaCem,PPC,25,95,2037,193515
+5/4/2025,Kaduna,MegaCem,Slag Cement,25,351,3786,1328886
+5/5/2025,Abuja,StoneWorks Ltd,Portland Cement,50,391,2034,795294
+5/6/2025,Portharcourt,BuildRight Co,Slag Cement,50,408,3608,1472064
+5/7/2025,Abuja,Dangote Ltd,PPC,50,522,3483,1818126
+5/8/2025,Kano,Dangote Ltd,Portland Cement,25,821,3764,3090244
+5/9/2025,Kano,Eterna Plc,Portland Cement,50,173,3981,688713
+5/10/2025,Portharcourt,StoneWorks Ltd,Portland Cement,25,337,3472,1170064
+5/11/2025,Lagos,StoneWorks Ltd,Portland Cement,50,268,3280,879040
+5/12/2025,Kaduna,BuildRight Co,PPC,25,880,3161,2781680
+5/13/2025,Portharcourt,Dangote Ltd,Portland Cement,25,154,2634,405636
+5/14/2025,Abuja,Eterna Plc,Portland Cement,50,937,2225,2084825
+5/15/2025,Lagos,MegaCem,Slag Cement,50,892,3948,3521616
+5/16/2025,Portharcourt,Eterna Plc,PPC,50,522,3748,1956456
+5/17/2025,Portharcourt,Eterna Plc,PPC,25,437,2684,1172908
+5/18/2025,Portharcourt,MegaCem,Slag Cement,50,690,2987,2061030
+5/19/2025,Lagos,BuildRight Co,Slag Cement,25,528,2229,1176912
+5/20/2025,Portharcourt,Eterna Plc,Slag Cement,25,932,2404,2240528
+5/21/2025,Portharcourt,BuildRight Co,White Cement,25,288,3989,1148832
+5/22/2025,Kano,StoneWorks Ltd,Slag Cement,25,138,3522,486036
+5/23/2025,Kano,Eterna Plc,White Cement,50,838,2959,2479642
+5/24/2025,Lagos,Dangote Ltd,Slag Cement,25,632,2505,1583160
+5/25/2025,Portharcourt,BuildRight Co,White Cement,25,473,2183,1032559
+5/26/2025,Portharcourt,StoneWorks Ltd,White Cement,50,958,3007,2880706
+5/27/2025,Abuja,BuildRight Co,Slag Cement,50,72,3121,224712
+5/28/2025,Kaduna,Dangote Ltd,PPC,50,315,2542,800730
+5/29/2025,Portharcourt,MegaCem,Portland Cement,25,359,2196,788364
+5/30/2025,Kano,Eterna Plc,White Cement,50,850,3525,2996250
+5/31/2025,Lagos,BuildRight Co,White Cement,50,917,2673,2451141
+6/1/2025,Kaduna,StoneWorks Ltd,Portland Cement,25,889,2110,1875790
+6/2/2025,Lagos,StoneWorks Ltd,White Cement,25,296,2909,861064
+6/3/2025,Lagos,StoneWorks Ltd,Slag Cement,50,874,2530,2211220
+6/4/2025,Portharcourt,MegaCem,Portland Cement,50,400,3786,1514400
+6/5/2025,Abuja,Dangote Ltd,PPC,25,870,2121,1845270
+6/6/2025,Portharcourt,MegaCem,Slag Cement,50,831,3105,2580255
+6/7/2025,Kano,MegaCem,Portland Cement,25,291,3922,1141302
+6/8/2025,Portharcourt,StoneWorks Ltd,PPC,25,812,2662,2161544
+6/9/2025,Abuja,Dangote Ltd,Portland Cement,50,505,3763,1900315
+6/10/2025,Kaduna,StoneWorks Ltd,White Cement,50,209,3785,791065
+6/11/2025,Lagos,MegaCem,White Cement,50,98,2925,286650
+6/12/2025,Kano,Dangote Ltd,Slag Cement,25,907,2639,2393573
+6/13/2025,Lagos,Eterna Plc,Slag Cement,50,702,3330,2337660
+6/14/2025,Abuja,Dangote Ltd,PPC,50,333,2369,788877
+6/15/2025,Kano,StoneWorks Ltd,White Cement,50,954,3152,3007008
+6/16/2025,Kano,Eterna Plc,Portland Cement,50,177,2785,492945
+6/17/2025,Portharcourt,BuildRight Co,Slag Cement,25,759,3924,2978316
+6/18/2025,Abuja,Dangote Ltd,White Cement,25,632,2218,1401776
+6/19/2025,Lagos,Dangote Ltd,Portland Cement,50,959,3892,3732428
+6/20/2025,Kano,MegaCem,PPC,25,425,3695,1570375
+6/21/2025,Portharcourt,MegaCem,PPC,25,891,3899,3474009
+6/22/2025,Portharcourt,BuildRight Co,Slag Cement,25,688,2804,1929152
+6/23/2025,Lagos,Dangote Ltd,Slag Cement,25,441,2380,1049580
+6/24/2025,Kano,StoneWorks Ltd,PPC,50,377,3859,1454843
+6/25/2025,Kaduna,StoneWorks Ltd,Portland Cement,25,410,2008,823280
+6/26/2025,Kaduna,Dangote Ltd,White Cement,50,898,3022,2713756
+6/27/2025,Abuja,BuildRight Co,PPC,25,126,2280,287280
+6/28/2025,Lagos,StoneWorks Ltd,Portland Cement,50,193,3435,662955
+6/29/2025,Portharcourt,Dangote Ltd,Slag Cement,50,522,3992,2083824
+6/30/2025,Kaduna,BuildRight Co,White Cement,25,970,3703,3591910
+7/1/2025,Kano,MegaCem,Slag Cement,25,625,2710,1693750
+7/2/2025,Lagos,Eterna Plc,PPC,25,751,2766,2077266
+7/3/2025,Abuja,Eterna Plc,Portland Cement,50,747,3548,2650356
+7/4/2025,Abuja,Eterna Plc,White Cement,25,66,3736,246576
+7/5/2025,Abuja,BuildRight Co,Portland Cement,50,517,2658,1374186
+7/6/2025,Portharcourt,Dangote Ltd,PPC,25,201,2267,455667
+7/7/2025,Portharcourt,StoneWorks Ltd,Slag Cement,25,213,2222,473286
+7/8/2025,Abuja,BuildRight Co,Slag Cement,50,396,2282,903672
+7/9/2025,Kano,StoneWorks Ltd,Portland Cement,25,979,2841,2781339
+7/10/2025,Kano,BuildRight Co,Portland Cement,50,716,2845,2037020
+7/11/2025,Lagos,Eterna Plc,White Cement,50,117,3570,417690
+7/12/2025,Lagos,MegaCem,Portland Cement,50,990,2141,2119590
+7/13/2025,Kano,Eterna Plc,Slag Cement,50,568,2659,1510312
+7/14/2025,Portharcourt,Eterna Plc,PPC,50,851,2641,2247491
+7/15/2025,Kano,Eterna Plc,Portland Cement,25,144,2099,302256
+7/16/2025,Lagos,MegaCem,White Cement,50,653,2413,1575689
+7/17/2025,Portharcourt,Eterna Plc,Slag Cement,50,324,2249,728676
+7/18/2025,Abuja,MegaCem,Slag Cement,25,92,3046,280232
+7/19/2025,Lagos,Eterna Plc,White Cement,25,198,2813,556974
+7/20/2025,Abuja,Eterna Plc,PPC,50,660,3700,2442000
+7/21/2025,Kano,MegaCem,White Cement,25,814,2523,2053722
+7/22/2025,Kaduna,Dangote Ltd,Slag Cement,50,464,3194,1482016
+7/23/2025,Kaduna,StoneWorks Ltd,White Cement,50,257,3939,1012323
+7/24/2025,Lagos,StoneWorks Ltd,Slag Cement,50,473,2710,1281830
+7/25/2025,Abuja,Dangote Ltd,PPC,50,469,3992,1872248
+7/26/2025,Portharcourt,Dangote Ltd,White Cement,50,848,3751,3180848
+7/27/2025,Lagos,Dangote Ltd,PPC,25,414,3124,1293336
+7/28/2025,Kaduna,BuildRight Co,PPC,25,234,3305,773370
+7/29/2025,Portharcourt,MegaCem,Portland Cement,25,981,2670,2619270
+7/30/2025,Portharcourt,Eterna Plc,White Cement,50,881,2752,2424512
+7/31/2025,Lagos,BuildRight Co,Portland Cement,25,803,2821,2265263
+8/1/2025,Lagos,StoneWorks Ltd,Portland Cement,50,391,3874,1514734
+8/2/2025,Kaduna,BuildRight Co,Slag Cement,50,167,3482,581494
+8/3/2025,Kano,StoneWorks Ltd,PPC,50,420,2531,1063020
+8/4/2025,Kano,Eterna Plc,PPC,25,870,3499,3044130
+8/5/2025,Kaduna,BuildRight Co,White Cement,25,863,2178,1879614
+8/6/2025,Abuja,BuildRight Co,White Cement,25,636,3824,2432064
+8/7/2025,Portharcourt,MegaCem,PPC,25,169,3109,525421
+8/8/2025,Abuja,StoneWorks Ltd,PPC,50,634,2286,1449324
+8/9/2025,Lagos,StoneWorks Ltd,Slag Cement,25,685,2038,1396030
+8/10/2025,Abuja,BuildRight Co,Portland Cement,25,793,3372,2673996
+8/11/2025,Kaduna,StoneWorks Ltd,White Cement,50,160,2972,475520
+8/12/2025,Portharcourt,BuildRight Co,White Cement,50,479,3689,1767031
+8/13/2025,Lagos,BuildRight Co,Slag Cement,50,833,2926,2437358
+8/14/2025,Abuja,StoneWorks Ltd,Portland Cement,50,917,2122,1945874
+8/15/2025,Abuja,MegaCem,White Cement,50,655,3601,2358655
+8/16/2025,Abuja,BuildRight Co,Portland Cement,50,781,2045,1597145
+8/17/2025,Kano,BuildRight Co,Portland Cement,25,214,2032,434848
+8/18/2025,Abuja,BuildRight Co,Slag Cement,25,733,2474,1813442
+8/19/2025,Kaduna,Eterna Plc,Portland Cement,50,784,3133,2456272
+8/20/2025,Kaduna,Dangote Ltd,White Cement,50,83,2150,178450
+8/21/2025,Lagos,Eterna Plc,White Cement,25,994,2465,2450210
+8/22/2025,Portharcourt,Dangote Ltd,White Cement,25,864,2543,2197152
+8/23/2025,Abuja,MegaCem,Portland Cement,25,835,3252,2715420
+8/24/2025,Kaduna,Dangote Ltd,PPC,50,893,2110,1884230
+8/25/2025,Lagos,Eterna Plc,PPC,25,375,3090,1158750
+8/26/2025,Abuja,Dangote Ltd,White Cement,50,865,3649,3156385
+8/27/2025,Portharcourt,BuildRight Co,PPC,25,277,3348,927396
+8/28/2025,Lagos,Eterna Plc,Slag Cement,50,264,3940,1040160
+8/29/2025,Abuja,BuildRight Co,PPC,50,784,3988,3126592
+8/30/2025,Portharcourt,BuildRight Co,Portland Cement,25,385,3611,1390235
+8/31/2025,Kano,StoneWorks Ltd,PPC,50,142,2674,379708
+9/1/2025,Lagos,Dangote Ltd,White Cement,50,909,2314,2103426
+9/2/2025,Portharcourt,Eterna Plc,White Cement,25,363,2066,749958
+9/3/2025,Portharcourt,Eterna Plc,White Cement,50,222,2046,454212
+9/4/2025,Portharcourt,MegaCem,White Cement,25,919,2064,1896816
+9/5/2025,Kano,Eterna Plc,PPC,50,841,3682,3096562
+9/6/2025,Lagos,Dangote Ltd,Slag Cement,25,365,2463,898995
+9/7/2025,Lagos,Dangote Ltd,White Cement,25,81,3826,309906
+9/8/2025,Lagos,BuildRight Co,PPC,50,750,3046,2284500
+9/9/2025,Abuja,StoneWorks Ltd,White Cement,50,856,3277,2805112
+9/10/2025,Lagos,MegaCem,Slag Cement,25,559,2147,1200173
+9/11/2025,Abuja,BuildRight Co,PPC,25,824,3968,3269632
+9/12/2025,Kano,Dangote Ltd,Portland Cement,50,964,3555,3427020
+9/13/2025,Abuja,MegaCem,White Cement,50,340,3883,1320220
+9/14/2025,Portharcourt,StoneWorks Ltd,White Cement,50,69,3084,212796
+9/15/2025,Abuja,MegaCem,Slag Cement,50,672,3058,2054976
+9/16/2025,Portharcourt,BuildRight Co,Slag Cement,50,366,3717,1360422
+9/17/2025,Portharcourt,Eterna Plc,Slag Cement,25,504,3046,1535184
+9/18/2025,Portharcourt,Dangote Ltd,Portland Cement,25,219,3499,766281
+9/19/2025,Abuja,MegaCem,Portland Cement,25,940,2074,1949560
+9/20/2025,Abuja,StoneWorks Ltd,Slag Cement,50,684,2386,1632024
+9/21/2025,Portharcourt,BuildRight Co,PPC,25,467,2277,1063359
+9/22/2025,Portharcourt,Dangote Ltd,Slag Cement,25,286,3088,883168
+9/23/2025,Portharcourt,Eterna Plc,Portland Cement,25,687,2310,1586970
+9/24/2025,Kano,MegaCem,Portland Cement,25,607,3916,2377012
+9/25/2025,Portharcourt,MegaCem,PPC,25,620,2942,1824040
+9/26/2025,Lagos,StoneWorks Ltd,Slag Cement,50,182,2262,411684
+9/27/2025,Kaduna,MegaCem,PPC,50,701,3311,2321011
+9/28/2025,Portharcourt,BuildRight Co,White Cement,25,396,2213,876348
+9/29/2025,Kaduna,BuildRight Co,White Cement,50,417,2018,841506
+9/30/2025,Lagos,MegaCem,Portland Cement,25,390,2108,822120
+10/1/2025,Lagos,BuildRight Co,Portland Cement,25,688,2241,1541808
+10/2/2025,Kaduna,BuildRight Co,White Cement,50,983,3844,3778652
+10/3/2025,Abuja,Dangote Ltd,Slag Cement,50,101,3733,377033
+10/4/2025,Lagos,StoneWorks Ltd,Portland Cement,50,334,2444,816296
+10/5/2025,Abuja,BuildRight Co,White Cement,50,410,2795,1145950
+10/6/2025,Lagos,MegaCem,Portland Cement,25,600,2553,1531800
+10/7/2025,Lagos,Eterna Plc,PPC,25,731,3594,2627214
+10/8/2025,Kaduna,MegaCem,White Cement,50,565,3759,2123835
+10/9/2025,Kano,StoneWorks Ltd,PPC,50,631,2826,1783206
+10/10/2025,Lagos,Dangote Ltd,Portland Cement,50,489,2274,1111986
+10/11/2025,Lagos,StoneWorks Ltd,White Cement,50,548,2815,1542620
+10/12/2025,Portharcourt,BuildRight Co,Portland Cement,50,164,2967,486588
+10/13/2025,Kano,StoneWorks Ltd,Portland Cement,50,185,2796,517260
+10/14/2025,Portharcourt,MegaCem,Portland Cement,50,293,3196,936428
+10/15/2025,Kano,Dangote Ltd,White Cement,50,952,3152,3000704
+10/16/2025,Lagos,Eterna Plc,Slag Cement,50,109,2074,226066
+10/17/2025,Abuja,MegaCem,PPC,25,485,2674,1296890
+10/18/2025,Abuja,Dangote Ltd,Slag Cement,25,129,2629,339141
+10/19/2025,Kano,StoneWorks Ltd,Slag Cement,25,726,3530,2562780
+10/20/2025,Lagos,Eterna Plc,White Cement,50,335,2609,874015
+10/21/2025,Lagos,MegaCem,PPC,50,305,3279,1000095
+10/22/2025,Kaduna,StoneWorks Ltd,Slag Cement,50,640,3995,2556800
+10/23/2025,Kaduna,Eterna Plc,White Cement,50,503,3285,1652355
+10/24/2025,Kaduna,Eterna Plc,Slag Cement,50,414,2448,1013472
+10/25/2025,Portharcourt,Eterna Plc,White Cement,50,76,3910,297160
+10/26/2025,Abuja,MegaCem,Portland Cement,50,212,3247,688364
+10/27/2025,Abuja,Eterna Plc,Slag Cement,25,298,2671,795958
+10/28/2025,Lagos,MegaCem,Portland Cement,25,480,3702,1776960
+10/29/2025,Lagos,Dangote Ltd,PPC,50,729,2797,2039013
+10/30/2025,Kaduna,Dangote Ltd,Slag Cement,50,791,3128,2474248
+10/31/2025,Abuja,BuildRight Co,PPC,50,768,3771,2896128
+11/1/2025,Kano,Eterna Plc,White Cement,25,652,3958,2580616
+11/2/2025,Kaduna,Dangote Ltd,White Cement,25,972,3923,3813156
+11/3/2025,Portharcourt,Dangote Ltd,Portland Cement,50,292,3296,962432
+11/4/2025,Lagos,BuildRight Co,White Cement,50,103,3331,343093
+11/5/2025,Lagos,Eterna Plc,White Cement,25,169,2545,430105
+11/6/2025,Abuja,MegaCem,White Cement,50,74,3713,274762
+11/7/2025,Kaduna,MegaCem,Portland Cement,50,940,3552,3338880
+11/8/2025,Abuja,Eterna Plc,Slag Cement,25,161,3165,509565
+11/9/2025,Abuja,Dangote Ltd,PPC,50,241,3582,863262
+11/10/2025,Lagos,MegaCem,White Cement,25,679,2664,1808856
+11/11/2025,Kaduna,Dangote Ltd,Slag Cement,25,105,2241,235305
+11/12/2025,Lagos,MegaCem,Slag Cement,50,615,2904,1785960
+11/13/2025,Kano,BuildRight Co,White Cement,50,121,3465,419265
+11/14/2025,Lagos,Eterna Plc,PPC,25,223,3934,877282
+11/15/2025,Portharcourt,BuildRight Co,White Cement,25,396,3683,1458468
+11/16/2025,Kaduna,MegaCem,White Cement,50,750,2532,1899000
+11/17/2025,Kano,MegaCem,White Cement,50,478,2032,971296
+11/18/2025,Kano,Dangote Ltd,PPC,25,425,2655,1128375
+11/19/2025,Portharcourt,BuildRight Co,Slag Cement,25,175,3826,669550
+11/20/2025,Kano,MegaCem,Portland Cement,25,318,3495,1111410
+11/21/2025,Kano,Eterna Plc,PPC,25,796,2928,2330688
+11/22/2025,Kano,Eterna Plc,PPC,25,469,2675,1254575
+11/23/2025,Portharcourt,MegaCem,PPC,25,92,2807,258244
+11/24/2025,Lagos,Dangote Ltd,White Cement,50,305,3108,947940
+11/25/2025,Portharcourt,Dangote Ltd,Slag Cement,50,780,2352,1834560
+11/26/2025,Portharcourt,Dangote Ltd,White Cement,25,741,3548,2629068
+11/27/2025,Lagos,BuildRight Co,White Cement,50,313,2372,742436
+11/28/2025,Lagos,Eterna Plc,White Cement,25,367,2107,773269
+11/29/2025,Kaduna,Dangote Ltd,Portland Cement,50,82,3228,264696
+11/30/2025,Abuja,BuildRight Co,PPC,50,722,2578,1861316
+12/1/2025,Kaduna,MegaCem,Slag Cement,50,105,3854,404670
+12/2/2025,Lagos,Eterna Plc,Portland Cement,50,235,3531,829785
+12/3/2025,Abuja,MegaCem,White Cement,25,116,3814,442424
+12/4/2025,Abuja,Dangote Ltd,Slag Cement,50,120,2313,277560
+12/5/2025,Abuja,BuildRight Co,Slag Cement,50,447,3653,1632891
+12/6/2025,Abuja,MegaCem,White Cement,50,512,2795,1431040
+12/7/2025,Kaduna,MegaCem,Portland Cement,25,563,3373,1898999
+12/8/2025,Kaduna,Eterna Plc,PPC,25,613,3121,1913173
+12/9/2025,Kano,Dangote Ltd,White Cement,25,376,2273,854648
+12/10/2025,Kano,Dangote Ltd,Portland Cement,25,418,3770,1575860
+12/11/2025,Portharcourt,BuildRight Co,White Cement,25,207,2986,618102
+12/12/2025,Abuja,Dangote Ltd,White Cement,25,939,3665,3441435
+12/13/2025,Kano,Eterna Plc,Portland Cement,25,671,2334,1566114
+12/14/2025,Kaduna,MegaCem,White Cement,50,797,2254,1796438
+12/15/2025,Lagos,Dangote Ltd,Portland Cement,50,437,2916,1274292
+12/16/2025,Portharcourt,MegaCem,Slag Cement,25,181,3894,704814
+12/17/2025,Lagos,StoneWorks Ltd,Portland Cement,50,127,2704,343408
+12/18/2025,Kaduna,Eterna Plc,White Cement,25,194,3331,646214
+12/19/2025,Kano,MegaCem,Slag Cement,25,767,2299,1763333
+12/20/2025,Kaduna,Dangote Ltd,White Cement,25,597,2769,1653093
+12/21/2025,Lagos,BuildRight Co,Portland Cement,25,870,3672,3194640
+12/22/2025,Abuja,Dangote Ltd,White Cement,25,610,3136,1912960
+12/23/2025,Kaduna,StoneWorks Ltd,Slag Cement,25,847,3267,2767149
+12/24/2025,Portharcourt,BuildRight Co,White Cement,50,926,3086,2857636
+12/25/2025,Kaduna,BuildRight Co,White Cement,50,830,2860,2373800
+12/26/2025,Kano,Dangote Ltd,White Cement,25,383,2744,1050952
+12/27/2025,Abuja,BuildRight Co,Slag Cement,25,189,3313,626157
+12/28/2025,Portharcourt,StoneWorks Ltd,PPC,50,95,3508,333260
+12/29/2025,Abuja,StoneWorks Ltd,Portland Cement,50,909,2190,1990710
+12/30/2025,Kaduna,BuildRight Co,Portland Cement,50,138,2095,289110
+12/31/2025,Kaduna,StoneWorks Ltd,Slag Cement,25,985,3372,3321420
+1/1/2026,Kano,Dangote Ltd,Portland Cement,25,459,2953,1355427
+1/2/2026,Portharcourt,BuildRight Co,PPC,50,762,3087,2352294
+1/3/2026,Abuja,BuildRight Co,PPC,25,236,3985,940460
+1/4/2026,Kano,BuildRight Co,Slag Cement,25,270,3410,920700
+1/5/2026,Kaduna,BuildRight Co,White Cement,25,597,2724,1626228
+1/6/2026,Kaduna,StoneWorks Ltd,PPC,25,215,3857,829255
+1/7/2026,Portharcourt,StoneWorks Ltd,Portland Cement,50,275,2779,764225
+1/8/2026,Kaduna,BuildRight Co,Portland Cement,25,721,2275,1640275
+1/9/2026,Portharcourt,Dangote Ltd,Slag Cement,25,116,3465,401940
+1/10/2026,Portharcourt,BuildRight Co,Slag Cement,50,83,3134,260122
+1/11/2026,Lagos,Dangote Ltd,White Cement,25,933,3955,3690015
+1/12/2026,Portharcourt,BuildRight Co,Slag Cement,25,156,3741,583596
+1/13/2026,Lagos,Dangote Ltd,PPC,25,210,2565,538650
+1/14/2026,Portharcourt,StoneWorks Ltd,White Cement,25,450,2956,1330200
+1/15/2026,Lagos,BuildRight Co,Slag Cement,25,461,3868,1783148
+1/16/2026,Portharcourt,BuildRight Co,White Cement,25,70,2276,159320
+1/17/2026,Lagos,BuildRight Co,White Cement,25,983,3570,3509310
+1/18/2026,Abuja,MegaCem,White Cement,25,995,3108,3092460
+1/19/2026,Portharcourt,Dangote Ltd,White Cement,25,827,2284,1888868
+1/20/2026,Kaduna,BuildRight Co,Slag Cement,25,562,3994,2244628
+1/21/2026,Kaduna,BuildRight Co,White Cement,25,582,2737,1592934
+1/22/2026,Portharcourt,Eterna Plc,White Cement,25,910,3872,3523520
+1/23/2026,Portharcourt,Eterna Plc,White Cement,50,595,3820,2272900
+1/24/2026,Portharcourt,Eterna Plc,Portland Cement,25,320,2960,947200
+1/25/2026,Kaduna,MegaCem,PPC,50,76,3365,255740
+1/26/2026,Abuja,StoneWorks Ltd,White Cement,25,808,2255,1822040
+1/27/2026,Kaduna,StoneWorks Ltd,Slag Cement,50,968,3857,3733576
+1/28/2026,Kano,MegaCem,PPC,50,889,3321,2952369
+1/29/2026,Kaduna,MegaCem,PPC,25,610,2181,1330410
+1/30/2026,Kaduna,Eterna Plc,Portland Cement,25,611,3338,2039518
+1/31/2026,Lagos,Dangote Ltd,PPC,50,349,2656,926944
+2/1/2026,Lagos,Dangote Ltd,Slag Cement,50,671,2881,1933151
+2/2/2026,Kaduna,Dangote Ltd,White Cement,50,462,2373,1096326
+2/3/2026,Lagos,Dangote Ltd,Slag Cement,50,628,2455,1541740
+2/4/2026,Lagos,BuildRight Co,Slag Cement,50,919,3130,2876470
+2/5/2026,Kano,BuildRight Co,Slag Cement,50,797,2660,2120020
+2/6/2026,Portharcourt,StoneWorks Ltd,PPC,25,166,3499,580834
+2/7/2026,Kano,BuildRight Co,White Cement,25,460,3684,1694640
+2/8/2026,Lagos,Dangote Ltd,PPC,25,343,3523,1208389
+2/9/2026,Lagos,MegaCem,White Cement,50,431,3943,1699433
+2/10/2026,Portharcourt,Eterna Plc,PPC,50,567,3407,1931769
+2/11/2026,Lagos,Eterna Plc,Portland Cement,50,165,3870,638550
+2/12/2026,Abuja,MegaCem,PPC,50,266,3993,1062138
+2/13/2026,Lagos,MegaCem,PPC,25,812,3220,2614640
+2/14/2026,Kaduna,StoneWorks Ltd,Portland Cement,50,822,2382,1958004
+2/15/2026,Abuja,StoneWorks Ltd,White Cement,50,192,3548,681216
+2/16/2026,Portharcourt,Dangote Ltd,PPC,25,207,3370,697590
+2/17/2026,Abuja,Eterna Plc,White Cement,50,68,2295,156060
+2/18/2026,Kano,StoneWorks Ltd,White Cement,50,667,3443,2296481
+2/19/2026,Lagos,Eterna Plc,Portland Cement,50,480,2450,1176000
+2/20/2026,Kaduna,StoneWorks Ltd,Portland Cement,25,86,2499,214914
+2/21/2026,Kano,Dangote Ltd,PPC,50,955,3118,2977690
+2/22/2026,Lagos,StoneWorks Ltd,Slag Cement,50,604,3358,2028232
+2/23/2026,Portharcourt,MegaCem,White Cement,50,267,3222,860274
+2/24/2026,Kano,Dangote Ltd,PPC,25,239,2654,634306
+2/25/2026,Lagos,Dangote Ltd,Portland Cement,50,510,2888,1472880
+2/26/2026,Abuja,StoneWorks Ltd,Slag Cement,50,231,3717,858627
+2/27/2026,Kano,StoneWorks Ltd,Portland Cement,25,82,3323,272486
+2/28/2026,Kano,MegaCem,Slag Cement,25,747,2072,1547784
+3/1/2026,Kaduna,Dangote Ltd,Slag Cement,25,947,2790,2642130
+3/2/2026,Portharcourt,MegaCem,PPC,25,156,3333,519948
+3/3/2026,Kaduna,BuildRight Co,White Cement,50,257,2834,728338
+3/4/2026,Portharcourt,Eterna Plc,PPC,25,467,2342,1093714
+3/5/2026,Kaduna,Dangote Ltd,PPC,50,400,3212,1284800
+3/6/2026,Abuja,Eterna Plc,Slag Cement,50,459,3204,1470636
+3/7/2026,Lagos,Dangote Ltd,White Cement,25,431,3191,1375321
+3/8/2026,Abuja,BuildRight Co,White Cement,50,282,3838,1082316
+3/9/2026,Abuja,MegaCem,Portland Cement,50,963,2721,2620323
+3/10/2026,Lagos,Eterna Plc,Portland Cement,25,914,3158,2886412
+3/11/2026,Lagos,Dangote Ltd,White Cement,25,877,2853,2502081
+3/12/2026,Kaduna,Eterna Plc,Portland Cement,50,203,3613,733439
+3/13/2026,Kano,MegaCem,Portland Cement,50,51,3788,193188
+3/14/2026,Portharcourt,BuildRight Co,Portland Cement,50,307,3955,1214185
+3/15/2026,Kano,MegaCem,Portland Cement,50,851,2415,2055165
+3/16/2026,Portharcourt,Dangote Ltd,PPC,25,919,3765,3460035
+3/17/2026,Portharcourt,Dangote Ltd,Slag Cement,50,871,3965,3453515
+3/18/2026,Abuja,Dangote Ltd,Slag Cement,25,224,3289,736736
+3/19/2026,Portharcourt,Eterna Plc,PPC,25,852,2389,2035428
+3/20/2026,Abuja,MegaCem,PPC,25,209,3671,767239
+3/21/2026,Kano,MegaCem,Slag Cement,50,781,2910,2272710
+3/22/2026,Kano,BuildRight Co,Slag Cement,25,459,3505,1608795
+3/23/2026,Kano,Eterna Plc,Portland Cement,50,379,2631,997149
+3/24/2026,Lagos,Dangote Ltd,PPC,50,56,2109,118104
+3/25/2026,Kano,Eterna Plc,Portland Cement,25,675,3068,2070900
+3/26/2026,Portharcourt,StoneWorks Ltd,Portland Cement,50,782,2289,1789998
+3/27/2026,Kano,StoneWorks Ltd,PPC,25,920,3239,2979880
+3/28/2026,Portharcourt,StoneWorks Ltd,Portland Cement,25,192,2192,420864
+3/29/2026,Lagos,MegaCem,Portland Cement,25,671,2625,1761375
+3/30/2026,Portharcourt,Eterna Plc,Slag Cement,50,165,2541,419265
+3/31/2026,Kaduna,Dangote Ltd,White Cement,25,501,2960,1482960
+4/1/2026,Lagos,MegaCem,Portland Cement,25,516,3021,1558836
+4/2/2026,Kaduna,BuildRight Co,PPC,25,235,3169,744715
+4/3/2026,Portharcourt,Eterna Plc,White Cement,50,519,2626,1362894
+4/4/2026,Kano,Eterna Plc,Slag Cement,50,668,3331,2225108
+4/5/2026,Lagos,MegaCem,Portland Cement,50,58,2135,123830
+4/6/2026,Kano,BuildRight Co,Slag Cement,25,821,3347,2747887
+4/7/2026,Portharcourt,BuildRight Co,Slag Cement,25,179,3688,660152
+4/8/2026,Kaduna,Dangote Ltd,Portland Cement,50,651,3827,2491377
+4/9/2026,Kano,BuildRight Co,White Cement,50,994,2579,2563526
+4/10/2026,Abuja,BuildRight Co,Portland Cement,50,728,3852,2804256
+4/11/2026,Kano,Dangote Ltd,Slag Cement,50,161,3923,631603
+4/12/2026,Portharcourt,Eterna Plc,Slag Cement,50,66,2713,179058
+4/13/2026,Lagos,BuildRight Co,Slag Cement,50,733,2964,2172612
+4/14/2026,Portharcourt,MegaCem,White Cement,50,642,3721,2388882
+4/15/2026,Kano,Dangote Ltd,Portland Cement,25,277,3724,1031548
+4/16/2026,Portharcourt,Dangote Ltd,White Cement,25,939,2391,2245149
+4/17/2026,Lagos,MegaCem,White Cement,50,650,3328,2163200
+4/18/2026,Portharcourt,StoneWorks Ltd,White Cement,50,414,3945,1633230
+4/19/2026,Kaduna,BuildRight Co,Slag Cement,50,560,3894,2180640
+4/20/2026,Kano,MegaCem,Slag Cement,25,228,3699,843372
+4/21/2026,Lagos,Eterna Plc,Portland Cement,50,838,3649,3057862
+4/22/2026,Kano,BuildRight Co,Portland Cement,25,276,3920,1081920
+4/23/2026,Portharcourt,Eterna Plc,Portland Cement,50,973,3408,3315984
+4/24/2026,Kano,StoneWorks Ltd,Portland Cement,50,393,3971,1560603
+4/25/2026,Abuja,Dangote Ltd,Portland Cement,50,399,3331,1329069
+4/26/2026,Kano,BuildRight Co,Slag Cement,50,586,2125,1245250
+4/27/2026,Portharcourt,BuildRight Co,White Cement,50,780,2334,1820520
+4/28/2026,Abuja,MegaCem,Portland Cement,50,665,2125,1413125
+4/29/2026,Portharcourt,Dangote Ltd,Portland Cement,50,842,2066,1739572
+4/30/2026,Abuja,Eterna Plc,Portland Cement,25,331,2764,914884
+5/1/2026,Lagos,Dangote Ltd,PPC,25,391,3845,1503395
+5/2/2026,Portharcourt,Eterna Plc,PPC,25,487,3129,1523823
+5/3/2026,Lagos,Eterna Plc,Slag Cement,25,654,3613,2362902
+5/4/2026,Abuja,Eterna Plc,White Cement,50,863,3681,3176703
+5/5/2026,Kaduna,Eterna Plc,PPC,25,340,3859,1312060
+5/6/2026,Abuja,MegaCem,Portland Cement,25,689,3672,2530008
+5/7/2026,Portharcourt,MegaCem,Portland Cement,50,271,3137,850127
+5/8/2026,Kaduna,Dangote Ltd,PPC,25,84,3606,302904
+5/9/2026,Kano,MegaCem,Portland Cement,25,733,3749,2748017
+5/10/2026,Abuja,BuildRight Co,White Cement,50,123,3724,458052
+5/11/2026,Kano,BuildRight Co,PPC,25,75,2160,162000
+5/12/2026,Kano,Eterna Plc,Slag Cement,50,403,2187,881361
+5/13/2026,Lagos,Dangote Ltd,White Cement,50,160,2784,445440
+5/14/2026,Kano,StoneWorks Ltd,Slag Cement,50,262,2805,734910
+5/15/2026,Kaduna,Eterna Plc,White Cement,25,235,2268,532980
+5/16/2026,Kano,Dangote Ltd,White Cement,25,599,2657,1591543
+5/17/2026,Kaduna,BuildRight Co,PPC,25,131,3302,432562
+5/18/2026,Portharcourt,Eterna Plc,Slag Cement,25,826,3771,3114846
+5/19/2026,Abuja,Eterna Plc,Portland Cement,50,496,3330,1651680
+5/20/2026,Kano,MegaCem,White Cement,25,770,2186,1683220
+5/21/2026,Kaduna,Dangote Ltd,PPC,25,316,3069,969804
+5/22/2026,Kaduna,StoneWorks Ltd,White Cement,25,953,3200,3049600
+5/23/2026,Kano,StoneWorks Ltd,Portland Cement,25,327,2312,756024
+5/24/2026,Kano,StoneWorks Ltd,Slag Cement,25,423,2317,980091
+5/25/2026,Abuja,MegaCem,Portland Cement,50,800,3632,2905600
+5/26/2026,Kano,Dangote Ltd,Portland Cement,25,795,3382,2688690
+5/27/2026,Lagos,StoneWorks Ltd,Portland Cement,25,246,2640,649440
+5/28/2026,Kaduna,Eterna Plc,PPC,25,863,2624,2264512
+5/29/2026,Kano,Eterna Plc,Portland Cement,50,624,3188,1989312
+5/30/2026,Lagos,BuildRight Co,White Cement,25,559,2012,1124708
+5/31/2026,Kano,BuildRight Co,White Cement,50,819,2356,1929564
+6/1/2026,Lagos,BuildRight Co,White Cement,50,467,3224,1505608
+6/2/2026,Portharcourt,Dangote Ltd,PPC,25,599,2985,1788015
+6/3/2026,Abuja,Eterna Plc,PPC,50,578,3124,1805672
+6/4/2026,Lagos,BuildRight Co,Slag Cement,50,787,3840,3022080
+6/5/2026,Lagos,StoneWorks Ltd,PPC,25,703,3191,2243273
+6/6/2026,Abuja,Eterna Plc,White Cement,25,760,2310,1755600
+6/7/2026,Kaduna,BuildRight Co,Portland Cement,25,807,3971,3204597
+6/8/2026,Abuja,StoneWorks Ltd,White Cement,25,800,2969,2375200
+6/9/2026,Kaduna,Eterna Plc,White Cement,50,374,3479,1301146
+6/10/2026,Kano,StoneWorks Ltd,White Cement,50,96,2964,284544
+6/11/2026,Lagos,Dangote Ltd,White Cement,25,741,2028,1502748
+6/12/2026,Kano,Eterna Plc,PPC,25,840,2448,2056320
+6/13/2026,Kano,BuildRight Co,White Cement,50,456,2211,1008216
+6/14/2026,Portharcourt,StoneWorks Ltd,White Cement,50,148,3338,494024
+6/15/2026,Lagos,BuildRight Co,White Cement,50,999,3351,3347649
+6/16/2026,Portharcourt,MegaCem,White Cement,50,491,3328,1634048
+6/17/2026,Kaduna,MegaCem,Portland Cement,50,345,2455,846975
+6/18/2026,Kaduna,BuildRight Co,White Cement,25,367,3474,1274958
+6/19/2026,Portharcourt,Eterna Plc,Portland Cement,25,166,3662,607892
+6/20/2026,Lagos,StoneWorks Ltd,Slag Cement,25,653,3158,2062174
+6/21/2026,Kaduna,MegaCem,Slag Cement,50,611,2548,1556828
+6/22/2026,Lagos,Eterna Plc,Portland Cement,25,660,3066,2023560
+6/23/2026,Abuja,Eterna Plc,Slag Cement,25,284,2617,743228
+6/24/2026,Kano,BuildRight Co,Slag Cement,25,199,2472,491928
+6/25/2026,Lagos,StoneWorks Ltd,PPC,25,152,3319,504488
+6/26/2026,Portharcourt,BuildRight Co,White Cement,50,798,2274,1814652
+6/27/2026,Kano,Dangote Ltd,White Cement,50,486,3663,1780218
+6/28/2026,Lagos,MegaCem,PPC,50,576,2286,1316736
+6/29/2026,Portharcourt,StoneWorks Ltd,Portland Cement,50,395,3608,1425160
+6/30/2026,Kaduna,Dangote Ltd,Slag Cement,25,161,2657,427777
+7/1/2026,Kano,StoneWorks Ltd,Portland Cement,25,540,2477,1337580
+7/2/2026,Kano,Eterna Plc,PPC,25,858,3011,2583438
+7/3/2026,Portharcourt,StoneWorks Ltd,Portland Cement,25,788,3703,2917964
+7/4/2026,Abuja,StoneWorks Ltd,Slag Cement,25,867,3950,3424650
+7/5/2026,Kano,StoneWorks Ltd,PPC,50,349,3006,1049094
+7/6/2026,Abuja,Dangote Ltd,Slag Cement,25,468,2957,1383876
+7/7/2026,Kaduna,BuildRight Co,White Cement,25,262,3379,885298
+7/8/2026,Kano,MegaCem,Portland Cement,25,898,2753,2472194
+7/9/2026,Portharcourt,Dangote Ltd,Portland Cement,50,821,3044,2499124
+7/10/2026,Kaduna,BuildRight Co,PPC,25,219,2855,625245
+7/11/2026,Kano,MegaCem,PPC,25,627,2332,1462164
+7/12/2026,Abuja,BuildRight Co,White Cement,50,952,3263,3106376
+7/13/2026,Lagos,Dangote Ltd,PPC,50,923,3350,3092050
+7/14/2026,Abuja,Eterna Plc,PPC,25,393,2287,898791
+7/15/2026,Lagos,MegaCem,Portland Cement,50,847,3841,3253327
+7/16/2026,Portharcourt,StoneWorks Ltd,PPC,50,736,2122,1561792
+7/17/2026,Kaduna,Eterna Plc,White Cement,25,208,2331,484848
+7/18/2026,Lagos,StoneWorks Ltd,Slag Cement,50,278,2250,625500
+7/19/2026,Kaduna,Dangote Ltd,PPC,50,703,3614,2540642
+7/20/2026,Kaduna,Eterna Plc,White Cement,25,556,2719,1511764
+7/21/2026,Lagos,MegaCem,PPC,25,76,3151,239476
+7/22/2026,Abuja,Dangote Ltd,White Cement,50,545,2688,1464960
+7/23/2026,Kaduna,MegaCem,White Cement,25,229,2515,575935
+7/24/2026,Abuja,MegaCem,Slag Cement,50,471,2748,1294308
+7/25/2026,Lagos,Dangote Ltd,Slag Cement,50,333,3553,1183149
+7/26/2026,Lagos,Dangote Ltd,Slag Cement,50,126,3522,443772
+7/27/2026,Portharcourt,BuildRight Co,Portland Cement,25,808,2493,2014344
+7/28/2026,Portharcourt,Dangote Ltd,Portland Cement,25,584,2350,1372400
+7/29/2026,Portharcourt,MegaCem,White Cement,50,127,2276,289052
+7/30/2026,Kano,Eterna Plc,PPC,50,442,2673,1181466
+7/31/2026,Portharcourt,MegaCem,Slag Cement,25,673,3413,2296949
+8/1/2026,Lagos,MegaCem,White Cement,50,416,2671,1111136
+8/2/2026,Kano,StoneWorks Ltd,Portland Cement,50,308,3314,1020712
+8/3/2026,Kano,BuildRight Co,Slag Cement,25,146,3480,508080
+8/4/2026,Lagos,BuildRight Co,White Cement,50,662,2899,1919138
+8/5/2026,Kano,Eterna Plc,PPC,25,416,3580,1489280
+8/6/2026,Kaduna,MegaCem,White Cement,50,901,2320,2090320
+8/7/2026,Abuja,Eterna Plc,Slag Cement,25,721,3385,2440585
+8/8/2026,Abuja,StoneWorks Ltd,White Cement,50,210,3505,736050
+8/9/2026,Lagos,BuildRight Co,White Cement,50,134,3181,426254
+8/10/2026,Abuja,MegaCem,White Cement,25,402,2033,817266
+8/11/2026,Kano,BuildRight Co,PPC,25,61,3346,204106
+8/12/2026,Kaduna,Dangote Ltd,PPC,25,669,2653,1774857
+8/13/2026,Abuja,MegaCem,PPC,50,979,2089,2045131
+8/14/2026,Portharcourt,BuildRight Co,Portland Cement,50,340,2032,690880
+8/15/2026,Kaduna,Eterna Plc,PPC,25,567,2505,1420335
+8/16/2026,Portharcourt,Eterna Plc,Slag Cement,50,877,3154,2766058
+8/17/2026,Kano,BuildRight Co,PPC,50,657,2703,1775871
+8/18/2026,Lagos,BuildRight Co,Portland Cement,50,608,2143,1302944
+8/19/2026,Abuja,BuildRight Co,Portland Cement,50,426,2752,1172352
+8/20/2026,Kaduna,MegaCem,White Cement,25,947,3345,3167715
+8/21/2026,Kaduna,BuildRight Co,Slag Cement,50,403,3480,1402440
+8/22/2026,Kano,MegaCem,Portland Cement,50,176,2504,440704
+8/23/2026,Kano,StoneWorks Ltd,Slag Cement,25,690,2168,1495920
+8/24/2026,Kaduna,BuildRight Co,Slag Cement,25,600,3862,2317200
+8/25/2026,Kano,StoneWorks Ltd,Slag Cement,25,264,2557,675048
+8/26/2026,Portharcourt,StoneWorks Ltd,Slag Cement,50,235,3450,810750
+8/27/2026,Kano,StoneWorks Ltd,White Cement,25,92,2360,217120
+8/28/2026,Kaduna,BuildRight Co,Slag Cement,50,375,3911,1466625
+8/29/2026,Kaduna,MegaCem,Slag Cement,50,154,2784,428736
+8/30/2026,Lagos,MegaCem,Portland Cement,50,539,2245,1210055
+8/31/2026,Portharcourt,Dangote Ltd,White Cement,50,95,3439,326705
+9/1/2026,Kano,StoneWorks Ltd,Portland Cement,50,865,2000,1730000
+9/2/2026,Kaduna,BuildRight Co,Portland Cement,25,988,3039,3002532
+9/3/2026,Kaduna,StoneWorks Ltd,Slag Cement,25,799,3709,2963491
+9/4/2026,Abuja,BuildRight Co,Slag Cement,50,894,2909,2600646
+9/5/2026,Kano,Eterna Plc,Portland Cement,25,280,2164,605920
+9/6/2026,Lagos,BuildRight Co,PPC,25,617,3100,1912700
+9/7/2026,Abuja,Eterna Plc,White Cement,25,564,3512,1980768
+9/8/2026,Abuja,Eterna Plc,Slag Cement,50,482,3191,1538062
+9/9/2026,Abuja,BuildRight Co,Slag Cement,50,835,2840,2371400
+9/10/2026,Lagos,StoneWorks Ltd,PPC,25,883,2546,2248118
+9/11/2026,Kano,Eterna Plc,Portland Cement,50,609,2509,1527981
+9/12/2026,Lagos,Eterna Plc,PPC,25,110,3605,396550
+9/13/2026,Lagos,MegaCem,White Cement,50,918,2526,2318868
+9/14/2026,Abuja,Dangote Ltd,PPC,25,534,3284,1753656
+9/15/2026,Lagos,Dangote Ltd,White Cement,50,249,3981,991269
+9/16/2026,Lagos,Dangote Ltd,Slag Cement,25,183,2645,484035
+9/17/2026,Kaduna,Dangote Ltd,White Cement,50,208,3961,823888
+9/18/2026,Kaduna,StoneWorks Ltd,White Cement,25,616,2325,1432200
+9/19/2026,Abuja,StoneWorks Ltd,PPC,50,304,3923,1192592
+9/20/2026,Lagos,MegaCem,White Cement,25,653,2736,1786608
+9/21/2026,Abuja,MegaCem,Portland Cement,50,348,2501,870348
+9/22/2026,Lagos,Eterna Plc,White Cement,25,549,2260,1240740
+9/23/2026,Kano,MegaCem,Portland Cement,25,346,3433,1187818
+9/24/2026,Kaduna,StoneWorks Ltd,Portland Cement,25,265,3683,975995
+9/25/2026,Portharcourt,MegaCem,Slag Cement,25,123,3797,467031
+9/26/2026,Lagos,MegaCem,White Cement,50,312,3467,1081704
+9/27/2026,Kaduna,Eterna Plc,Portland Cement,50,660,2348,1549680
+9/28/2026,Abuja,BuildRight Co,White Cement,50,472,3935,1857320
+9/29/2026,Kaduna,BuildRight Co,Portland Cement,50,693,3424,2372832
+9/30/2026,Kaduna,Eterna Plc,PPC,25,772,2484,1917648
+10/1/2026,Portharcourt,MegaCem,Portland Cement,50,836,2351,1965436
+10/2/2026,Abuja,Dangote Ltd,Portland Cement,50,761,3086,2348446
+10/3/2026,Abuja,StoneWorks Ltd,PPC,25,699,3950,2761050
+10/4/2026,Portharcourt,BuildRight Co,Slag Cement,25,735,2357,1732395
+10/5/2026,Portharcourt,Eterna Plc,Portland Cement,25,867,3552,3079584
+10/6/2026,Kaduna,MegaCem,Portland Cement,25,865,2103,1819095
+10/7/2026,Kaduna,BuildRight Co,Portland Cement,25,451,3857,1739507
+10/8/2026,Kano,Eterna Plc,Slag Cement,50,968,2788,2698784
+10/9/2026,Kaduna,StoneWorks Ltd,Slag Cement,50,482,2152,1037264
+10/10/2026,Kano,MegaCem,Portland Cement,50,546,2393,1306578
+10/11/2026,Portharcourt,MegaCem,PPC,25,212,3478,737336
+10/12/2026,Portharcourt,Dangote Ltd,White Cement,25,311,2468,767548
+10/13/2026,Kaduna,StoneWorks Ltd,White Cement,50,552,3211,1772472
+10/14/2026,Kaduna,StoneWorks Ltd,Portland Cement,25,195,3601,702195
+10/15/2026,Kaduna,Eterna Plc,White Cement,50,823,2333,1920059
+10/16/2026,Kano,StoneWorks Ltd,PPC,50,101,2517,254217
+10/17/2026,Abuja,MegaCem,Portland Cement,50,931,3873,3605763
+10/18/2026,Portharcourt,BuildRight Co,Slag Cement,25,140,2468,345520
+10/19/2026,Kano,MegaCem,PPC,50,111,2517,279387
+10/20/2026,Portharcourt,Eterna Plc,White Cement,50,502,3534,1774068
+10/21/2026,Lagos,StoneWorks Ltd,Portland Cement,50,896,3527,3160192
+10/22/2026,Kaduna,Eterna Plc,White Cement,25,319,2208,704352
+10/23/2026,Kaduna,BuildRight Co,White Cement,25,729,3793,2765097
+10/24/2026,Kano,MegaCem,Portland Cement,25,237,2264,536568
+10/25/2026,Portharcourt,BuildRight Co,PPC,25,399,2006,800394
+10/26/2026,Kano,BuildRight Co,Portland Cement,50,987,3906,3855222
+10/27/2026,Abuja,MegaCem,Slag Cement,25,808,2626,2121808
+10/28/2026,Portharcourt,BuildRight Co,PPC,50,315,3725,1173375
+10/29/2026,Portharcourt,MegaCem,Portland Cement,50,948,3616,3427968
+10/30/2026,Kaduna,BuildRight Co,White Cement,25,225,3518,791550
+10/31/2026,Kano,Dangote Ltd,PPC,25,869,3323,2887687
+11/1/2026,Kano,BuildRight Co,PPC,25,831,3130,2601030
+11/2/2026,Kaduna,StoneWorks Ltd,White Cement,25,91,2523,229593
+11/3/2026,Kaduna,BuildRight Co,White Cement,50,461,2536,1169096
+11/4/2026,Portharcourt,MegaCem,Portland Cement,50,854,2501,2135854
+11/5/2026,Lagos,BuildRight Co,White Cement,50,127,2061,261747
+11/6/2026,Portharcourt,BuildRight Co,PPC,25,282,2860,806520
+11/7/2026,Portharcourt,Eterna Plc,Portland Cement,25,686,3311,2271346
+11/8/2026,Kaduna,Eterna Plc,White Cement,25,644,2552,1643488
+11/9/2026,Kaduna,Dangote Ltd,Portland Cement,25,712,3694,2630128
+11/10/2026,Lagos,Dangote Ltd,White Cement,25,511,2205,1126755
+11/11/2026,Kano,Dangote Ltd,Slag Cement,50,408,3125,1275000
+11/12/2026,Kano,BuildRight Co,PPC,50,905,3359,3039895
+11/13/2026,Portharcourt,MegaCem,Slag Cement,50,899,3417,3071883
+11/14/2026,Abuja,StoneWorks Ltd,Portland Cement,25,801,3352,2684952
+11/15/2026,Portharcourt,StoneWorks Ltd,PPC,50,69,2244,154836
+11/16/2026,Abuja,MegaCem,Portland Cement,50,545,2375,1294375
+11/17/2026,Lagos,StoneWorks Ltd,Portland Cement,50,646,2180,1408280
+11/18/2026,Abuja,StoneWorks Ltd,PPC,50,839,2654,2226706
+11/19/2026,Abuja,MegaCem,White Cement,50,614,2367,1453338
+11/20/2026,Kaduna,Dangote Ltd,White Cement,25,933,3887,3626571
+11/21/2026,Lagos,Eterna Plc,PPC,25,282,2939,828798
+11/22/2026,Kaduna,BuildRight Co,Portland Cement,50,314,2491,782174
+11/23/2026,Lagos,Dangote Ltd,Portland Cement,50,881,3773,3324013
+11/24/2026,Abuja,BuildRight Co,PPC,50,983,2589,2544987
+11/25/2026,Kaduna,BuildRight Co,Portland Cement,50,907,3241,2939587
+11/26/2026,Lagos,BuildRight Co,Portland Cement,50,957,3601,3446157
+11/27/2026,Portharcourt,Eterna Plc,Slag Cement,50,762,3771,2873502
+11/28/2026,Kano,Eterna Plc,Portland Cement,50,95,3577,339815
+11/29/2026,Kano,MegaCem,White Cement,25,494,3507,1732458
+11/30/2026,Lagos,BuildRight Co,White Cement,25,353,3760,1327280
+12/1/2026,Portharcourt,BuildRight Co,Portland Cement,25,301,2304,693504
+12/2/2026,Kaduna,MegaCem,Slag Cement,25,686,3770,2586220
+12/3/2026,Lagos,MegaCem,Slag Cement,50,479,2372,1136188
+12/4/2026,Abuja,Dangote Ltd,Portland Cement,25,187,3505,655435
+12/5/2026,Portharcourt,StoneWorks Ltd,PPC,50,691,2285,1578935
+12/6/2026,Portharcourt,Dangote Ltd,White Cement,50,311,2612,812332
+12/7/2026,Portharcourt,StoneWorks Ltd,White Cement,25,795,3282,2609190
+12/8/2026,Lagos,BuildRight Co,Portland Cement,25,825,3483,2873475
+12/9/2026,Kano,StoneWorks Ltd,Portland Cement,25,953,3853,3671909
+12/10/2026,Kano,Dangote Ltd,Portland Cement,50,471,3306,1557126
+12/11/2026,Lagos,Eterna Plc,White Cement,50,973,3212,3125276
+12/12/2026,Kaduna,StoneWorks Ltd,White Cement,50,755,2472,1866360
+12/13/2026,Abuja,Eterna Plc,PPC,25,865,3913,3384745
+12/14/2026,Kaduna,Dangote Ltd,Portland Cement,25,996,3199,3186204
+12/15/2026,Kano,Dangote Ltd,PPC,25,651,2090,1360590
+12/16/2026,Portharcourt,StoneWorks Ltd,PPC,25,524,2284,1196816
+12/17/2026,Kaduna,BuildRight Co,Portland Cement,50,959,3817,3660503
+12/18/2026,Kaduna,Dangote Ltd,Slag Cement,50,127,3753,476631
+12/19/2026,Abuja,Eterna Plc,Portland Cement,50,913,2739,2500707
+12/20/2026,Kaduna,Eterna Plc,White Cement,50,680,2272,1544960
+12/21/2026,Kaduna,Dangote Ltd,Portland Cement,25,521,2525,1315525
+12/22/2026,Portharcourt,Eterna Plc,White Cement,25,297,2818,836946
+12/23/2026,Lagos,MegaCem,PPC,25,96,2193,210528
+12/24/2026,Abuja,StoneWorks Ltd,Slag Cement,50,242,2457,594594
+12/25/2026,Lagos,Eterna Plc,PPC,50,680,3231,2197080
+12/26/2026,Lagos,Eterna Plc,PPC,25,969,3658,3544602
+12/27/2026,Portharcourt,Dangote Ltd,Portland Cement,25,906,2898,2625588
+12/28/2026,Portharcourt,Dangote Ltd,White Cement,25,93,3877,360561
+12/29/2026,Kaduna,MegaCem,White Cement,25,247,2876,710372
+12/30/2026,Portharcourt,BuildRight Co,White Cement,50,430,2046,879780
+12/31/2026,Portharcourt,Eterna Plc,White Cement,50,507,3379,1713153
+1/1/2027,Kaduna,MegaCem,Slag Cement,25,646,3841,2481286
+1/2/2027,Kano,MegaCem,PPC,50,597,3907,2332479
+1/3/2027,Lagos,Dangote Ltd,Portland Cement,50,339,3683,1248537
+1/4/2027,Lagos,Dangote Ltd,PPC,50,996,3531,3516876
+1/5/2027,Portharcourt,BuildRight Co,Slag Cement,25,177,2290,405330
+1/6/2027,Kano,Eterna Plc,PPC,50,767,2791,2140697
+1/7/2027,Portharcourt,StoneWorks Ltd,PPC,25,90,3075,276750
+1/8/2027,Abuja,BuildRight Co,White Cement,25,263,3760,988880
+1/9/2027,Lagos,BuildRight Co,Slag Cement,50,773,2627,2030671
+1/10/2027,Kaduna,StoneWorks Ltd,Slag Cement,50,606,2349,1423494
+1/11/2027,Kano,BuildRight Co,Portland Cement,50,228,2846,648888
+1/12/2027,Kano,Dangote Ltd,White Cement,25,685,2123,1454255
+1/13/2027,Kaduna,StoneWorks Ltd,White Cement,50,364,2317,843388
+1/14/2027,Kano,StoneWorks Ltd,Slag Cement,50,246,3875,953250
+1/15/2027,Kano,MegaCem,Slag Cement,25,455,2825,1285375
+1/16/2027,Kaduna,Dangote Ltd,PPC,50,773,2738,2116474
+1/17/2027,Abuja,MegaCem,Slag Cement,50,365,3165,1155225
+1/18/2027,Abuja,StoneWorks Ltd,Slag Cement,50,156,2982,465192
+1/19/2027,Lagos,Dangote Ltd,PPC,50,150,2991,448650
+1/20/2027,Abuja,StoneWorks Ltd,Portland Cement,50,765,2946,2253690
+1/21/2027,Lagos,Dangote Ltd,Slag Cement,50,463,3931,1820053
+1/22/2027,Portharcourt,MegaCem,Slag Cement,25,301,2369,713069
+1/23/2027,Kano,Dangote Ltd,Slag Cement,25,825,3998,3298350
+1/24/2027,Kaduna,MegaCem,White Cement,50,934,2421,2261214
+1/25/2027,Kano,MegaCem,Portland Cement,50,823,2462,2026226
+1/26/2027,Portharcourt,StoneWorks Ltd,White Cement,25,936,2989,2797704
+1/27/2027,Abuja,StoneWorks Ltd,PPC,50,330,2171,716430
+1/28/2027,Abuja,Eterna Plc,White Cement,25,816,2116,1726656
+1/29/2027,Kaduna,Eterna Plc,Portland Cement,25,343,2008,688744
+1/30/2027,Kano,Eterna Plc,PPC,25,429,3321,1424709
+1/31/2027,Portharcourt,Dangote Ltd,PPC,50,648,3248,2104704
+2/1/2027,Kaduna,StoneWorks Ltd,Portland Cement,50,951,3273,3112623
+2/2/2027,Abuja,BuildRight Co,White Cement,25,117,2508,293436
+2/3/2027,Abuja,BuildRight Co,White Cement,25,681,3477,2367837
+2/4/2027,Abuja,StoneWorks Ltd,Slag Cement,50,673,3481,2342713
+2/5/2027,Kano,Dangote Ltd,Portland Cement,50,611,3520,2150720
+2/6/2027,Kano,Eterna Plc,PPC,25,446,3045,1358070
+2/7/2027,Kano,Dangote Ltd,White Cement,25,755,2227,1681385
+2/8/2027,Kaduna,BuildRight Co,White Cement,25,766,3817,2923822
+2/9/2027,Abuja,BuildRight Co,Slag Cement,50,539,3149,1697311
+2/10/2027,Portharcourt,Dangote Ltd,Portland Cement,50,538,3638,1957244
+2/11/2027,Abuja,BuildRight Co,PPC,50,850,2536,2155600
+2/12/2027,Lagos,BuildRight Co,Slag Cement,50,126,2888,363888
+2/13/2027,Abuja,Eterna Plc,Portland Cement,25,222,3842,852924
+2/14/2027,Abuja,Dangote Ltd,PPC,25,496,3194,1584224
+2/15/2027,Portharcourt,Dangote Ltd,Portland Cement,25,592,2027,1199984
+2/16/2027,Kano,Dangote Ltd,Slag Cement,50,285,3496,996360
+2/17/2027,Portharcourt,MegaCem,White Cement,25,774,3215,2488410
+2/18/2027,Abuja,Dangote Ltd,Portland Cement,50,893,2019,1802967
+2/19/2027,Lagos,Eterna Plc,White Cement,25,739,2349,1735911
+2/20/2027,Kano,BuildRight Co,Slag Cement,25,297,3655,1085535
+2/21/2027,Kano,MegaCem,Portland Cement,25,456,3468,1581408
+2/22/2027,Portharcourt,BuildRight Co,Slag Cement,50,753,2826,2127978
+2/23/2027,Abuja,Dangote Ltd,Slag Cement,50,448,3007,1347136
+2/24/2027,Kano,MegaCem,Slag Cement,25,280,2162,605360
+2/25/2027,Kaduna,Dangote Ltd,Portland Cement,50,139,3454,480106
+2/26/2027,Lagos,StoneWorks Ltd,Portland Cement,25,701,2262,1585662
+2/27/2027,Kaduna,MegaCem,PPC,50,200,2177,435400
+2/28/2027,Kano,BuildRight Co,Slag Cement,25,50,2904,145200
+3/1/2027,Abuja,BuildRight Co,White Cement,50,138,3667,506046
+3/2/2027,Abuja,Dangote Ltd,White Cement,25,833,3904,3252032
+3/3/2027,Portharcourt,MegaCem,PPC,50,287,2975,853825
+3/4/2027,Lagos,StoneWorks Ltd,Slag Cement,50,868,2641,2292388
+3/5/2027,Abuja,Dangote Ltd,Slag Cement,50,159,3153,501327
+3/6/2027,Abuja,StoneWorks Ltd,Slag Cement,25,669,3412,2282628
+3/7/2027,Portharcourt,Dangote Ltd,Slag Cement,25,190,3914,743660
+3/8/2027,Abuja,Eterna Plc,Portland Cement,50,834,2322,1936548
+3/9/2027,Abuja,StoneWorks Ltd,PPC,50,862,2498,2153276
+3/10/2027,Kano,Dangote Ltd,PPC,50,918,2941,2699838
+3/11/2027,Lagos,Eterna Plc,White Cement,25,449,2926,1313774
+3/12/2027,Lagos,StoneWorks Ltd,Slag Cement,25,316,2478,783048
+3/13/2027,Abuja,StoneWorks Ltd,Slag Cement,50,648,2686,1740528
+3/14/2027,Kaduna,BuildRight Co,Slag Cement,50,303,3423,1037169
+3/15/2027,Kaduna,Eterna Plc,Slag Cement,25,549,2192,1203408
+3/16/2027,Abuja,BuildRight Co,Slag Cement,50,230,3294,757620
+3/17/2027,Kaduna,StoneWorks Ltd,White Cement,50,616,2414,1487024
+3/18/2027,Kaduna,BuildRight Co,Portland Cement,50,586,2844,1666584
+3/19/2027,Lagos,MegaCem,White Cement,25,571,3500,1998500
+3/20/2027,Lagos,Dangote Ltd,White Cement,25,127,3910,496570
+3/21/2027,Lagos,Eterna Plc,White Cement,25,419,3684,1543596
+3/22/2027,Kano,Dangote Ltd,White Cement,25,625,3960,2475000
+3/23/2027,Portharcourt,StoneWorks Ltd,Portland Cement,25,424,2080,881920
+3/24/2027,Kaduna,BuildRight Co,White Cement,25,215,3761,808615
+3/25/2027,Abuja,StoneWorks Ltd,PPC,50,358,3227,1155266
+3/26/2027,Lagos,MegaCem,Portland Cement,25,222,2135,473970
+3/27/2027,Lagos,Eterna Plc,PPC,25,452,3645,1647540
+3/28/2027,Kano,BuildRight Co,White Cement,50,998,3628,3620744
+3/29/2027,Abuja,StoneWorks Ltd,Slag Cement,25,373,2314,863122
+3/30/2027,Lagos,Eterna Plc,Portland Cement,50,744,2720,2023680
+3/31/2027,Lagos,StoneWorks Ltd,Portland Cement,25,708,2126,1505208
+4/1/2027,Portharcourt,StoneWorks Ltd,Portland Cement,50,383,2148,822684
+4/2/2027,Lagos,MegaCem,Slag Cement,50,654,2620,1713480
+4/3/2027,Lagos,StoneWorks Ltd,PPC,25,106,3266,346196
+4/4/2027,Kano,Eterna Plc,PPC,25,845,2882,2435290
+4/5/2027,Lagos,MegaCem,PPC,25,530,3147,1667910
+4/6/2027,Abuja,StoneWorks Ltd,White Cement,50,305,3870,1180350
+4/7/2027,Kano,Eterna Plc,Portland Cement,50,931,2284,2126404
+4/8/2027,Abuja,StoneWorks Ltd,White Cement,50,510,2387,1217370
+4/9/2027,Abuja,Dangote Ltd,PPC,25,326,3819,1244994
+4/10/2027,Lagos,Eterna Plc,Portland Cement,25,716,2640,1890240
+4/11/2027,Portharcourt,Eterna Plc,Slag Cement,25,261,3431,895491
+4/12/2027,Kano,StoneWorks Ltd,Portland Cement,50,907,3185,2888795
+4/13/2027,Kano,StoneWorks Ltd,White Cement,25,182,3372,613704
+4/14/2027,Kano,Eterna Plc,Portland Cement,50,867,3986,3455862
+4/15/2027,Lagos,Eterna Plc,Portland Cement,25,365,3999,1459635
+4/16/2027,Lagos,Dangote Ltd,White Cement,50,137,2038,279206
+4/17/2027,Kaduna,Eterna Plc,White Cement,50,178,2022,359916
+4/18/2027,Abuja,Dangote Ltd,Slag Cement,25,942,3850,3626700
+4/19/2027,Lagos,BuildRight Co,Portland Cement,25,334,2687,897458
+4/20/2027,Kaduna,MegaCem,PPC,50,575,3691,2122325
+4/21/2027,Abuja,Dangote Ltd,PPC,50,176,2407,423632
+4/22/2027,Kano,BuildRight Co,White Cement,50,937,2328,2181336
+4/23/2027,Portharcourt,Dangote Ltd,PPC,50,828,2872,2378016
+4/24/2027,Kano,MegaCem,Portland Cement,50,223,2281,508663
+4/25/2027,Portharcourt,MegaCem,PPC,50,958,2194,2101852
+4/26/2027,Kano,Eterna Plc,PPC,50,57,3690,210330
+4/27/2027,Kaduna,Eterna Plc,Slag Cement,25,976,3273,3194448
+4/28/2027,Kano,BuildRight Co,White Cement,50,178,2714,483092
+4/29/2027,Lagos,Eterna Plc,Slag Cement,50,184,3490,642160
+4/30/2027,Abuja,BuildRight Co,Slag Cement,50,936,3753,3512808
+5/1/2027,Lagos,Eterna Plc,PPC,50,66,2053,135498
+5/2/2027,Abuja,BuildRight Co,White Cement,50,624,2511,1566864
+5/3/2027,Lagos,BuildRight Co,Slag Cement,25,546,3033,1656018
+5/4/2027,Abuja,Eterna Plc,White Cement,25,773,2451,1894623
+5/5/2027,Kano,MegaCem,Slag Cement,25,64,2988,191232
+5/6/2027,Kaduna,BuildRight Co,Portland Cement,50,377,3836,1446172
+5/7/2027,Abuja,MegaCem,White Cement,50,893,3697,3301421
+5/8/2027,Kaduna,BuildRight Co,Slag Cement,50,393,3235,1271355
+5/9/2027,Lagos,StoneWorks Ltd,White Cement,50,795,3287,2613165
+5/10/2027,Portharcourt,Dangote Ltd,Slag Cement,25,370,3590,1328300
+5/11/2027,Lagos,Dangote Ltd,Portland Cement,25,369,2987,1102203
+5/12/2027,Portharcourt,Eterna Plc,White Cement,25,188,2409,452892
+5/13/2027,Portharcourt,Eterna Plc,White Cement,50,393,2166,851238
+5/14/2027,Lagos,Eterna Plc,PPC,25,852,2375,2023500
+5/15/2027,Abuja,MegaCem,White Cement,25,397,2573,1021481
+5/16/2027,Portharcourt,StoneWorks Ltd,Portland Cement,50,165,3394,560010
+5/17/2027,Lagos,StoneWorks Ltd,Slag Cement,50,50,2232,111600
+5/18/2027,Portharcourt,Dangote Ltd,Portland Cement,25,298,3559,1060582
+5/19/2027,Kaduna,StoneWorks Ltd,Slag Cement,50,146,3163,461798
+5/20/2027,Portharcourt,Dangote Ltd,Slag Cement,25,674,3791,2555134
+5/21/2027,Kaduna,Eterna Plc,Slag Cement,50,617,3448,2127416
+5/22/2027,Abuja,Dangote Ltd,White Cement,25,168,3753,630504
+5/23/2027,Kano,Eterna Plc,Portland Cement,25,250,2661,665250
+5/24/2027,Portharcourt,Eterna Plc,Slag Cement,50,726,2205,1600830
+5/25/2027,Lagos,Dangote Ltd,Slag Cement,50,784,2995,2348080
+5/26/2027,Abuja,StoneWorks Ltd,PPC,25,425,3823,1624775
+5/27/2027,Lagos,StoneWorks Ltd,Portland Cement,25,502,2358,1183716
+5/28/2027,Kano,Eterna Plc,Portland Cement,25,78,2414,188292
+5/29/2027,Kano,MegaCem,White Cement,50,724,3455,2501420
+5/30/2027,Kaduna,StoneWorks Ltd,PPC,50,237,3546,840402
+5/31/2027,Portharcourt,Dangote Ltd,Slag Cement,25,362,3191,1155142
+6/1/2027,Kano,BuildRight Co,Slag Cement,25,338,2720,919360
+6/2/2027,Portharcourt,Eterna Plc,PPC,25,753,2589,1949517
+6/3/2027,Portharcourt,Dangote Ltd,Portland Cement,50,983,2138,2101654
+6/4/2027,Lagos,BuildRight Co,Portland Cement,50,153,2837,434061
+6/5/2027,Lagos,Dangote Ltd,PPC,50,238,3652,869176
+6/6/2027,Lagos,MegaCem,White Cement,50,873,3565,3112245
+6/7/2027,Abuja,StoneWorks Ltd,White Cement,25,502,2897,1454294
+6/8/2027,Kano,StoneWorks Ltd,PPC,25,914,3099,2832486
+6/9/2027,Abuja,StoneWorks Ltd,Slag Cement,50,979,3695,3617405
+6/10/2027,Lagos,BuildRight Co,PPC,50,781,3630,2835030
+6/11/2027,Kaduna,Dangote Ltd,White Cement,50,491,3393,1665963
+6/12/2027,Kaduna,Dangote Ltd,White Cement,25,828,3846,3184488
+6/13/2027,Portharcourt,MegaCem,PPC,25,143,2611,373373
+6/14/2027,Abuja,BuildRight Co,White Cement,50,944,3372,3183168
+6/15/2027,Kaduna,BuildRight Co,Portland Cement,50,284,3641,1034044
+6/16/2027,Kaduna,Dangote Ltd,White Cement,50,520,2806,1459120
+6/17/2027,Portharcourt,Dangote Ltd,Portland Cement,50,602,2042,1229284
+6/18/2027,Abuja,Eterna Plc,White Cement,25,946,2034,1924164
+6/19/2027,Portharcourt,StoneWorks Ltd,Portland Cement,25,311,3925,1220675
+6/20/2027,Abuja,BuildRight Co,PPC,50,884,3331,2944604
+6/21/2027,Portharcourt,Dangote Ltd,Portland Cement,25,50,3823,191150
+6/22/2027,Kano,Eterna Plc,White Cement,25,310,2136,662160
+6/23/2027,Lagos,Eterna Plc,White Cement,25,597,2437,1454889
+6/24/2027,Portharcourt,StoneWorks Ltd,Portland Cement,50,848,3684,3124032
+6/25/2027,Kaduna,Eterna Plc,Portland Cement,50,84,2900,243600
+6/26/2027,Lagos,BuildRight Co,White Cement,25,451,2149,969199
+6/27/2027,Portharcourt,MegaCem,Portland Cement,50,857,3065,2626705
+6/28/2027,Lagos,Eterna Plc,White Cement,50,219,2546,557574
+6/29/2027,Kano,BuildRight Co,Portland Cement,50,475,2556,1214100
+6/30/2027,Kaduna,Dangote Ltd,PPC,25,661,3423,2262603
+7/1/2027,Lagos,MegaCem,White Cement,25,206,3864,795984
+7/2/2027,Kano,MegaCem,White Cement,50,823,2556,2103588
+7/3/2027,Abuja,Eterna Plc,Portland Cement,25,804,2377,1911108
+7/4/2027,Kaduna,Eterna Plc,Slag Cement,50,289,2827,817003
+7/5/2027,Portharcourt,StoneWorks Ltd,Slag Cement,25,691,2176,1503616
+7/6/2027,Kaduna,BuildRight Co,Portland Cement,50,595,2678,1593410
+7/7/2027,Kano,Dangote Ltd,Portland Cement,50,651,2980,1939980
+7/8/2027,Kano,BuildRight Co,Portland Cement,25,145,3646,528670
+7/9/2027,Kaduna,MegaCem,White Cement,50,934,2143,2001562
+7/10/2027,Abuja,BuildRight Co,White Cement,25,278,3642,1012476
+7/11/2027,Portharcourt,BuildRight Co,Slag Cement,25,283,3719,1052477
+7/12/2027,Portharcourt,MegaCem,White Cement,25,696,3027,2106792
+7/13/2027,Abuja,StoneWorks Ltd,Slag Cement,50,226,2556,577656
+7/14/2027,Kaduna,MegaCem,Portland Cement,25,932,2225,2073700
+7/15/2027,Lagos,BuildRight Co,Portland Cement,25,166,3310,549460
+7/16/2027,Kaduna,Dangote Ltd,White Cement,50,410,2096,859360
+7/17/2027,Lagos,Eterna Plc,Slag Cement,25,477,3765,1795905
+7/18/2027,Abuja,StoneWorks Ltd,Slag Cement,50,464,2867,1330288
+7/19/2027,Abuja,Dangote Ltd,PPC,25,810,2925,2369250
+7/20/2027,Portharcourt,Dangote Ltd,Portland Cement,25,938,2867,2689246
+7/21/2027,Portharcourt,Dangote Ltd,Portland Cement,50,876,3075,2693700
+7/22/2027,Portharcourt,Eterna Plc,PPC,25,916,3144,2879904
+7/23/2027,Portharcourt,MegaCem,Slag Cement,50,633,3923,2483259
+7/24/2027,Kano,Dangote Ltd,Portland Cement,50,466,3838,1788508
+7/25/2027,Lagos,Dangote Ltd,Portland Cement,25,563,2913,1640019
+7/26/2027,Lagos,BuildRight Co,PPC,25,408,3061,1248888
+7/27/2027,Lagos,BuildRight Co,PPC,50,615,2010,1236150
+7/28/2027,Kano,Dangote Ltd,White Cement,50,979,2870,2809730
+7/29/2027,Kaduna,StoneWorks Ltd,Portland Cement,50,304,2724,828096
+7/30/2027,Kaduna,MegaCem,Slag Cement,25,606,2210,1339260
+7/31/2027,Portharcourt,StoneWorks Ltd,PPC,25,877,2596,2276692
+8/1/2027,Abuja,StoneWorks Ltd,Slag Cement,50,541,3825,2069325
+8/2/2027,Portharcourt,MegaCem,Portland Cement,25,576,3525,2030400
+8/3/2027,Kano,Dangote Ltd,PPC,50,501,2502,1253502
+8/4/2027,Lagos,Eterna Plc,PPC,50,174,3101,539574
+8/5/2027,Kano,Dangote Ltd,White Cement,50,844,3063,2585172
+8/6/2027,Lagos,Eterna Plc,Slag Cement,25,352,3018,1062336
+8/7/2027,Abuja,BuildRight Co,PPC,50,585,2007,1174095
+8/8/2027,Kano,MegaCem,Portland Cement,25,870,3525,3066750
+8/9/2027,Kano,MegaCem,White Cement,25,449,3167,1421983
+8/10/2027,Lagos,Eterna Plc,Portland Cement,50,885,3167,2802795
+8/11/2027,Portharcourt,Eterna Plc,PPC,50,352,2102,739904
+8/12/2027,Portharcourt,Eterna Plc,Slag Cement,25,250,2488,622000
+8/13/2027,Lagos,BuildRight Co,Slag Cement,25,780,2227,1737060
+8/14/2027,Abuja,MegaCem,Portland Cement,25,978,3224,3153072
+8/15/2027,Portharcourt,Dangote Ltd,Portland Cement,50,871,2640,2299440
+8/16/2027,Abuja,MegaCem,Slag Cement,25,504,3250,1638000
+8/17/2027,Portharcourt,Dangote Ltd,Portland Cement,50,968,3338,3231184
+8/18/2027,Kaduna,Eterna Plc,PPC,25,790,2313,1827270
+8/19/2027,Kaduna,BuildRight Co,Portland Cement,50,538,2539,1365982
+8/20/2027,Kaduna,BuildRight Co,Portland Cement,25,464,3140,1456960
+8/21/2027,Abuja,BuildRight Co,PPC,50,155,3102,480810
+8/22/2027,Abuja,Eterna Plc,Portland Cement,25,746,2338,1744148
+8/23/2027,Abuja,Eterna Plc,Slag Cement,50,519,2511,1303209
+8/24/2027,Portharcourt,BuildRight Co,Slag Cement,50,681,2957,2013717
+8/25/2027,Portharcourt,Eterna Plc,White Cement,50,151,2134,322234
+8/26/2027,Kano,MegaCem,Portland Cement,25,73,2563,187099
+8/27/2027,Kaduna,MegaCem,Slag Cement,25,911,2980,2714780
+8/28/2027,Abuja,MegaCem,Portland Cement,50,518,3722,1927996
+8/29/2027,Kano,Eterna Plc,Portland Cement,25,718,3016,2165488
+8/30/2027,Abuja,Dangote Ltd,PPC,25,272,3496,950912
+8/31/2027,Lagos,BuildRight Co,Portland Cement,50,431,3858,1662798
+9/1/2027,Kano,Dangote Ltd,Portland Cement,25,801,3257,2608857
+9/2/2027,Kaduna,BuildRight Co,PPC,25,438,2931,1283778
+9/3/2027,Kaduna,StoneWorks Ltd,Slag Cement,50,437,3020,1319740
+9/4/2027,Abuja,BuildRight Co,Portland Cement,50,217,3854,836318
+9/5/2027,Kano,MegaCem,Slag Cement,25,168,3356,563808
+9/6/2027,Kaduna,Eterna Plc,PPC,50,183,2702,494466
+9/7/2027,Kaduna,StoneWorks Ltd,White Cement,25,697,3345,2331465
+9/8/2027,Abuja,Eterna Plc,Slag Cement,50,601,2769,1664169
+9/9/2027,Abuja,StoneWorks Ltd,Portland Cement,50,643,2444,1571492
+9/10/2027,Kaduna,Eterna Plc,PPC,25,637,2026,1290562
+9/11/2027,Abuja,MegaCem,White Cement,25,675,2813,1898775
+9/12/2027,Abuja,Dangote Ltd,Slag Cement,25,984,2427,2388168
+9/13/2027,Abuja,MegaCem,White Cement,50,836,2516,2103376
+9/14/2027,Lagos,Dangote Ltd,Portland Cement,50,330,2179,719070
+9/15/2027,Kaduna,StoneWorks Ltd,White Cement,50,513,2820,1446660
+9/16/2027,Kano,MegaCem,Portland Cement,50,910,2618,2382380
+9/17/2027,Abuja,BuildRight Co,Portland Cement,50,781,3806,2972486
+9/18/2027,Abuja,MegaCem,Slag Cement,50,443,3383,1498669
+9/19/2027,Kaduna,MegaCem,Portland Cement,50,799,2456,1962344
+9/20/2027,Abuja,Dangote Ltd,Portland Cement,50,842,2877,2422434
+9/21/2027,Portharcourt,Dangote Ltd,White Cement,25,650,3618,2351700
+9/22/2027,Kano,StoneWorks Ltd,White Cement,50,486,3065,1489590
+9/23/2027,Kano,BuildRight Co,Slag Cement,50,203,3498,710094
+9/24/2027,Lagos,Eterna Plc,Portland Cement,25,319,2189,698291
+9/25/2027,Lagos,Dangote Ltd,White Cement,50,170,3731,634270
+9/26/2027,Abuja,BuildRight Co,White Cement,50,787,3521,2771027
+9/27/2027,Lagos,MegaCem,PPC,50,600,3437,2062200
+9/28/2027,Abuja,Eterna Plc,Slag Cement,50,443,2265,1003395
+9/29/2027,Kaduna,MegaCem,Slag Cement,25,472,3184,1502848
+9/30/2027,Kaduna,Dangote Ltd,White Cement,25,684,2267,1550628
+10/1/2027,Kano,MegaCem,PPC,25,548,2919,1599612
+10/2/2027,Lagos,Eterna Plc,White Cement,50,976,2518,2457568
+10/3/2027,Lagos,StoneWorks Ltd,PPC,25,158,2568,405744
+10/4/2027,Abuja,BuildRight Co,Slag Cement,25,943,3729,3516447
+10/5/2027,Kano,Eterna Plc,Portland Cement,25,676,3153,2131428
+10/6/2027,Kano,StoneWorks Ltd,PPC,50,595,2370,1410150
+10/7/2027,Abuja,StoneWorks Ltd,Portland Cement,50,891,2221,1978911
+10/8/2027,Kano,Eterna Plc,PPC,25,766,3364,2576824
+10/9/2027,Lagos,StoneWorks Ltd,Portland Cement,50,704,2874,2023296
+10/10/2027,Portharcourt,Eterna Plc,Slag Cement,50,184,3472,638848
+10/11/2027,Portharcourt,Eterna Plc,White Cement,50,523,2691,1407393
+10/12/2027,Abuja,Dangote Ltd,PPC,25,317,3248,1029616
+10/13/2027,Lagos,Dangote Ltd,White Cement,25,805,2624,2112320
+10/14/2027,Lagos,StoneWorks Ltd,PPC,25,824,3860,3180640
+10/15/2027,Abuja,BuildRight Co,Portland Cement,25,854,3923,3350242
+10/16/2027,Lagos,Dangote Ltd,White Cement,25,491,3719,1826029
+10/17/2027,Kaduna,Dangote Ltd,PPC,25,298,2874,856452
+10/18/2027,Kano,Dangote Ltd,Slag Cement,25,437,2308,1008596
+10/19/2027,Kaduna,BuildRight Co,Slag Cement,50,544,2584,1405696
+10/20/2027,Abuja,MegaCem,Portland Cement,50,109,2150,234350
+10/21/2027,Portharcourt,BuildRight Co,Slag Cement,25,387,2513,972531
+10/22/2027,Portharcourt,StoneWorks Ltd,Slag Cement,25,197,2138,421186
+10/23/2027,Abuja,StoneWorks Ltd,White Cement,25,796,2680,2133280
+10/24/2027,Kaduna,Dangote Ltd,PPC,50,601,3699,2223099
+10/25/2027,Portharcourt,BuildRight Co,Portland Cement,25,375,2959,1109625
+10/26/2027,Kaduna,StoneWorks Ltd,Slag Cement,50,983,2914,2864462
+10/27/2027,Kano,BuildRight Co,PPC,25,858,3260,2797080
+10/28/2027,Portharcourt,MegaCem,White Cement,25,487,2836,1381132
+10/29/2027,Kaduna,MegaCem,White Cement,50,915,2554,2336910
+10/30/2027,Kaduna,BuildRight Co,PPC,50,688,2725,1874800
+10/31/2027,Abuja,StoneWorks Ltd,Slag Cement,25,874,2652,2317848
+11/1/2027,Portharcourt,StoneWorks Ltd,White Cement,25,443,2714,1202302
+11/2/2027,Kaduna,MegaCem,PPC,25,711,2639,1876329
+11/3/2027,Portharcourt,StoneWorks Ltd,PPC,50,501,2905,1455405
+11/4/2027,Kaduna,StoneWorks Ltd,Portland Cement,25,302,2716,820232
+11/5/2027,Portharcourt,Dangote Ltd,PPC,25,356,2022,719832
+11/6/2027,Kano,MegaCem,Portland Cement,25,870,3460,3010200
+11/7/2027,Lagos,BuildRight Co,Slag Cement,50,576,2279,1312704
+11/8/2027,Portharcourt,MegaCem,PPC,25,690,2038,1406220
+11/9/2027,Portharcourt,Eterna Plc,White Cement,50,494,2054,1014676
+11/10/2027,Abuja,BuildRight Co,Portland Cement,50,531,2581,1370511
+11/11/2027,Lagos,MegaCem,PPC,50,847,2311,1957417
+11/12/2027,Lagos,Eterna Plc,Slag Cement,50,874,3497,3056378
+11/13/2027,Kaduna,Eterna Plc,White Cement,25,958,3096,2965968
+11/14/2027,Kaduna,StoneWorks Ltd,PPC,50,295,2162,637790
+11/15/2027,Abuja,Eterna Plc,PPC,25,281,2795,785395
+11/16/2027,Lagos,BuildRight Co,White Cement,25,214,2328,498192
+11/17/2027,Lagos,StoneWorks Ltd,PPC,50,773,2188,1691324
+11/18/2027,Kaduna,MegaCem,PPC,25,231,2199,507969
+11/19/2027,Abuja,StoneWorks Ltd,Portland Cement,25,845,2779,2348255
+11/20/2027,Abuja,Dangote Ltd,Slag Cement,25,72,3594,258768
+11/21/2027,Kano,StoneWorks Ltd,Portland Cement,50,266,2870,763420
+11/22/2027,Kano,Dangote Ltd,PPC,50,845,3335,2818075
+11/23/2027,Lagos,Dangote Ltd,Slag Cement,25,118,3613,426334
+11/24/2027,Kaduna,BuildRight Co,PPC,50,920,3297,3033240
+11/25/2027,Portharcourt,Eterna Plc,Portland Cement,50,427,2949,1259223
+11/26/2027,Abuja,StoneWorks Ltd,White Cement,50,409,3902,1595918
+11/27/2027,Kaduna,Dangote Ltd,Portland Cement,50,513,2736,1403568
+11/28/2027,Kaduna,BuildRight Co,Slag Cement,50,231,2820,651420
+11/29/2027,Portharcourt,StoneWorks Ltd,PPC,25,83,3523,292409
+11/30/2027,Portharcourt,MegaCem,White Cement,25,166,2779,461314
+12/1/2027,Kano,BuildRight Co,White Cement,25,790,3114,2460060
+12/2/2027,Portharcourt,StoneWorks Ltd,PPC,50,670,2602,1743340
+12/3/2027,Lagos,MegaCem,Portland Cement,50,466,2461,1146826
+12/4/2027,Kano,BuildRight Co,Portland Cement,50,909,2691,2446119
+12/5/2027,Abuja,StoneWorks Ltd,Portland Cement,50,369,3796,1400724
+12/6/2027,Kaduna,Eterna Plc,White Cement,25,391,2950,1153450
+12/7/2027,Lagos,MegaCem,White Cement,25,849,3289,2792361
+12/8/2027,Lagos,Dangote Ltd,White Cement,25,176,3529,621104
+12/9/2027,Kano,Dangote Ltd,Slag Cement,50,864,2137,1846368
+12/10/2027,Lagos,MegaCem,White Cement,25,914,2376,2171664
+12/11/2027,Abuja,MegaCem,White Cement,50,374,2151,804474
+12/12/2027,Kano,MegaCem,Portland Cement,50,900,2845,2560500
+12/13/2027,Abuja,Eterna Plc,White Cement,50,458,3368,1542544
+12/14/2027,Lagos,MegaCem,Slag Cement,25,493,3119,1537667
+12/15/2027,Lagos,Eterna Plc,Portland Cement,25,758,2245,1701710
+12/16/2027,Kano,BuildRight Co,PPC,25,471,2460,1158660
+12/17/2027,Abuja,StoneWorks Ltd,PPC,25,980,2117,2074660
+12/18/2027,Abuja,BuildRight Co,White Cement,50,849,3639,3089511
+12/19/2027,Portharcourt,Dangote Ltd,PPC,50,54,2595,140130
+12/20/2027,Portharcourt,StoneWorks Ltd,Portland Cement,25,346,2708,936968
+12/21/2027,Abuja,BuildRight Co,Slag Cement,25,315,2370,746550
+12/22/2027,Kano,Eterna Plc,Portland Cement,25,814,3400,2767600
+12/23/2027,Abuja,Dangote Ltd,PPC,25,655,3804,2491620
+12/24/2027,Kaduna,Dangote Ltd,PPC,25,268,2509,672412
+12/25/2027,Portharcourt,BuildRight Co,White Cement,50,496,2577,1278192
+12/26/2027,Abuja,StoneWorks Ltd,Slag Cement,25,368,2474,910432
+12/27/2027,Portharcourt,Eterna Plc,PPC,50,109,2993,326237
+12/28/2027,Kaduna,Eterna Plc,PPC,25,472,2050,967600
+12/29/2027,Abuja,MegaCem,Portland Cement,25,459,2910,1335690
+12/30/2027,Kaduna,Dangote Ltd,PPC,50,214,2016,431424
+12/31/2027,Lagos,StoneWorks Ltd,Slag Cement,25,715,3681,2631915
+1/1/2028,Abuja,StoneWorks Ltd,White Cement,25,374,2846,1064404
+1/2/2028,Abuja,Eterna Plc,PPC,25,114,3958,451212
+1/3/2028,Kano,MegaCem,Slag Cement,25,914,2685,2454090
+1/4/2028,Abuja,MegaCem,PPC,50,714,3601,2571114
+1/5/2028,Portharcourt,BuildRight Co,Slag Cement,25,170,3796,645320
+1/6/2028,Kaduna,MegaCem,PPC,50,466,2213,1031258
+1/7/2028,Portharcourt,Eterna Plc,Slag Cement,25,182,2568,467376
+1/8/2028,Abuja,StoneWorks Ltd,Slag Cement,25,892,2831,2525252
+1/9/2028,Kaduna,MegaCem,White Cement,25,451,2632,1187032
+1/10/2028,Kano,MegaCem,PPC,25,77,3126,240702
+1/11/2028,Abuja,Eterna Plc,Portland Cement,25,698,3220,2247560
+1/12/2028,Portharcourt,Dangote Ltd,Slag Cement,50,242,3402,823284
+1/13/2028,Kano,BuildRight Co,Slag Cement,25,241,3777,910257
+1/14/2028,Lagos,BuildRight Co,PPC,25,980,3377,3309460
+1/15/2028,Kano,MegaCem,Portland Cement,25,336,3604,1210944
+1/16/2028,Kano,Dangote Ltd,Portland Cement,25,543,3782,2053626
+1/17/2028,Abuja,MegaCem,Slag Cement,50,620,2833,1756460
+1/18/2028,Kaduna,StoneWorks Ltd,PPC,50,348,3481,1211388
+1/19/2028,Kano,MegaCem,Portland Cement,50,142,2945,418190
+1/20/2028,Lagos,StoneWorks Ltd,PPC,50,221,3265,721565
+1/21/2028,Kaduna,MegaCem,Portland Cement,50,441,3591,1583631
+1/22/2028,Portharcourt,BuildRight Co,PPC,50,518,3350,1735300
+1/23/2028,Lagos,Eterna Plc,White Cement,50,788,2055,1619340
+1/24/2028,Lagos,MegaCem,Slag Cement,25,162,2992,484704
+1/25/2028,Kano,MegaCem,Portland Cement,50,133,3769,501277
+1/26/2028,Lagos,MegaCem,White Cement,50,505,2565,1295325
+1/27/2028,Kaduna,StoneWorks Ltd,White Cement,50,336,3552,1193472
+1/28/2028,Abuja,Dangote Ltd,White Cement,50,344,3487,1199528
+1/29/2028,Lagos,BuildRight Co,Portland Cement,25,660,3756,2478960
+1/30/2028,Portharcourt,BuildRight Co,White Cement,50,999,2726,2723274
+1/31/2028,Portharcourt,BuildRight Co,White Cement,25,285,3482,992370
+2/1/2028,Portharcourt,MegaCem,White Cement,50,395,3498,1381710
+2/2/2028,Kaduna,MegaCem,PPC,25,868,3081,2674308
+2/3/2028,Lagos,MegaCem,White Cement,25,180,2112,380160
+2/4/2028,Abuja,Dangote Ltd,White Cement,25,273,2472,674856
+2/5/2028,Kano,Dangote Ltd,PPC,50,69,2417,166773
+2/6/2028,Kano,Dangote Ltd,Portland Cement,25,956,3674,3512344
+2/7/2028,Kano,MegaCem,PPC,50,601,3851,2314451
+2/8/2028,Kaduna,BuildRight Co,White Cement,50,633,3311,2095863
+2/9/2028,Abuja,Dangote Ltd,Slag Cement,25,544,3640,1980160
+2/10/2028,Lagos,MegaCem,White Cement,50,811,2515,2039665
+2/11/2028,Kano,Dangote Ltd,Slag Cement,25,688,2101,1445488
+2/12/2028,Lagos,Dangote Ltd,Slag Cement,50,487,3014,1467818
+2/13/2028,Kaduna,Eterna Plc,Slag Cement,50,362,2915,1055230
+2/14/2028,Kano,Dangote Ltd,PPC,50,858,2937,2519946
+2/15/2028,Kano,MegaCem,PPC,25,925,2476,2290300
+2/16/2028,Portharcourt,Dangote Ltd,PPC,50,839,2252,1889428
+2/17/2028,Lagos,MegaCem,Portland Cement,50,62,2299,142538
+2/18/2028,Portharcourt,MegaCem,PPC,25,740,2171,1606540
+2/19/2028,Abuja,BuildRight Co,Slag Cement,25,79,2399,189521
+2/20/2028,Lagos,MegaCem,Slag Cement,50,693,3903,2704779
+2/21/2028,Abuja,Eterna Plc,PPC,50,673,3752,2525096
+2/22/2028,Abuja,Dangote Ltd,Slag Cement,50,655,2216,1451480
+2/23/2028,Lagos,BuildRight Co,PPC,50,823,2806,2309338
+2/24/2028,Portharcourt,MegaCem,Slag Cement,25,77,2702,208054
+2/25/2028,Abuja,StoneWorks Ltd,PPC,25,248,2034,504432
+2/26/2028,Kano,Eterna Plc,Portland Cement,50,258,3655,942990
+2/27/2028,Portharcourt,BuildRight Co,White Cement,25,768,2808,2156544
+2/28/2028,Abuja,Dangote Ltd,Portland Cement,25,803,3396,2726988
+2/29/2028,Abuja,StoneWorks Ltd,White Cement,25,468,3183,1489644
+3/1/2028,Portharcourt,Dangote Ltd,Slag Cement,50,680,2783,1892440
+3/2/2028,Kaduna,Eterna Plc,Portland Cement,25,436,2902,1265272
+3/3/2028,Kaduna,Dangote Ltd,Portland Cement,50,664,3201,2125464
+3/4/2028,Kano,StoneWorks Ltd,White Cement,50,385,3364,1295140
+3/5/2028,Kaduna,MegaCem,PPC,25,824,3453,2845272
+3/6/2028,Abuja,Eterna Plc,Portland Cement,25,853,2986,2547058
+3/7/2028,Abuja,StoneWorks Ltd,PPC,50,601,2296,1379896
+3/8/2028,Abuja,BuildRight Co,Slag Cement,25,484,3703,1792252
+3/9/2028,Kaduna,Dangote Ltd,Slag Cement,25,497,2797,1390109
+3/10/2028,Lagos,StoneWorks Ltd,PPC,50,135,2828,381780
+3/11/2028,Kano,Eterna Plc,Slag Cement,50,697,3208,2235976
+3/12/2028,Portharcourt,Eterna Plc,White Cement,25,341,3823,1303643
+3/13/2028,Kano,Eterna Plc,White Cement,25,399,3881,1548519
+3/14/2028,Kano,BuildRight Co,White Cement,50,288,3252,936576
+3/15/2028,Portharcourt,Eterna Plc,PPC,25,435,3254,1415490
+3/16/2028,Abuja,MegaCem,Slag Cement,25,595,3364,2001580
+3/17/2028,Kaduna,MegaCem,Slag Cement,50,298,3685,1098130
+3/18/2028,Kano,BuildRight Co,White Cement,50,581,3989,2317609
+3/19/2028,Lagos,BuildRight Co,Slag Cement,25,576,3728,2147328
+3/20/2028,Kano,BuildRight Co,PPC,50,225,2315,520875
+3/21/2028,Abuja,Dangote Ltd,White Cement,25,960,3027,2905920
+3/22/2028,Lagos,Dangote Ltd,Portland Cement,50,362,3805,1377410
+3/23/2028,Kano,BuildRight Co,PPC,25,700,2148,1503600
+3/24/2028,Kaduna,StoneWorks Ltd,Slag Cement,25,100,2232,223200
+3/25/2028,Abuja,Eterna Plc,Slag Cement,25,529,3115,1647835
+3/26/2028,Kano,StoneWorks Ltd,PPC,25,379,2726,1033154
+3/27/2028,Lagos,StoneWorks Ltd,PPC,25,911,3291,2998101
+3/28/2028,Abuja,Dangote Ltd,Slag Cement,25,169,3242,547898
+3/29/2028,Kano,BuildRight Co,PPC,50,438,2240,981120
+3/30/2028,Portharcourt,Eterna Plc,Portland Cement,50,188,2620,492560
+3/31/2028,Lagos,Eterna Plc,White Cement,50,945,3305,3123225
+4/1/2028,Kano,MegaCem,Slag Cement,25,720,3220,2318400
+4/2/2028,Abuja,BuildRight Co,PPC,50,513,2249,1153737
+4/3/2028,Abuja,StoneWorks Ltd,Slag Cement,25,472,3205,1512760
+4/4/2028,Kaduna,Dangote Ltd,Slag Cement,50,788,2362,1861256
+4/5/2028,Lagos,StoneWorks Ltd,PPC,50,168,3292,553056
+4/6/2028,Kaduna,StoneWorks Ltd,Portland Cement,25,53,3006,159318
+4/7/2028,Kaduna,Eterna Plc,PPC,25,64,3747,239808
+4/8/2028,Abuja,MegaCem,White Cement,25,876,2548,2232048
+4/9/2028,Portharcourt,BuildRight Co,PPC,25,123,2918,358914
+4/10/2028,Kano,StoneWorks Ltd,PPC,25,339,3575,1211925
+4/11/2028,Portharcourt,StoneWorks Ltd,Portland Cement,50,363,2891,1049433
+4/12/2028,Kano,BuildRight Co,PPC,25,364,3449,1255436
+4/13/2028,Lagos,MegaCem,White Cement,25,319,3121,995599
+4/14/2028,Portharcourt,BuildRight Co,Portland Cement,25,481,3733,1795573
+4/15/2028,Abuja,Eterna Plc,Slag Cement,50,496,3992,1980032
+4/16/2028,Lagos,StoneWorks Ltd,Slag Cement,25,79,2340,184860
+4/17/2028,Portharcourt,BuildRight Co,White Cement,25,158,2295,362610
+4/18/2028,Abuja,BuildRight Co,Slag Cement,25,123,2593,318939
+4/19/2028,Kaduna,BuildRight Co,PPC,50,342,2069,707598
+4/20/2028,Lagos,StoneWorks Ltd,PPC,25,173,3410,589930
+4/21/2028,Portharcourt,StoneWorks Ltd,PPC,25,376,3454,1298704
+4/22/2028,Portharcourt,Eterna Plc,White Cement,50,595,3590,2136050
+4/23/2028,Kano,Dangote Ltd,White Cement,25,358,2066,739628
+4/24/2028,Lagos,MegaCem,Slag Cement,25,229,3745,857605
+4/25/2028,Portharcourt,Dangote Ltd,Portland Cement,50,357,3291,1174887
+4/26/2028,Portharcourt,StoneWorks Ltd,PPC,25,486,3875,1883250
+4/27/2028,Portharcourt,BuildRight Co,Slag Cement,50,915,2245,2054175
+4/28/2028,Lagos,BuildRight Co,White Cement,50,482,2752,1326464
+4/29/2028,Kano,Dangote Ltd,Portland Cement,25,684,3562,2436408
+4/30/2028,Portharcourt,MegaCem,Slag Cement,50,179,2342,419218
+5/1/2028,Portharcourt,Eterna Plc,Portland Cement,50,896,2484,2225664
+5/2/2028,Portharcourt,StoneWorks Ltd,White Cement,25,410,2724,1116840
+5/3/2028,Lagos,BuildRight Co,White Cement,25,309,3787,1170183
+5/4/2028,Kano,StoneWorks Ltd,White Cement,50,363,3519,1277397
+5/5/2028,Kaduna,Dangote Ltd,Slag Cement,25,92,2602,239384
+5/6/2028,Lagos,BuildRight Co,Slag Cement,25,965,3051,2944215
+5/7/2028,Kaduna,BuildRight Co,White Cement,25,826,2619,2163294
+5/8/2028,Kano,Eterna Plc,Portland Cement,25,361,2645,954845
+5/9/2028,Lagos,Dangote Ltd,Slag Cement,50,724,2328,1685472
+5/10/2028,Portharcourt,StoneWorks Ltd,Portland Cement,50,892,3674,3277208
+5/11/2028,Kaduna,MegaCem,Portland Cement,25,727,3495,2540865
+5/12/2028,Abuja,Eterna Plc,Slag Cement,25,532,3592,1910944
+5/13/2028,Abuja,MegaCem,PPC,50,737,3164,2331868
+5/14/2028,Abuja,BuildRight Co,Slag Cement,25,470,3871,1819370
+5/15/2028,Kano,StoneWorks Ltd,Slag Cement,25,329,3938,1295602
+5/16/2028,Abuja,Dangote Ltd,White Cement,50,205,3637,745585
+5/17/2028,Lagos,Eterna Plc,PPC,50,150,2708,406200
+5/18/2028,Kano,MegaCem,Slag Cement,25,690,2381,1642890
+5/19/2028,Kaduna,BuildRight Co,Slag Cement,25,320,2476,792320
+5/20/2028,Kano,BuildRight Co,Portland Cement,50,114,2832,322848
+5/21/2028,Kaduna,Eterna Plc,PPC,50,769,3308,2543852
+5/22/2028,Abuja,BuildRight Co,White Cement,25,791,3930,3108630
+5/23/2028,Portharcourt,MegaCem,PPC,25,846,2967,2510082
+5/24/2028,Portharcourt,BuildRight Co,PPC,25,650,2430,1579500
+5/25/2028,Kano,Dangote Ltd,Slag Cement,25,907,2112,1915584
+5/26/2028,Abuja,StoneWorks Ltd,Portland Cement,50,585,2210,1292850
+5/27/2028,Portharcourt,StoneWorks Ltd,PPC,25,572,3185,1821820
+5/28/2028,Portharcourt,StoneWorks Ltd,Portland Cement,50,170,3581,608770
+5/29/2028,Lagos,Dangote Ltd,PPC,50,439,2067,907413
+5/30/2028,Lagos,BuildRight Co,White Cement,25,477,3653,1742481
+5/31/2028,Abuja,MegaCem,Slag Cement,50,328,3625,1189000
+6/1/2028,Kano,MegaCem,White Cement,50,935,3687,3447345
+6/2/2028,Kaduna,StoneWorks Ltd,PPC,50,461,2938,1354418
+6/3/2028,Abuja,Eterna Plc,PPC,25,534,2207,1178538
+6/4/2028,Abuja,Eterna Plc,PPC,50,887,3232,2866784
+6/5/2028,Abuja,Eterna Plc,PPC,25,787,2701,2125687
+6/6/2028,Lagos,StoneWorks Ltd,PPC,50,299,2623,784277
+6/7/2028,Abuja,StoneWorks Ltd,PPC,50,284,3994,1134296
+6/8/2028,Lagos,Eterna Plc,Portland Cement,25,433,2905,1257865
+6/9/2028,Kaduna,BuildRight Co,Portland Cement,50,532,3291,1750812
+6/10/2028,Lagos,Dangote Ltd,Slag Cement,25,364,3859,1404676
+6/11/2028,Kano,BuildRight Co,Slag Cement,50,477,3534,1685718
+6/12/2028,Kano,BuildRight Co,PPC,50,834,2172,1811448
+6/13/2028,Abuja,Dangote Ltd,Slag Cement,25,198,2481,491238
+6/14/2028,Kano,BuildRight Co,White Cement,50,292,3206,936152
+6/15/2028,Lagos,MegaCem,Portland Cement,25,246,3310,814260
+6/16/2028,Abuja,StoneWorks Ltd,Portland Cement,50,957,3721,3560997
+6/17/2028,Kano,MegaCem,PPC,50,430,3662,1574660
+6/18/2028,Lagos,StoneWorks Ltd,Portland Cement,50,586,2242,1313812
+6/19/2028,Kano,Eterna Plc,White Cement,50,678,2183,1480074
+6/20/2028,Portharcourt,BuildRight Co,Portland Cement,50,749,2046,1532454
+6/21/2028,Lagos,Dangote Ltd,Slag Cement,25,155,2533,392615
+6/22/2028,Abuja,Eterna Plc,Slag Cement,50,471,3587,1689477
+6/23/2028,Lagos,BuildRight Co,Portland Cement,50,990,3403,3368970
+6/24/2028,Portharcourt,Dangote Ltd,Slag Cement,25,509,3782,1925038
+6/25/2028,Kano,MegaCem,Portland Cement,50,653,3220,2102660
+6/26/2028,Abuja,MegaCem,Portland Cement,25,125,2423,302875
+6/27/2028,Lagos,StoneWorks Ltd,Slag Cement,25,707,3128,2211496
+6/28/2028,Portharcourt,MegaCem,Slag Cement,50,974,2502,2436948
+6/29/2028,Portharcourt,MegaCem,PPC,50,396,3167,1254132
+6/30/2028,Kaduna,Dangote Ltd,Slag Cement,50,66,2024,133584
+7/1/2028,Portharcourt,StoneWorks Ltd,Portland Cement,25,114,2042,232788
+7/2/2028,Abuja,Dangote Ltd,Portland Cement,25,729,3401,2479329
+7/3/2028,Abuja,MegaCem,PPC,50,757,2488,1883416
+7/4/2028,Abuja,StoneWorks Ltd,White Cement,25,566,2304,1304064
+7/5/2028,Lagos,Eterna Plc,Slag Cement,50,730,3131,2285630
+7/6/2028,Lagos,StoneWorks Ltd,Slag Cement,25,439,2491,1093549
+7/7/2028,Portharcourt,StoneWorks Ltd,PPC,25,206,2076,427656
+7/8/2028,Portharcourt,BuildRight Co,Slag Cement,50,785,2170,1703450
+7/9/2028,Portharcourt,StoneWorks Ltd,White Cement,25,111,3807,422577
+7/10/2028,Kano,Eterna Plc,White Cement,50,598,3109,1859182
+7/11/2028,Abuja,Dangote Ltd,White Cement,50,892,3146,2806232
+7/12/2028,Portharcourt,StoneWorks Ltd,Slag Cement,25,191,3244,619604
+7/13/2028,Kano,StoneWorks Ltd,PPC,50,840,2660,2234400
+7/14/2028,Portharcourt,Dangote Ltd,Portland Cement,25,71,3035,215485
+7/15/2028,Kaduna,Dangote Ltd,PPC,25,529,2056,1087624
+7/16/2028,Lagos,MegaCem,Slag Cement,50,984,2027,1994568
+7/17/2028,Portharcourt,StoneWorks Ltd,White Cement,50,350,2839,993650
+7/18/2028,Portharcourt,StoneWorks Ltd,Slag Cement,50,253,3004,760012
+7/19/2028,Kano,StoneWorks Ltd,Portland Cement,25,393,2737,1075641
+7/20/2028,Abuja,StoneWorks Ltd,White Cement,25,51,2153,109803
+7/21/2028,Lagos,MegaCem,Portland Cement,25,469,3234,1516746
+7/22/2028,Portharcourt,StoneWorks Ltd,PPC,25,832,3011,2505152
+7/23/2028,Abuja,MegaCem,Portland Cement,50,232,3070,712240
+7/24/2028,Kano,StoneWorks Ltd,Slag Cement,50,226,3289,743314
+7/25/2028,Kaduna,StoneWorks Ltd,Portland Cement,25,781,2620,2046220
+7/26/2028,Abuja,Dangote Ltd,White Cement,25,73,2717,198341
+7/27/2028,Abuja,Dangote Ltd,Portland Cement,50,733,2923,2142559
+7/28/2028,Lagos,Dangote Ltd,White Cement,25,712,3186,2268432
+7/29/2028,Kano,BuildRight Co,White Cement,50,85,3696,314160
+7/30/2028,Kaduna,Dangote Ltd,White Cement,50,935,3058,2859230
+7/31/2028,Lagos,BuildRight Co,White Cement,50,967,2851,2756917
+8/1/2028,Kano,BuildRight Co,White Cement,50,178,3699,658422
+8/2/2028,Abuja,BuildRight Co,Portland Cement,25,966,3103,2997498
+8/3/2028,Kaduna,Eterna Plc,Slag Cement,25,518,3427,1775186
+8/4/2028,Abuja,MegaCem,Slag Cement,50,226,3661,827386
+8/5/2028,Abuja,Eterna Plc,White Cement,50,613,2078,1273814
+8/6/2028,Abuja,StoneWorks Ltd,Portland Cement,50,991,3382,3351562
+8/7/2028,Abuja,Dangote Ltd,PPC,25,259,3299,854441
+8/8/2028,Portharcourt,Dangote Ltd,Portland Cement,25,363,2377,862851
+8/9/2028,Abuja,MegaCem,PPC,50,516,2689,1387524
+8/10/2028,Lagos,StoneWorks Ltd,White Cement,25,690,3931,2712390
+8/11/2028,Kano,Dangote Ltd,White Cement,25,777,2757,2142189
+8/12/2028,Portharcourt,BuildRight Co,PPC,25,231,2338,540078
+8/13/2028,Abuja,BuildRight Co,Slag Cement,50,740,3500,2590000
+8/14/2028,Portharcourt,Eterna Plc,Portland Cement,25,973,3631,3532963
+8/15/2028,Kaduna,Dangote Ltd,Portland Cement,50,836,2941,2458676
+8/16/2028,Kaduna,Eterna Plc,White Cement,50,191,2095,400145
+8/17/2028,Kano,Eterna Plc,PPC,25,530,2006,1063180
+8/18/2028,Kaduna,BuildRight Co,PPC,25,653,3891,2540823
+8/19/2028,Abuja,Eterna Plc,Portland Cement,50,945,2467,2331315
+8/20/2028,Portharcourt,MegaCem,White Cement,50,745,3594,2677530
+8/21/2028,Portharcourt,StoneWorks Ltd,Portland Cement,25,841,2939,2471699
+8/22/2028,Portharcourt,BuildRight Co,Slag Cement,25,858,3684,3160872
+8/23/2028,Portharcourt,BuildRight Co,Slag Cement,50,722,2958,2135676
+8/24/2028,Abuja,Dangote Ltd,Slag Cement,25,790,2635,2081650
+8/25/2028,Portharcourt,Dangote Ltd,White Cement,50,802,3200,2566400
+8/26/2028,Abuja,StoneWorks Ltd,PPC,25,530,3665,1942450
+8/27/2028,Abuja,BuildRight Co,PPC,50,93,2068,192324
+8/28/2028,Kano,MegaCem,White Cement,50,597,2111,1260267
+8/29/2028,Abuja,MegaCem,Portland Cement,50,772,3568,2754496
+8/30/2028,Portharcourt,MegaCem,White Cement,25,132,3347,441804
+8/31/2028,Kano,StoneWorks Ltd,PPC,50,949,2801,2658149
+9/1/2028,Kano,StoneWorks Ltd,Slag Cement,25,220,3309,727980
+9/2/2028,Kaduna,MegaCem,Portland Cement,25,992,2145,2127840
+9/3/2028,Portharcourt,Eterna Plc,Portland Cement,25,792,2289,1812888
+9/4/2028,Portharcourt,BuildRight Co,PPC,25,192,2314,444288
+9/5/2028,Kaduna,StoneWorks Ltd,PPC,50,562,2572,1445464
+9/6/2028,Lagos,Eterna Plc,PPC,25,731,2372,1733932
+9/7/2028,Kano,Dangote Ltd,Slag Cement,25,139,2620,364180
+9/8/2028,Portharcourt,MegaCem,White Cement,25,764,2861,2185804
+9/9/2028,Portharcourt,Eterna Plc,Portland Cement,25,162,3556,576072
+9/10/2028,Portharcourt,BuildRight Co,Portland Cement,25,977,2178,2127906
+9/11/2028,Kano,Eterna Plc,PPC,50,172,3945,678540
+9/12/2028,Kaduna,StoneWorks Ltd,PPC,50,145,2645,383525
+9/13/2028,Kaduna,Dangote Ltd,Slag Cement,50,873,3626,3165498
+9/14/2028,Portharcourt,BuildRight Co,White Cement,50,277,2720,753440
+9/15/2028,Lagos,MegaCem,Slag Cement,50,795,2109,1676655
+9/16/2028,Kaduna,StoneWorks Ltd,White Cement,25,492,3822,1880424
+9/17/2028,Lagos,BuildRight Co,Slag Cement,50,799,3031,2421769
+9/18/2028,Abuja,StoneWorks Ltd,Slag Cement,50,338,2587,874406
+9/19/2028,Kano,MegaCem,Slag Cement,25,183,3964,725412
+9/20/2028,Kaduna,MegaCem,PPC,50,226,2419,546694
+9/21/2028,Lagos,Eterna Plc,Portland Cement,50,479,2970,1422630
+9/22/2028,Abuja,BuildRight Co,PPC,50,625,3105,1940625
+9/23/2028,Kaduna,BuildRight Co,White Cement,25,915,3869,3540135
+9/24/2028,Kaduna,MegaCem,Portland Cement,50,714,2022,1443708
+9/25/2028,Kaduna,StoneWorks Ltd,Slag Cement,25,159,3521,559839
+9/26/2028,Kaduna,StoneWorks Ltd,Slag Cement,25,706,2211,1560966
+9/27/2028,Lagos,BuildRight Co,Portland Cement,25,300,3002,900600
+9/28/2028,Abuja,StoneWorks Ltd,PPC,25,84,2062,173208
+9/29/2028,Kaduna,Dangote Ltd,PPC,50,321,2380,763980
+9/30/2028,Abuja,BuildRight Co,PPC,50,439,2269,996091
+10/1/2028,Kano,Dangote Ltd,White Cement,25,320,2584,826880
+10/2/2028,Lagos,Dangote Ltd,PPC,25,466,3196,1489336
+10/3/2028,Portharcourt,MegaCem,Portland Cement,50,261,3331,869391
+10/4/2028,Kaduna,Dangote Ltd,PPC,25,785,2764,2169740
+10/5/2028,Portharcourt,MegaCem,Portland Cement,25,699,3138,2193462
+10/6/2028,Portharcourt,Dangote Ltd,White Cement,25,108,3849,415692
+10/7/2028,Kano,StoneWorks Ltd,PPC,50,220,3543,779460
+10/8/2028,Kaduna,Eterna Plc,White Cement,50,849,2419,2053731
+10/9/2028,Abuja,MegaCem,Portland Cement,50,700,3504,2452800
+10/10/2028,Kaduna,BuildRight Co,Slag Cement,50,734,3417,2508078
+10/11/2028,Kaduna,Dangote Ltd,Portland Cement,25,578,3801,2196978
+10/12/2028,Lagos,Eterna Plc,White Cement,50,129,2262,291798
+10/13/2028,Portharcourt,Dangote Ltd,White Cement,25,448,2662,1192576
+10/14/2028,Abuja,Dangote Ltd,PPC,50,375,2659,997125
+10/15/2028,Abuja,Eterna Plc,Portland Cement,50,540,2700,1458000
+10/16/2028,Portharcourt,Eterna Plc,Portland Cement,50,60,3640,218400
+10/17/2028,Portharcourt,BuildRight Co,Portland Cement,50,725,3375,2446875
+10/18/2028,Abuja,StoneWorks Ltd,Slag Cement,25,327,3028,990156
+10/19/2028,Abuja,Eterna Plc,White Cement,50,76,2971,225796
+10/20/2028,Lagos,BuildRight Co,Slag Cement,25,280,2255,631400
+10/21/2028,Kaduna,StoneWorks Ltd,Slag Cement,50,927,3223,2987721
+10/22/2028,Lagos,StoneWorks Ltd,White Cement,25,308,3644,1122352
+10/23/2028,Abuja,StoneWorks Ltd,Slag Cement,50,254,2846,722884
+10/24/2028,Lagos,StoneWorks Ltd,White Cement,25,295,2497,736615
+10/25/2028,Abuja,Dangote Ltd,PPC,25,116,2611,302876
+10/26/2028,Abuja,BuildRight Co,Slag Cement,25,437,2623,1146251
+10/27/2028,Abuja,StoneWorks Ltd,Portland Cement,50,996,2558,2547768
+10/28/2028,Lagos,Dangote Ltd,White Cement,50,241,3535,851935
+10/29/2028,Kano,BuildRight Co,White Cement,50,617,2301,1419717
+10/30/2028,Portharcourt,Eterna Plc,White Cement,25,578,2565,1482570
+10/31/2028,Lagos,MegaCem,White Cement,25,482,2699,1300918
+11/1/2028,Kano,StoneWorks Ltd,White Cement,50,289,2172,627708
+11/2/2028,Lagos,Dangote Ltd,PPC,25,525,2941,1544025
+11/3/2028,Lagos,Dangote Ltd,Portland Cement,25,838,2664,2232432
+11/4/2028,Lagos,MegaCem,Portland Cement,25,80,2478,198240
+11/5/2028,Kano,Dangote Ltd,Slag Cement,50,748,3438,2571624
+11/6/2028,Lagos,StoneWorks Ltd,Portland Cement,50,247,2294,566618
+11/7/2028,Kano,Dangote Ltd,Portland Cement,25,942,3265,3075630
+11/8/2028,Lagos,Dangote Ltd,Portland Cement,25,839,2947,2472533
+11/9/2028,Kano,BuildRight Co,White Cement,50,518,2094,1084692
+11/10/2028,Kano,Dangote Ltd,Portland Cement,25,829,2711,2247419
+11/11/2028,Abuja,MegaCem,Slag Cement,25,979,2828,2768612
+11/12/2028,Abuja,StoneWorks Ltd,White Cement,25,140,3638,509320
+11/13/2028,Portharcourt,StoneWorks Ltd,PPC,50,311,2257,701927
+11/14/2028,Lagos,Eterna Plc,White Cement,50,277,3056,846512
+11/15/2028,Kano,BuildRight Co,Slag Cement,50,983,3366,3308778
+11/16/2028,Lagos,Eterna Plc,Portland Cement,50,174,2754,479196
+11/17/2028,Kaduna,MegaCem,Portland Cement,50,289,3506,1013234
+11/18/2028,Kano,MegaCem,White Cement,50,719,3114,2238966
+11/19/2028,Portharcourt,BuildRight Co,Portland Cement,25,589,2615,1540235
+11/20/2028,Kaduna,BuildRight Co,Portland Cement,50,224,3451,773024
+11/21/2028,Kaduna,Eterna Plc,PPC,25,277,3632,1006064
+11/22/2028,Lagos,Dangote Ltd,PPC,50,805,2078,1672790
+11/23/2028,Lagos,Dangote Ltd,Slag Cement,50,579,2681,1552299
+11/24/2028,Portharcourt,BuildRight Co,PPC,50,788,3642,2869896
+11/25/2028,Portharcourt,StoneWorks Ltd,Portland Cement,25,90,3245,292050
+11/26/2028,Kaduna,Eterna Plc,Slag Cement,25,546,3194,1743924
+11/27/2028,Portharcourt,BuildRight Co,White Cement,25,353,3808,1344224
+11/28/2028,Abuja,StoneWorks Ltd,PPC,50,198,3888,769824
+11/29/2028,Abuja,StoneWorks Ltd,Slag Cement,25,219,3187,697953
+11/30/2028,Lagos,Dangote Ltd,PPC,50,315,2625,826875
+12/1/2028,Kano,Dangote Ltd,White Cement,25,175,2951,516425
+12/2/2028,Abuja,StoneWorks Ltd,White Cement,50,259,3868,1001812
+12/3/2028,Kano,BuildRight Co,White Cement,25,753,2541,1913373
+12/4/2028,Kano,StoneWorks Ltd,White Cement,25,763,3927,2996301
+12/5/2028,Abuja,Eterna Plc,PPC,50,563,2015,1134445
+12/6/2028,Abuja,MegaCem,White Cement,25,975,3368,3283800
+12/7/2028,Abuja,MegaCem,Slag Cement,50,188,2547,478836
+12/8/2028,Portharcourt,BuildRight Co,White Cement,50,910,3837,3491670
+12/9/2028,Kaduna,Dangote Ltd,Portland Cement,25,420,3346,1405320
+12/10/2028,Kaduna,StoneWorks Ltd,White Cement,50,424,3070,1301680
+12/11/2028,Kano,Dangote Ltd,Slag Cement,25,180,3703,666540
+12/12/2028,Portharcourt,Dangote Ltd,White Cement,50,331,2000,662000
+12/13/2028,Abuja,StoneWorks Ltd,PPC,25,475,3087,1466325
+12/14/2028,Abuja,StoneWorks Ltd,PPC,25,829,3285,2723265
+12/15/2028,Abuja,BuildRight Co,White Cement,25,413,3058,1262954
+12/16/2028,Portharcourt,StoneWorks Ltd,White Cement,25,126,2288,288288
+12/17/2028,Abuja,StoneWorks Ltd,PPC,25,562,2477,1392074
+12/18/2028,Abuja,StoneWorks Ltd,PPC,50,620,3112,1929440
+12/19/2028,Portharcourt,MegaCem,PPC,50,269,2089,561941
+12/20/2028,Lagos,StoneWorks Ltd,Slag Cement,50,450,2620,1179000
+12/21/2028,Kaduna,MegaCem,White Cement,50,284,2810,798040
+12/22/2028,Kaduna,BuildRight Co,PPC,50,712,3237,2304744
+12/23/2028,Abuja,Dangote Ltd,Portland Cement,50,984,3729,3669336
+12/24/2028,Kano,Eterna Plc,Portland Cement,25,193,3537,682641
+12/25/2028,Abuja,Dangote Ltd,Portland Cement,50,139,3056,424784
+12/26/2028,Lagos,StoneWorks Ltd,PPC,50,351,2673,938223
+12/27/2028,Lagos,Dangote Ltd,White Cement,25,102,2374,242148
+12/28/2028,Kano,Eterna Plc,PPC,25,562,3174,1783788
+12/29/2028,Kaduna,Dangote Ltd,White Cement,50,366,3796,1389336
+12/30/2028,Portharcourt,Dangote Ltd,PPC,25,748,2518,1883464
+12/31/2028,Abuja,StoneWorks Ltd,Portland Cement,25,930,2685,2497050
+1/1/2029,Portharcourt,Dangote Ltd,Slag Cement,50,980,3563,3491740
+1/2/2029,Abuja,StoneWorks Ltd,Slag Cement,50,845,2173,1836185
+1/3/2029,Kaduna,BuildRight Co,White Cement,25,179,3042,544518
+1/4/2029,Lagos,MegaCem,PPC,25,873,2510,2191230
+1/5/2029,Kano,StoneWorks Ltd,Portland Cement,25,694,3506,2433164
+1/6/2029,Kaduna,StoneWorks Ltd,PPC,50,127,2282,289814
+1/7/2029,Kaduna,BuildRight Co,PPC,50,645,2600,1677000
+1/8/2029,Kano,MegaCem,Slag Cement,25,407,3789,1542123
+1/9/2029,Lagos,Eterna Plc,White Cement,50,398,3274,1303052
+1/10/2029,Kano,MegaCem,White Cement,50,939,3894,3656466
+1/11/2029,Abuja,StoneWorks Ltd,Portland Cement,25,506,2353,1190618
+1/12/2029,Abuja,Dangote Ltd,Portland Cement,50,263,3626,953638
+1/13/2029,Portharcourt,Dangote Ltd,Slag Cement,50,217,2151,466767
+1/14/2029,Kano,BuildRight Co,PPC,50,836,2351,1965436
+1/15/2029,Kaduna,StoneWorks Ltd,Slag Cement,25,393,2499,982107
+1/16/2029,Kaduna,Dangote Ltd,White Cement,50,783,3744,2931552
+1/17/2029,Kaduna,Dangote Ltd,White Cement,50,343,3999,1371657
+1/18/2029,Abuja,Eterna Plc,White Cement,25,787,2405,1892735
+1/19/2029,Lagos,MegaCem,White Cement,25,859,2561,2199899
+1/20/2029,Portharcourt,BuildRight Co,White Cement,50,975,2008,1957800
+1/21/2029,Portharcourt,StoneWorks Ltd,PPC,50,747,2032,1517904
+1/22/2029,Lagos,Eterna Plc,PPC,50,132,2284,301488
+1/23/2029,Kaduna,Eterna Plc,Slag Cement,25,980,3364,3296720
+1/24/2029,Abuja,BuildRight Co,PPC,25,612,2325,1422900
+1/25/2029,Abuja,MegaCem,White Cement,25,575,2186,1256950
+1/26/2029,Kano,StoneWorks Ltd,PPC,25,378,3213,1214514
+1/27/2029,Kano,Eterna Plc,Slag Cement,50,98,2788,273224
+1/28/2029,Kaduna,StoneWorks Ltd,PPC,50,104,2884,299936
+1/29/2029,Kano,MegaCem,White Cement,25,94,2139,201066
+1/30/2029,Lagos,StoneWorks Ltd,Portland Cement,50,159,3192,507528
+1/31/2029,Abuja,BuildRight Co,White Cement,25,203,2920,592760
+2/1/2029,Kano,MegaCem,Slag Cement,50,483,2867,1384761
+2/2/2029,Abuja,Dangote Ltd,Slag Cement,25,87,3892,338604
+2/3/2029,Abuja,BuildRight Co,White Cement,25,348,2181,758988
+2/4/2029,Portharcourt,BuildRight Co,Slag Cement,25,177,2586,457722
+2/5/2029,Portharcourt,Eterna Plc,White Cement,25,818,2297,1878946
+2/6/2029,Lagos,MegaCem,White Cement,50,162,2181,353322
+2/7/2029,Kaduna,StoneWorks Ltd,White Cement,50,204,3355,684420
+2/8/2029,Kano,Dangote Ltd,Slag Cement,25,628,3901,2449828
+2/9/2029,Lagos,StoneWorks Ltd,White Cement,50,52,3374,175448
+2/10/2029,Kaduna,MegaCem,Slag Cement,25,459,2489,1142451
+2/11/2029,Portharcourt,Dangote Ltd,White Cement,50,166,2940,488040
+2/12/2029,Portharcourt,StoneWorks Ltd,PPC,25,134,3731,499954
+2/13/2029,Kaduna,StoneWorks Ltd,Portland Cement,50,695,2161,1501895
+2/14/2029,Abuja,MegaCem,White Cement,25,824,3434,2829616
+2/15/2029,Lagos,BuildRight Co,Slag Cement,25,453,3368,1525704
+2/16/2029,Kaduna,Dangote Ltd,White Cement,50,419,3605,1510495
+2/17/2029,Abuja,BuildRight Co,White Cement,25,823,3622,2980906
+2/18/2029,Lagos,StoneWorks Ltd,Portland Cement,50,503,3936,1979808
+2/19/2029,Portharcourt,Dangote Ltd,White Cement,50,298,2631,784038
+2/20/2029,Portharcourt,StoneWorks Ltd,Portland Cement,25,640,2962,1895680
+2/21/2029,Abuja,StoneWorks Ltd,Slag Cement,25,235,3190,749650
+2/22/2029,Kaduna,StoneWorks Ltd,PPC,50,411,3756,1543716
+2/23/2029,Kano,BuildRight Co,PPC,50,744,2377,1768488
+2/24/2029,Abuja,MegaCem,PPC,25,104,3113,323752
+2/25/2029,Kano,MegaCem,PPC,50,467,2395,1118465
+2/26/2029,Kaduna,StoneWorks Ltd,PPC,25,866,3799,3289934
+2/27/2029,Kano,StoneWorks Ltd,Slag Cement,25,357,3884,1386588
+2/28/2029,Portharcourt,StoneWorks Ltd,Portland Cement,25,589,2368,1394752
+3/1/2029,Abuja,StoneWorks Ltd,White Cement,50,978,3537,3459186
+3/2/2029,Kaduna,StoneWorks Ltd,PPC,50,388,2040,791520
+3/3/2029,Kano,Eterna Plc,PPC,50,955,2128,2032240
+3/4/2029,Kaduna,StoneWorks Ltd,Portland Cement,50,324,2056,666144
+3/5/2029,Abuja,Dangote Ltd,PPC,50,865,3630,3139950
+3/6/2029,Kano,Dangote Ltd,Slag Cement,50,147,3813,560511
+3/7/2029,Kaduna,BuildRight Co,Portland Cement,25,688,3478,2392864
+3/8/2029,Portharcourt,BuildRight Co,Slag Cement,25,114,2438,277932
+3/9/2029,Lagos,Dangote Ltd,PPC,50,970,2550,2473500
+3/10/2029,Kaduna,Eterna Plc,Portland Cement,50,766,3081,2360046
+3/11/2029,Lagos,Eterna Plc,Portland Cement,25,351,3781,1327131
+3/12/2029,Abuja,Eterna Plc,White Cement,50,354,3331,1179174
+3/13/2029,Kano,Dangote Ltd,White Cement,25,961,3927,3773847
+3/14/2029,Kano,Dangote Ltd,PPC,50,176,2325,409200
+3/15/2029,Kano,MegaCem,White Cement,25,987,2137,2109219
+3/16/2029,Abuja,Eterna Plc,White Cement,50,419,2474,1036606
+3/17/2029,Lagos,BuildRight Co,Portland Cement,50,739,2215,1636885
+3/18/2029,Lagos,Dangote Ltd,Portland Cement,50,974,3471,3380754
+3/19/2029,Kaduna,BuildRight Co,PPC,50,350,3366,1178100
+3/20/2029,Abuja,BuildRight Co,Portland Cement,50,306,3119,954414
+3/21/2029,Lagos,BuildRight Co,Portland Cement,50,306,2522,771732
+3/22/2029,Lagos,BuildRight Co,White Cement,50,758,2590,1963220
+3/23/2029,Abuja,Dangote Ltd,Portland Cement,25,686,2845,1951670
+3/24/2029,Abuja,Dangote Ltd,Slag Cement,50,742,3629,2692718
+3/25/2029,Lagos,Eterna Plc,PPC,50,597,2900,1731300
+3/26/2029,Kaduna,Dangote Ltd,PPC,50,828,2644,2189232
+3/27/2029,Kano,StoneWorks Ltd,White Cement,25,526,2311,1215586
+3/28/2029,Abuja,Dangote Ltd,PPC,25,427,2910,1242570
+3/29/2029,Kano,Eterna Plc,White Cement,50,466,3400,1584400
+3/30/2029,Abuja,MegaCem,Portland Cement,50,657,2151,1413207
+3/31/2029,Lagos,MegaCem,PPC,50,730,3904,2849920
+4/1/2029,Kano,StoneWorks Ltd,PPC,25,640,2953,1889920
+4/2/2029,Lagos,BuildRight Co,White Cement,25,720,2928,2108160
+4/3/2029,Lagos,Dangote Ltd,White Cement,50,532,3173,1688036
+4/4/2029,Lagos,BuildRight Co,PPC,50,430,3543,1523490
+4/5/2029,Kaduna,MegaCem,PPC,25,969,3943,3820767
+4/6/2029,Abuja,BuildRight Co,Slag Cement,25,526,2042,1074092
+4/7/2029,Kano,Eterna Plc,White Cement,50,938,3862,3622556
+4/8/2029,Kaduna,BuildRight Co,Slag Cement,25,484,3079,1490236
+4/9/2029,Portharcourt,MegaCem,Portland Cement,25,969,2629,2547501
+4/10/2029,Kano,BuildRight Co,PPC,25,375,2252,844500
+4/11/2029,Portharcourt,MegaCem,Portland Cement,25,252,2735,689220
+4/12/2029,Kano,Dangote Ltd,Slag Cement,25,351,2066,725166
+4/13/2029,Lagos,BuildRight Co,Slag Cement,50,926,2863,2651138
+4/14/2029,Kano,StoneWorks Ltd,Slag Cement,25,775,3570,2766750
+4/15/2029,Portharcourt,StoneWorks Ltd,White Cement,50,810,3508,2841480
+4/16/2029,Portharcourt,Dangote Ltd,White Cement,50,69,3993,275517
+4/17/2029,Lagos,Eterna Plc,Portland Cement,25,567,3179,1802493
+4/18/2029,Lagos,Eterna Plc,Slag Cement,25,441,3373,1487493
+4/19/2029,Lagos,MegaCem,PPC,25,153,2613,399789
+4/20/2029,Kano,BuildRight Co,White Cement,25,828,3880,3212640
+4/21/2029,Abuja,MegaCem,PPC,25,289,3275,946475
+4/22/2029,Portharcourt,Dangote Ltd,White Cement,25,315,2502,788130
+4/23/2029,Kano,Eterna Plc,Slag Cement,25,523,3396,1776108
+4/24/2029,Portharcourt,MegaCem,Slag Cement,25,721,3410,2458610
+4/25/2029,Abuja,MegaCem,PPC,50,821,2529,2076309
+4/26/2029,Abuja,BuildRight Co,Slag Cement,50,615,3701,2276115
+4/27/2029,Kano,Eterna Plc,White Cement,25,277,3304,915208
+4/28/2029,Kano,Dangote Ltd,Slag Cement,50,828,2287,1893636
+4/29/2029,Kaduna,StoneWorks Ltd,White Cement,25,687,2092,1437204
+4/30/2029,Kaduna,BuildRight Co,Portland Cement,25,686,2568,1761648
+5/1/2029,Kano,Dangote Ltd,Portland Cement,25,51,3384,172584
+5/2/2029,Lagos,Dangote Ltd,Slag Cement,50,76,3886,295336
+5/3/2029,Kano,BuildRight Co,Portland Cement,50,925,2611,2415175
+5/4/2029,Portharcourt,MegaCem,Slag Cement,25,817,2215,1809655
+5/5/2029,Abuja,Eterna Plc,PPC,50,96,2501,240096
+5/6/2029,Lagos,Dangote Ltd,Portland Cement,50,857,2415,2069655
+5/7/2029,Portharcourt,MegaCem,PPC,25,430,3487,1499410
+5/8/2029,Kano,Eterna Plc,Slag Cement,50,567,3425,1941975
+5/9/2029,Lagos,Eterna Plc,Portland Cement,50,752,2548,1916096
+5/10/2029,Kaduna,StoneWorks Ltd,Slag Cement,25,668,3831,2559108
+5/11/2029,Lagos,Eterna Plc,PPC,50,388,3649,1415812
+5/12/2029,Abuja,Eterna Plc,Slag Cement,50,559,2776,1551784
+5/13/2029,Portharcourt,BuildRight Co,Portland Cement,50,882,3861,3405402
+5/14/2029,Lagos,StoneWorks Ltd,Slag Cement,25,127,3839,487553
+5/15/2029,Abuja,MegaCem,Slag Cement,25,691,2414,1668074
+5/16/2029,Abuja,Dangote Ltd,PPC,50,880,3143,2765840
+5/17/2029,Kaduna,Dangote Ltd,Portland Cement,50,460,2054,944840
+5/18/2029,Lagos,BuildRight Co,Slag Cement,50,777,3033,2356641
+5/19/2029,Portharcourt,Eterna Plc,White Cement,25,768,3868,2970624
+5/20/2029,Portharcourt,MegaCem,PPC,25,848,2359,2000432
+5/21/2029,Kaduna,MegaCem,Slag Cement,50,600,2741,1644600
+5/22/2029,Kano,StoneWorks Ltd,Slag Cement,50,135,3080,415800
+5/23/2029,Kaduna,BuildRight Co,Portland Cement,50,412,2232,919584
+5/24/2029,Kaduna,Dangote Ltd,PPC,50,71,3363,238773
+5/25/2029,Kano,Eterna Plc,PPC,25,473,3215,1520695
+5/26/2029,Kano,StoneWorks Ltd,PPC,50,540,2441,1318140
+5/27/2029,Kano,Dangote Ltd,Portland Cement,25,982,2093,2055326
+5/28/2029,Kano,BuildRight Co,Slag Cement,25,408,3357,1369656
+5/29/2029,Kano,Eterna Plc,PPC,50,173,2365,409145
+5/30/2029,Abuja,BuildRight Co,Portland Cement,25,265,3149,834485
+5/31/2029,Portharcourt,Dangote Ltd,White Cement,25,155,2700,418500
+6/1/2029,Portharcourt,Eterna Plc,PPC,25,981,2285,2241585
+6/2/2029,Kaduna,StoneWorks Ltd,Portland Cement,50,771,3253,2508063
+6/3/2029,Kaduna,Dangote Ltd,Slag Cement,50,767,2299,1763333
+6/4/2029,Lagos,Dangote Ltd,Portland Cement,25,311,3026,941086
+6/5/2029,Abuja,StoneWorks Ltd,White Cement,25,635,3975,2524125
+6/6/2029,Abuja,Dangote Ltd,White Cement,25,443,2288,1013584
+6/7/2029,Lagos,Dangote Ltd,Portland Cement,50,659,2878,1896602
+6/8/2029,Lagos,BuildRight Co,Slag Cement,50,326,3276,1067976
+6/9/2029,Abuja,Eterna Plc,Portland Cement,50,633,2538,1606554
+6/10/2029,Kaduna,Eterna Plc,Portland Cement,25,599,3838,2298962
+6/11/2029,Portharcourt,BuildRight Co,White Cement,25,739,2557,1889623
+6/12/2029,Portharcourt,Eterna Plc,PPC,50,561,2283,1280763
+6/13/2029,Kano,MegaCem,White Cement,25,229,2885,660665
+6/14/2029,Lagos,BuildRight Co,PPC,25,606,3322,2013132
+6/15/2029,Portharcourt,StoneWorks Ltd,White Cement,25,99,2562,253638
+6/16/2029,Abuja,MegaCem,Slag Cement,25,237,2781,659097
+6/17/2029,Abuja,MegaCem,PPC,50,821,2506,2057426
+6/18/2029,Abuja,Eterna Plc,White Cement,50,597,3303,1971891
+6/19/2029,Kano,MegaCem,PPC,50,307,3334,1023538
+6/20/2029,Abuja,MegaCem,Slag Cement,50,720,3100,2232000
+6/21/2029,Abuja,BuildRight Co,White Cement,50,970,2443,2369710
+6/22/2029,Lagos,MegaCem,Portland Cement,50,463,2303,1066289
+6/23/2029,Lagos,Dangote Ltd,Portland Cement,50,134,2366,317044
+6/24/2029,Lagos,MegaCem,PPC,50,661,2952,1951272
+6/25/2029,Kaduna,Eterna Plc,PPC,25,253,2195,555335
+6/26/2029,Kano,Dangote Ltd,Slag Cement,50,119,3195,380205
+6/27/2029,Lagos,StoneWorks Ltd,Slag Cement,25,802,3870,3103740
+6/28/2029,Abuja,Dangote Ltd,Slag Cement,50,121,3320,401720
+6/29/2029,Lagos,MegaCem,White Cement,50,172,3965,681980
+6/30/2029,Kaduna,StoneWorks Ltd,White Cement,50,205,2723,558215
+7/1/2029,Lagos,MegaCem,Portland Cement,25,863,3688,3182744
+7/2/2029,Abuja,MegaCem,Slag Cement,50,286,2006,573716
+7/3/2029,Kano,StoneWorks Ltd,White Cement,25,942,2419,2278698
+7/4/2029,Kaduna,Dangote Ltd,White Cement,25,87,3925,341475
+7/5/2029,Portharcourt,MegaCem,Portland Cement,25,318,2764,878952
+7/6/2029,Kano,StoneWorks Ltd,Portland Cement,50,753,3996,3008988
+7/7/2029,Kaduna,Dangote Ltd,Portland Cement,50,403,2142,863226
+7/8/2029,Kano,StoneWorks Ltd,Slag Cement,50,832,3376,2808832
+7/9/2029,Portharcourt,StoneWorks Ltd,PPC,25,508,3941,2002028
+7/10/2029,Portharcourt,Eterna Plc,PPC,25,194,2156,418264
+7/11/2029,Portharcourt,Eterna Plc,PPC,50,860,3897,3351420
+7/12/2029,Lagos,MegaCem,Portland Cement,25,474,3199,1516326
+7/13/2029,Lagos,StoneWorks Ltd,PPC,25,847,2281,1932007
+7/14/2029,Kaduna,Dangote Ltd,PPC,25,615,3202,1969230
+7/15/2029,Portharcourt,BuildRight Co,White Cement,50,510,3698,1885980
+7/16/2029,Kaduna,Dangote Ltd,Portland Cement,50,633,2594,1642002
+7/17/2029,Kaduna,MegaCem,Portland Cement,50,416,3338,1388608
+7/18/2029,Kano,Dangote Ltd,Portland Cement,25,544,3838,2087872
+7/19/2029,Portharcourt,Dangote Ltd,PPC,25,712,3344,2380928
+7/20/2029,Abuja,BuildRight Co,PPC,25,956,2733,2612748
+7/21/2029,Kaduna,MegaCem,White Cement,50,581,3370,1957970
+7/22/2029,Kaduna,MegaCem,White Cement,25,598,2056,1229488
+7/23/2029,Kano,MegaCem,PPC,25,139,3236,449804
+7/24/2029,Kano,Dangote Ltd,White Cement,25,408,3667,1496136
+7/25/2029,Abuja,BuildRight Co,Portland Cement,50,304,3570,1085280
+7/26/2029,Lagos,MegaCem,PPC,25,284,2608,740672
+7/27/2029,Lagos,MegaCem,PPC,50,716,2519,1803604
+7/28/2029,Lagos,MegaCem,White Cement,50,141,2055,289755
+7/29/2029,Abuja,StoneWorks Ltd,White Cement,25,119,2018,240142
+7/30/2029,Kaduna,BuildRight Co,PPC,25,580,2882,1671560
+7/31/2029,Kaduna,Dangote Ltd,Slag Cement,50,825,3629,2993925
+8/1/2029,Kano,MegaCem,Slag Cement,50,706,2639,1863134
+8/2/2029,Lagos,Eterna Plc,White Cement,50,871,2469,2150499
+8/3/2029,Abuja,Dangote Ltd,Slag Cement,50,104,2753,286312
+8/4/2029,Lagos,BuildRight Co,PPC,25,305,3872,1180960
+8/5/2029,Kano,BuildRight Co,PPC,25,306,3577,1094562
+8/6/2029,Abuja,MegaCem,Portland Cement,25,570,3803,2167710
+8/7/2029,Portharcourt,Dangote Ltd,White Cement,50,199,3719,740081
+8/8/2029,Abuja,Eterna Plc,White Cement,25,81,3621,293301
+8/9/2029,Portharcourt,Dangote Ltd,PPC,25,113,2718,307134
+8/10/2029,Lagos,BuildRight Co,White Cement,50,419,3589,1503791
+8/11/2029,Kaduna,Dangote Ltd,Slag Cement,50,505,2017,1018585
+8/12/2029,Kano,BuildRight Co,PPC,25,542,3004,1628168
+8/13/2029,Abuja,Eterna Plc,White Cement,25,952,3348,3187296
+8/14/2029,Portharcourt,Dangote Ltd,PPC,25,611,2967,1812837
+8/15/2029,Lagos,Dangote Ltd,PPC,50,513,2747,1409211
+8/16/2029,Abuja,Eterna Plc,PPC,25,990,3108,3076920
+8/17/2029,Abuja,StoneWorks Ltd,PPC,25,754,3806,2869724
+8/18/2029,Portharcourt,MegaCem,Portland Cement,50,653,2234,1458802
+8/19/2029,Kaduna,MegaCem,PPC,25,418,2971,1241878
+8/20/2029,Abuja,MegaCem,Slag Cement,25,166,3268,542488
+8/21/2029,Lagos,BuildRight Co,Portland Cement,50,650,3841,2496650
+8/22/2029,Lagos,Dangote Ltd,Portland Cement,25,110,2251,247610
+8/23/2029,Kaduna,Dangote Ltd,Slag Cement,50,352,2724,958848
+8/24/2029,Kaduna,Dangote Ltd,PPC,25,109,3817,416053
+8/25/2029,Lagos,Eterna Plc,PPC,25,727,2306,1676462
+8/26/2029,Lagos,MegaCem,Slag Cement,25,126,3315,417690
+8/27/2029,Portharcourt,BuildRight Co,PPC,50,60,2264,135840
+8/28/2029,Lagos,MegaCem,PPC,25,155,2519,390445
+8/29/2029,Lagos,Eterna Plc,White Cement,50,845,3767,3183115
+8/30/2029,Abuja,BuildRight Co,White Cement,25,306,3075,940950
+8/31/2029,Kaduna,BuildRight Co,White Cement,50,74,3940,291560
+9/1/2029,Portharcourt,BuildRight Co,Slag Cement,50,926,3805,3523430
+9/2/2029,Abuja,Eterna Plc,Slag Cement,50,717,3180,2280060
+9/3/2029,Kaduna,MegaCem,PPC,50,649,2085,1353165
+9/4/2029,Kaduna,MegaCem,Slag Cement,50,679,2763,1876077
+9/5/2029,Abuja,StoneWorks Ltd,Portland Cement,25,828,3432,2841696
+9/6/2029,Abuja,BuildRight Co,Portland Cement,50,198,2494,493812
+9/7/2029,Portharcourt,Eterna Plc,White Cement,50,703,2660,1869980
+9/8/2029,Lagos,MegaCem,Slag Cement,25,426,2474,1053924
+9/9/2029,Lagos,Dangote Ltd,White Cement,50,773,2708,2093284
+9/10/2029,Kaduna,StoneWorks Ltd,White Cement,25,54,3675,198450
+9/11/2029,Kaduna,Dangote Ltd,PPC,25,823,2870,2362010
+9/12/2029,Abuja,StoneWorks Ltd,Portland Cement,50,139,2176,302464
+9/13/2029,Lagos,Dangote Ltd,Slag Cement,25,667,3972,2649324
+9/14/2029,Lagos,Eterna Plc,White Cement,50,887,3548,3147076
+9/15/2029,Kano,StoneWorks Ltd,PPC,50,244,3908,953552
+9/16/2029,Kaduna,Eterna Plc,PPC,50,171,3185,544635
+9/17/2029,Abuja,Dangote Ltd,Slag Cement,25,676,3603,2435628
+9/18/2029,Portharcourt,MegaCem,White Cement,25,350,2017,705950
+9/19/2029,Kano,StoneWorks Ltd,Slag Cement,25,115,2838,326370
+9/20/2029,Kaduna,MegaCem,Portland Cement,25,206,3798,782388
+9/21/2029,Lagos,Eterna Plc,Portland Cement,50,556,2539,1411684
+9/22/2029,Lagos,StoneWorks Ltd,Portland Cement,50,988,2949,2913612
+9/23/2029,Portharcourt,Eterna Plc,White Cement,50,788,3530,2781640
+9/24/2029,Kaduna,MegaCem,Slag Cement,25,598,3942,2357316
+9/25/2029,Lagos,Dangote Ltd,White Cement,25,251,2944,738944
+9/26/2029,Lagos,Dangote Ltd,Portland Cement,25,984,3283,3230472
+9/27/2029,Abuja,MegaCem,PPC,50,300,2494,748200
+9/28/2029,Lagos,Dangote Ltd,Portland Cement,25,94,2892,271848
+9/29/2029,Portharcourt,Eterna Plc,Slag Cement,25,808,3248,2624384
+9/30/2029,Lagos,MegaCem,PPC,50,531,2268,1204308
+10/1/2029,Kaduna,BuildRight Co,Slag Cement,25,939,2575,2417925
+10/2/2029,Kano,StoneWorks Ltd,Portland Cement,50,433,2093,906269
+10/3/2029,Portharcourt,Dangote Ltd,White Cement,25,740,2397,1773780
+10/4/2029,Portharcourt,StoneWorks Ltd,Portland Cement,50,101,3355,338855
+10/5/2029,Kaduna,StoneWorks Ltd,Portland Cement,25,683,3705,2530515
+10/6/2029,Kano,BuildRight Co,Slag Cement,50,103,2954,304262
+10/7/2029,Kaduna,StoneWorks Ltd,Slag Cement,25,338,3995,1350310
+10/8/2029,Kano,MegaCem,White Cement,25,442,3459,1528878
+10/9/2029,Kano,MegaCem,PPC,25,748,2956,2211088
+10/10/2029,Lagos,BuildRight Co,Portland Cement,50,64,2109,134976
+10/11/2029,Abuja,MegaCem,PPC,25,857,2780,2382460
+10/12/2029,Kaduna,StoneWorks Ltd,Portland Cement,25,141,3518,496038
+10/13/2029,Abuja,Eterna Plc,Portland Cement,25,992,2036,2019712
+10/14/2029,Kano,StoneWorks Ltd,PPC,50,628,2141,1344548
+10/15/2029,Kaduna,StoneWorks Ltd,Portland Cement,50,533,2665,1420445
+10/16/2029,Abuja,Eterna Plc,Slag Cement,25,625,2013,1258125
+10/17/2029,Kano,MegaCem,PPC,50,93,2415,224595
+10/18/2029,Portharcourt,BuildRight Co,White Cement,25,545,3020,1645900
+10/19/2029,Kano,Dangote Ltd,Slag Cement,50,958,2512,2406496
+10/20/2029,Kano,BuildRight Co,White Cement,25,290,2050,594500
+10/21/2029,Kaduna,Dangote Ltd,White Cement,50,843,3256,2744808
+10/22/2029,Lagos,BuildRight Co,PPC,50,689,2979,2052531
+10/23/2029,Kaduna,StoneWorks Ltd,Slag Cement,50,759,2545,1931655
+10/24/2029,Kano,BuildRight Co,Portland Cement,50,883,3180,2807940
+10/25/2029,Kano,Dangote Ltd,Portland Cement,25,692,2694,1864248
+10/26/2029,Lagos,StoneWorks Ltd,PPC,25,481,2238,1076478
+10/27/2029,Kano,BuildRight Co,White Cement,25,751,2801,2103551
+10/28/2029,Lagos,Dangote Ltd,White Cement,25,869,3179,2762551
+10/29/2029,Abuja,BuildRight Co,Slag Cement,50,276,3853,1063428
+10/30/2029,Kano,BuildRight Co,Portland Cement,50,821,2776,2279096
+10/31/2029,Kano,BuildRight Co,White Cement,50,253,2495,631235
+11/1/2029,Kaduna,StoneWorks Ltd,Slag Cement,50,562,2649,1488738
+11/2/2029,Kaduna,MegaCem,White Cement,25,598,3683,2202434
+11/3/2029,Kano,BuildRight Co,White Cement,50,412,3691,1520692
+11/4/2029,Lagos,Eterna Plc,PPC,50,60,2853,171180
+11/5/2029,Kaduna,Dangote Ltd,PPC,50,219,2781,609039
+11/6/2029,Abuja,MegaCem,White Cement,50,169,2410,407290
+11/7/2029,Kaduna,Dangote Ltd,White Cement,50,606,2322,1407132
+11/8/2029,Lagos,BuildRight Co,Slag Cement,50,533,2748,1464684
+11/9/2029,Abuja,Eterna Plc,Slag Cement,50,444,3840,1704960
+11/10/2029,Abuja,StoneWorks Ltd,Slag Cement,25,762,3232,2462784
+11/11/2029,Lagos,BuildRight Co,PPC,50,287,3419,981253
+11/12/2029,Portharcourt,Eterna Plc,Portland Cement,50,986,2006,1977916
+11/13/2029,Kano,MegaCem,White Cement,50,678,2612,1770936
+11/14/2029,Abuja,BuildRight Co,White Cement,50,445,3455,1537475
+11/15/2029,Abuja,Dangote Ltd,PPC,50,133,3181,423073
+11/16/2029,Portharcourt,Eterna Plc,Slag Cement,50,828,2891,2393748
+11/17/2029,Kano,MegaCem,PPC,50,712,2198,1564976
+11/18/2029,Abuja,StoneWorks Ltd,White Cement,25,594,2920,1734480
+11/19/2029,Kano,StoneWorks Ltd,PPC,25,998,2259,2254482
+11/20/2029,Kano,Eterna Plc,White Cement,25,689,2222,1530958
+11/21/2029,Portharcourt,Dangote Ltd,Portland Cement,25,179,3320,594280
+11/22/2029,Abuja,StoneWorks Ltd,Portland Cement,50,664,2933,1947512
+11/23/2029,Abuja,MegaCem,Slag Cement,25,365,3521,1285165
+11/24/2029,Kaduna,MegaCem,PPC,50,851,3627,3086577
+11/25/2029,Portharcourt,BuildRight Co,PPC,50,123,3109,382407
+11/26/2029,Kaduna,MegaCem,PPC,25,506,3450,1745700
+11/27/2029,Lagos,BuildRight Co,White Cement,25,580,2366,1372280
+11/28/2029,Portharcourt,MegaCem,Slag Cement,50,809,3345,2706105
+11/29/2029,Kano,BuildRight Co,Slag Cement,50,969,3717,3601773
+11/30/2029,Lagos,MegaCem,PPC,25,510,3896,1986960
+12/1/2029,Abuja,StoneWorks Ltd,Portland Cement,50,482,3491,1682662
+12/2/2029,Kaduna,Eterna Plc,PPC,25,637,3521,2242877
+12/3/2029,Abuja,StoneWorks Ltd,Slag Cement,25,838,3301,2766238
+12/4/2029,Portharcourt,Eterna Plc,Slag Cement,50,400,2703,1081200
+12/5/2029,Kano,MegaCem,Slag Cement,25,994,2802,2785188
+12/6/2029,Portharcourt,MegaCem,Slag Cement,25,597,2521,1505037
+12/7/2029,Lagos,Eterna Plc,Slag Cement,50,194,2710,525740
+12/8/2029,Portharcourt,MegaCem,Portland Cement,25,120,3997,479640
+12/9/2029,Portharcourt,Dangote Ltd,Portland Cement,25,755,3977,3002635
+12/10/2029,Kano,BuildRight Co,PPC,25,827,3392,2805184
+12/11/2029,Kaduna,Eterna Plc,White Cement,50,952,2756,2623712
+12/12/2029,Abuja,Dangote Ltd,Portland Cement,50,343,2009,689087
+12/13/2029,Lagos,StoneWorks Ltd,Slag Cement,25,771,2566,1978386
+12/14/2029,Lagos,StoneWorks Ltd,Portland Cement,25,912,3491,3183792
+12/15/2029,Abuja,Dangote Ltd,White Cement,50,192,2747,527424
+12/16/2029,Kano,BuildRight Co,Slag Cement,25,670,3423,2293410
+12/17/2029,Lagos,StoneWorks Ltd,PPC,25,405,2079,841995
+12/18/2029,Abuja,MegaCem,Slag Cement,25,585,3095,1810575
+12/19/2029,Lagos,MegaCem,PPC,25,988,3238,3199144
+12/20/2029,Portharcourt,Eterna Plc,Portland Cement,25,598,3369,2014662
+12/21/2029,Kaduna,Eterna Plc,Slag Cement,50,696,3190,2220240
+12/22/2029,Kano,Dangote Ltd,White Cement,50,224,2417,541408
+12/23/2029,Kano,StoneWorks Ltd,White Cement,25,79,3587,283373
+12/24/2029,Kano,Dangote Ltd,White Cement,50,187,3240,605880
+12/25/2029,Abuja,StoneWorks Ltd,PPC,50,73,2102,153446
+12/26/2029,Kaduna,MegaCem,Portland Cement,50,826,3248,2682848
+12/27/2029,Lagos,StoneWorks Ltd,Slag Cement,50,860,3657,3145020
+12/28/2029,Abuja,StoneWorks Ltd,White Cement,50,699,2996,2094204
+12/29/2029,Abuja,MegaCem,White Cement,25,942,2894,2726148
+12/30/2029,Portharcourt,Dangote Ltd,Portland Cement,50,97,3403,330091
+12/31/2029,Portharcourt,StoneWorks Ltd,White Cement,25,641,2511,1609551
+1/1/2030,Portharcourt,Eterna Plc,PPC,50,158,3753,592974
+1/2/2030,Kano,Dangote Ltd,Portland Cement,50,690,2646,1825740
+1/3/2030,Abuja,StoneWorks Ltd,Portland Cement,50,952,2725,2594200
+1/4/2030,Kaduna,Eterna Plc,Slag Cement,50,968,2393,2316424
+1/5/2030,Kaduna,Eterna Plc,White Cement,25,280,3321,929880
+1/6/2030,Abuja,Dangote Ltd,Slag Cement,25,528,3006,1587168
+1/7/2030,Portharcourt,StoneWorks Ltd,PPC,25,186,3151,586086
+1/8/2030,Portharcourt,StoneWorks Ltd,Portland Cement,25,596,2961,1764756
+1/9/2030,Kaduna,MegaCem,Portland Cement,50,750,3575,2681250
+1/10/2030,Lagos,Dangote Ltd,Portland Cement,50,815,2941,2396915
+1/11/2030,Portharcourt,MegaCem,PPC,25,370,2735,1011950
+1/12/2030,Kano,MegaCem,Slag Cement,25,748,3800,2842400
+1/13/2030,Portharcourt,StoneWorks Ltd,Slag Cement,25,639,2809,1794951
+1/14/2030,Abuja,StoneWorks Ltd,White Cement,25,868,2167,1880956
+1/15/2030,Kaduna,Eterna Plc,PPC,50,849,3197,2714253
+1/16/2030,Portharcourt,MegaCem,Slag Cement,25,365,2379,868335
+1/17/2030,Lagos,Dangote Ltd,Portland Cement,50,779,3136,2442944
+1/18/2030,Kaduna,StoneWorks Ltd,Slag Cement,50,197,2809,553373
+1/19/2030,Lagos,Dangote Ltd,Portland Cement,50,442,2841,1255722
+1/20/2030,Portharcourt,MegaCem,Portland Cement,25,228,2818,642504
+1/21/2030,Kaduna,MegaCem,PPC,25,432,3484,1505088
+1/22/2030,Kano,MegaCem,PPC,50,474,2802,1328148
+1/23/2030,Kaduna,StoneWorks Ltd,White Cement,50,752,3154,2371808
+1/24/2030,Abuja,StoneWorks Ltd,Slag Cement,50,96,3439,330144
+1/25/2030,Abuja,StoneWorks Ltd,Portland Cement,25,586,2709,1587474
+1/26/2030,Kano,BuildRight Co,Slag Cement,25,436,2013,877668
+1/27/2030,Abuja,BuildRight Co,White Cement,50,599,2185,1308815
+1/28/2030,Kano,StoneWorks Ltd,White Cement,25,260,2992,777920
+1/29/2030,Abuja,MegaCem,White Cement,50,177,3533,625341
+1/30/2030,Portharcourt,BuildRight Co,Portland Cement,50,54,2044,110376
+1/31/2030,Abuja,MegaCem,Slag Cement,50,273,2807,766311
+2/1/2030,Abuja,MegaCem,White Cement,25,56,3366,188496
+2/2/2030,Portharcourt,StoneWorks Ltd,PPC,25,654,2290,1497660
+2/3/2030,Portharcourt,Eterna Plc,Portland Cement,50,487,2643,1287141
+2/4/2030,Kaduna,Dangote Ltd,Slag Cement,25,264,3708,978912
+2/5/2030,Kano,MegaCem,Slag Cement,25,784,2595,2034480
+2/6/2030,Abuja,Dangote Ltd,White Cement,50,349,2449,854701
+2/7/2030,Abuja,BuildRight Co,Slag Cement,25,348,3812,1326576
+2/8/2030,Kano,Dangote Ltd,White Cement,50,376,2375,893000
+2/9/2030,Abuja,MegaCem,Portland Cement,25,691,3867,2672097
+2/10/2030,Abuja,MegaCem,PPC,25,102,3110,317220
+2/11/2030,Kaduna,StoneWorks Ltd,Portland Cement,25,666,2843,1893438
+2/12/2030,Kano,MegaCem,PPC,50,796,2304,1833984
+2/13/2030,Lagos,StoneWorks Ltd,PPC,50,686,3450,2366700
+2/14/2030,Kano,StoneWorks Ltd,Portland Cement,50,975,3121,3042975
+2/15/2030,Portharcourt,MegaCem,Portland Cement,25,432,3454,1492128
+2/16/2030,Kaduna,Dangote Ltd,White Cement,25,434,2910,1262940
+2/17/2030,Kaduna,Dangote Ltd,Portland Cement,50,559,2585,1445015
+2/18/2030,Lagos,MegaCem,Portland Cement,25,179,3597,643863
+2/19/2030,Portharcourt,Eterna Plc,Slag Cement,25,358,2461,881038
+2/20/2030,Lagos,Eterna Plc,Portland Cement,50,732,2070,1515240
+2/21/2030,Abuja,MegaCem,Portland Cement,50,911,2952,2689272
+2/22/2030,Kano,BuildRight Co,Portland Cement,50,645,3749,2418105
+2/23/2030,Abuja,StoneWorks Ltd,White Cement,25,551,3955,2179205
+2/24/2030,Portharcourt,StoneWorks Ltd,Portland Cement,50,260,3082,801320
+2/25/2030,Kaduna,Eterna Plc,Slag Cement,50,799,2333,1864067
+2/26/2030,Kaduna,BuildRight Co,PPC,25,563,3008,1693504
+2/27/2030,Lagos,Dangote Ltd,Portland Cement,25,810,3440,2786400
+2/28/2030,Kano,StoneWorks Ltd,Slag Cement,50,878,2154,1891212
+3/1/2030,Lagos,Eterna Plc,Slag Cement,50,165,3698,610170
+3/2/2030,Lagos,MegaCem,PPC,50,501,3472,1739472
+3/3/2030,Lagos,Eterna Plc,White Cement,50,424,2510,1064240
+3/4/2030,Kaduna,Eterna Plc,PPC,50,769,2584,1987096
+3/5/2030,Kaduna,MegaCem,PPC,50,235,2965,696775
+3/6/2030,Kano,MegaCem,PPC,50,488,2666,1301008
+3/7/2030,Lagos,Eterna Plc,PPC,50,248,2431,602888
+3/8/2030,Kano,MegaCem,PPC,25,955,2910,2779050
+3/9/2030,Abuja,MegaCem,White Cement,50,113,3589,405557
+3/10/2030,Kano,MegaCem,PPC,50,159,2063,328017
+3/11/2030,Kaduna,MegaCem,Portland Cement,50,371,2354,873334
+3/12/2030,Lagos,BuildRight Co,Slag Cement,25,738,2743,2024334
+3/13/2030,Kaduna,Eterna Plc,White Cement,50,363,3139,1139457
+3/14/2030,Kano,BuildRight Co,Slag Cement,50,390,2366,922740
+3/15/2030,Kaduna,Dangote Ltd,White Cement,50,835,2733,2282055
+3/16/2030,Portharcourt,StoneWorks Ltd,PPC,25,74,2335,172790
+3/17/2030,Abuja,MegaCem,Portland Cement,50,380,2946,1119480
+3/18/2030,Kaduna,Dangote Ltd,Slag Cement,25,361,3901,1408261
+3/19/2030,Lagos,Dangote Ltd,Portland Cement,25,558,3971,2215818
+3/20/2030,Kaduna,BuildRight Co,Portland Cement,50,204,2819,575076
+3/21/2030,Portharcourt,MegaCem,Slag Cement,50,208,3505,729040
+3/22/2030,Kano,StoneWorks Ltd,Portland Cement,50,504,3185,1605240
+3/23/2030,Portharcourt,MegaCem,White Cement,25,824,2090,1722160
+3/24/2030,Portharcourt,MegaCem,Slag Cement,25,787,3649,2871763
+3/25/2030,Portharcourt,Dangote Ltd,Portland Cement,50,231,2830,653730
+3/26/2030,Kano,MegaCem,Portland Cement,50,170,2317,393890
+3/27/2030,Lagos,Dangote Ltd,Slag Cement,50,105,2226,233730
+3/28/2030,Lagos,MegaCem,White Cement,25,891,2826,2517966
+3/29/2030,Kano,MegaCem,White Cement,25,632,2100,1327200
+3/30/2030,Portharcourt,Eterna Plc,Portland Cement,50,122,3117,380274
+3/31/2030,Kano,Dangote Ltd,Portland Cement,50,954,2349,2240946
+4/1/2030,Kaduna,StoneWorks Ltd,White Cement,25,223,3765,839595
+4/2/2030,Lagos,MegaCem,White Cement,25,101,3936,397536
+4/3/2030,Portharcourt,Dangote Ltd,White Cement,25,111,2771,307581
+4/4/2030,Abuja,StoneWorks Ltd,PPC,50,311,3879,1206369
+4/5/2030,Kano,StoneWorks Ltd,Portland Cement,25,57,3956,225492
+4/6/2030,Kano,Eterna Plc,Slag Cement,50,116,2956,342896
+4/7/2030,Kano,BuildRight Co,Slag Cement,25,251,3474,871974
+4/8/2030,Kano,Dangote Ltd,Portland Cement,25,891,2683,2390553
+4/9/2030,Portharcourt,StoneWorks Ltd,Slag Cement,25,407,2518,1024826
+4/10/2030,Abuja,Eterna Plc,Portland Cement,50,569,2660,1513540
+4/11/2030,Lagos,BuildRight Co,Portland Cement,25,394,2274,895956
+4/12/2030,Kaduna,MegaCem,Portland Cement,50,239,2091,499749
+4/13/2030,Abuja,StoneWorks Ltd,Slag Cement,25,369,3344,1233936
+4/14/2030,Abuja,Dangote Ltd,PPC,50,908,3499,3177092
+4/15/2030,Kano,Dangote Ltd,PPC,25,169,2207,372983
+4/16/2030,Abuja,StoneWorks Ltd,PPC,50,774,2926,2264724
+4/17/2030,Lagos,Eterna Plc,Portland Cement,50,221,3456,763776
+4/18/2030,Abuja,MegaCem,Slag Cement,50,743,2028,1506804
+4/19/2030,Lagos,MegaCem,Slag Cement,50,641,2377,1523657
+4/20/2030,Kaduna,Eterna Plc,Slag Cement,25,927,3543,3284361
+4/21/2030,Kano,BuildRight Co,White Cement,50,786,3700,2908200
+4/22/2030,Kano,MegaCem,PPC,25,997,2876,2867372
+4/23/2030,Kaduna,Eterna Plc,PPC,50,326,2636,859336
+4/24/2030,Kaduna,BuildRight Co,Slag Cement,50,72,2142,154224
+4/25/2030,Kaduna,Dangote Ltd,Slag Cement,50,79,2976,235104
+4/26/2030,Portharcourt,MegaCem,Portland Cement,50,768,2362,1814016
+4/27/2030,Lagos,Dangote Ltd,Slag Cement,25,403,2812,1133236
+4/28/2030,Abuja,Eterna Plc,Slag Cement,25,57,3417,194769
+4/29/2030,Portharcourt,Eterna Plc,Slag Cement,50,629,3073,1932917
+4/30/2030,Abuja,Dangote Ltd,PPC,50,843,3751,3162093
+5/1/2030,Lagos,Eterna Plc,PPC,25,139,3478,483442
+5/2/2030,Abuja,Dangote Ltd,White Cement,25,581,2142,1244502
+5/3/2030,Portharcourt,StoneWorks Ltd,PPC,25,747,3431,2562957
+5/4/2030,Abuja,Eterna Plc,PPC,50,738,3946,2912148
+5/5/2030,Abuja,BuildRight Co,White Cement,50,171,2595,443745
+5/6/2030,Kano,Eterna Plc,Portland Cement,25,903,3334,3010602
+5/7/2030,Abuja,Eterna Plc,PPC,50,265,3806,1008590
+5/8/2030,Portharcourt,MegaCem,PPC,50,393,2249,883857
+5/9/2030,Lagos,MegaCem,PPC,50,748,3630,2715240
+5/10/2030,Kano,Eterna Plc,PPC,50,568,2458,1396144
+5/11/2030,Kano,Eterna Plc,White Cement,25,557,2686,1496102
+5/12/2030,Lagos,Eterna Plc,White Cement,25,884,2624,2319616
+5/13/2030,Portharcourt,Eterna Plc,PPC,25,794,3726,2958444
+5/14/2030,Kano,Eterna Plc,Slag Cement,25,293,3673,1076189
+5/15/2030,Lagos,Eterna Plc,PPC,25,99,3918,387882
+5/16/2030,Abuja,Eterna Plc,Portland Cement,50,66,2074,136884
+5/17/2030,Abuja,BuildRight Co,Portland Cement,50,408,3704,1511232
+5/18/2030,Abuja,StoneWorks Ltd,White Cement,50,978,3155,3085590
+5/19/2030,Kaduna,MegaCem,PPC,50,913,2827,2581051
+5/20/2030,Abuja,Eterna Plc,PPC,25,903,3382,3053946
+5/21/2030,Kano,StoneWorks Ltd,Slag Cement,25,127,3759,477393
+5/22/2030,Abuja,Dangote Ltd,Slag Cement,25,506,3225,1631850
+5/23/2030,Abuja,BuildRight Co,Portland Cement,50,958,2161,2070238
+5/24/2030,Portharcourt,BuildRight Co,PPC,25,599,3599,2155801
+5/25/2030,Kaduna,Dangote Ltd,Slag Cement,25,759,3671,2786289
+5/26/2030,Kano,MegaCem,White Cement,50,58,3668,212744
+5/27/2030,Abuja,Dangote Ltd,Portland Cement,50,902,2538,2289276
+5/28/2030,Abuja,Eterna Plc,White Cement,50,422,3591,1515402
+5/29/2030,Abuja,StoneWorks Ltd,PPC,25,211,2655,560205
+5/30/2030,Abuja,MegaCem,White Cement,50,916,2885,2642660
+5/31/2030,Kano,BuildRight Co,Slag Cement,25,984,2369,2331096
+6/1/2030,Kaduna,Eterna Plc,PPC,25,860,3060,2631600
+6/2/2030,Portharcourt,StoneWorks Ltd,Portland Cement,50,538,3853,2072914
+6/3/2030,Kaduna,MegaCem,White Cement,25,640,2884,1845760
+6/4/2030,Portharcourt,StoneWorks Ltd,Slag Cement,25,250,2226,556500
+6/5/2030,Abuja,StoneWorks Ltd,White Cement,50,835,2945,2459075
+6/6/2030,Abuja,Eterna Plc,PPC,50,479,3529,1690391
+6/7/2030,Abuja,MegaCem,PPC,25,218,2063,449734
+6/8/2030,Kaduna,Dangote Ltd,Slag Cement,50,239,2537,606343
+6/9/2030,Kano,StoneWorks Ltd,White Cement,50,266,3490,928340
+6/10/2030,Abuja,BuildRight Co,Portland Cement,50,656,2564,1681984
+6/11/2030,Lagos,MegaCem,White Cement,50,199,3119,620681
+6/12/2030,Abuja,StoneWorks Ltd,White Cement,25,178,2665,474370
+6/13/2030,Portharcourt,Dangote Ltd,Slag Cement,25,210,3874,813540
+6/14/2030,Abuja,Dangote Ltd,PPC,50,718,3367,2417506
+6/15/2030,Kaduna,MegaCem,White Cement,50,450,2927,1317150
+6/16/2030,Lagos,StoneWorks Ltd,Portland Cement,25,522,3667,1914174
+6/17/2030,Portharcourt,BuildRight Co,White Cement,50,922,2361,2176842
+6/18/2030,Portharcourt,Eterna Plc,Slag Cement,25,365,3376,1232240
+6/19/2030,Kaduna,StoneWorks Ltd,PPC,25,256,2342,599552
+6/20/2030,Portharcourt,Dangote Ltd,PPC,50,931,3238,3014578
+6/21/2030,Abuja,Eterna Plc,White Cement,50,804,3175,2552700
+6/22/2030,Portharcourt,Dangote Ltd,Portland Cement,50,183,2077,380091
+6/23/2030,Portharcourt,BuildRight Co,PPC,25,557,3824,2129968
+6/24/2030,Portharcourt,StoneWorks Ltd,PPC,50,466,2026,944116
+6/25/2030,Kano,MegaCem,Portland Cement,50,455,3834,1744470
+6/26/2030,Kano,Eterna Plc,PPC,50,444,2402,1066488
+6/27/2030,Portharcourt,BuildRight Co,Slag Cement,25,722,2057,1485154
+6/28/2030,Kaduna,BuildRight Co,Slag Cement,50,676,3605,2436980
+6/29/2030,Portharcourt,Dangote Ltd,PPC,25,757,3031,2294467
+6/30/2030,Kaduna,BuildRight Co,Slag Cement,25,266,3547,943502
+7/1/2030,Kaduna,StoneWorks Ltd,Slag Cement,50,680,2009,1366120
+7/2/2030,Kano,MegaCem,White Cement,25,165,2935,484275
+7/3/2030,Lagos,MegaCem,White Cement,25,557,3795,2113815
+7/4/2030,Portharcourt,Dangote Ltd,PPC,50,193,2979,574947
+7/5/2030,Portharcourt,StoneWorks Ltd,Slag Cement,50,227,3737,848299
+7/6/2030,Portharcourt,MegaCem,White Cement,50,682,3103,2116246
+7/7/2030,Kaduna,MegaCem,PPC,50,122,2125,259250
+7/8/2030,Abuja,StoneWorks Ltd,White Cement,50,76,3216,244416
+7/9/2030,Kano,StoneWorks Ltd,PPC,25,376,2840,1067840
+7/10/2030,Kaduna,MegaCem,Slag Cement,25,385,3372,1298220
+7/11/2030,Lagos,Dangote Ltd,White Cement,25,175,2429,425075
+7/12/2030,Kaduna,Dangote Ltd,Slag Cement,25,518,3802,1969436
+7/13/2030,Portharcourt,Dangote Ltd,Portland Cement,50,462,3126,1444212
+7/14/2030,Lagos,Dangote Ltd,Portland Cement,50,371,2747,1019137
+7/15/2030,Abuja,Dangote Ltd,Portland Cement,25,124,3461,429164
+7/16/2030,Kaduna,Dangote Ltd,Portland Cement,25,91,3467,315497
+7/17/2030,Lagos,Dangote Ltd,Portland Cement,50,770,3579,2755830
+7/18/2030,Portharcourt,Eterna Plc,White Cement,50,60,2515,150900
+7/19/2030,Lagos,BuildRight Co,Portland Cement,25,898,3574,3209452
+7/20/2030,Lagos,StoneWorks Ltd,White Cement,25,917,3184,2919728
+7/21/2030,Kano,Dangote Ltd,Portland Cement,25,856,2776,2376256
+7/22/2030,Lagos,MegaCem,White Cement,25,202,3772,761944
+7/23/2030,Portharcourt,Eterna Plc,Slag Cement,25,187,2816,526592
+7/24/2030,Portharcourt,Eterna Plc,Portland Cement,25,656,2026,1329056
+7/25/2030,Kaduna,Dangote Ltd,White Cement,50,915,3009,2753235
+7/26/2030,Abuja,Eterna Plc,White Cement,25,595,2388,1420860
+7/27/2030,Kano,Eterna Plc,PPC,50,196,3598,705208
+7/28/2030,Portharcourt,StoneWorks Ltd,Portland Cement,25,205,3149,645545
+7/29/2030,Kaduna,Eterna Plc,Slag Cement,50,739,2994,2212566
+7/30/2030,Kano,StoneWorks Ltd,Portland Cement,25,60,3729,223740
+7/31/2030,Kaduna,MegaCem,Portland Cement,50,795,2122,1686990
+8/1/2030,Abuja,StoneWorks Ltd,White Cement,25,531,2798,1485738
+8/2/2030,Portharcourt,Dangote Ltd,White Cement,50,956,3106,2969336
+8/3/2030,Lagos,StoneWorks Ltd,PPC,25,345,2122,732090
+8/4/2030,Lagos,MegaCem,Portland Cement,25,523,3566,1865018
+8/5/2030,Kano,Dangote Ltd,PPC,50,316,2895,914820
+8/6/2030,Portharcourt,Dangote Ltd,Slag Cement,50,479,3132,1500228
+8/7/2030,Portharcourt,Dangote Ltd,PPC,50,254,3447,875538
+8/8/2030,Kano,BuildRight Co,Portland Cement,50,130,3100,403000
+8/9/2030,Portharcourt,Eterna Plc,Slag Cement,25,682,3900,2659800
+8/10/2030,Kaduna,MegaCem,Slag Cement,25,584,2861,1670824
+8/11/2030,Abuja,MegaCem,White Cement,50,648,3649,2364552
+8/12/2030,Portharcourt,BuildRight Co,White Cement,50,670,2136,1431120
+8/13/2030,Kaduna,MegaCem,White Cement,50,435,3783,1645605
+8/14/2030,Lagos,StoneWorks Ltd,PPC,25,591,3884,2295444
+8/15/2030,Portharcourt,Eterna Plc,White Cement,50,950,2939,2792050
+8/16/2030,Kano,BuildRight Co,Slag Cement,25,770,3852,2966040
+8/17/2030,Lagos,MegaCem,Slag Cement,25,279,2055,573345
+8/18/2030,Portharcourt,StoneWorks Ltd,White Cement,25,148,3775,558700
+8/19/2030,Portharcourt,StoneWorks Ltd,Portland Cement,25,495,3656,1809720
+8/20/2030,Lagos,Dangote Ltd,Slag Cement,50,743,3728,2769904
+8/21/2030,Lagos,BuildRight Co,PPC,25,469,2356,1104964
+8/22/2030,Lagos,Dangote Ltd,Portland Cement,50,907,2950,2675650
+8/23/2030,Kaduna,Dangote Ltd,Slag Cement,25,309,2308,713172
+8/24/2030,Abuja,MegaCem,Slag Cement,50,623,2735,1703905
+8/25/2030,Portharcourt,Eterna Plc,Slag Cement,25,200,2525,505000
+8/26/2030,Abuja,MegaCem,PPC,25,249,2467,614283
+8/27/2030,Lagos,StoneWorks Ltd,PPC,50,480,3672,1762560
+8/28/2030,Portharcourt,Eterna Plc,White Cement,25,995,3844,3824780
+8/29/2030,Portharcourt,Dangote Ltd,Slag Cement,50,563,2072,1166536
+8/30/2030,Kano,StoneWorks Ltd,White Cement,50,150,3303,495450
+8/31/2030,Abuja,Dangote Ltd,Portland Cement,25,228,3193,728004
+9/1/2030,Lagos,Dangote Ltd,Slag Cement,25,612,2457,1503684
+9/2/2030,Kaduna,StoneWorks Ltd,Slag Cement,25,937,2344,2196328
+9/3/2030,Portharcourt,StoneWorks Ltd,White Cement,25,559,2015,1126385
+9/4/2030,Kaduna,BuildRight Co,Portland Cement,25,757,2925,2214225
+9/5/2030,Kaduna,MegaCem,White Cement,50,718,2599,1866082
+9/6/2030,Kaduna,MegaCem,PPC,25,863,3781,3263003
+9/7/2030,Kano,Eterna Plc,Slag Cement,50,957,3906,3738042
+9/8/2030,Lagos,MegaCem,White Cement,50,108,3462,373896
+9/9/2030,Abuja,MegaCem,PPC,25,204,3601,734604
+9/10/2030,Portharcourt,Dangote Ltd,Portland Cement,25,101,3475,350975
+9/11/2030,Abuja,MegaCem,White Cement,25,287,3016,865592
+9/12/2030,Lagos,Dangote Ltd,Portland Cement,25,405,2490,1008450
+9/13/2030,Abuja,StoneWorks Ltd,White Cement,25,954,3404,3247416
+9/14/2030,Lagos,Eterna Plc,PPC,50,230,2136,491280
+9/15/2030,Lagos,BuildRight Co,Portland Cement,50,536,3473,1861528
+9/16/2030,Portharcourt,Eterna Plc,White Cement,25,381,2376,905256
+9/17/2030,Kano,MegaCem,Portland Cement,50,103,3100,319300
+9/18/2030,Abuja,Eterna Plc,PPC,50,776,2317,1797992
+9/19/2030,Kano,MegaCem,Portland Cement,25,723,2890,2089470
+9/20/2030,Portharcourt,Eterna Plc,Slag Cement,25,718,2182,1566676
+9/21/2030,Kaduna,Dangote Ltd,White Cement,50,417,2660,1109220
+9/22/2030,Kano,StoneWorks Ltd,PPC,50,796,2850,2268600
+9/23/2030,Kano,StoneWorks Ltd,Slag Cement,25,113,3374,381262
+9/24/2030,Kano,MegaCem,PPC,50,551,3505,1931255
+9/25/2030,Abuja,Eterna Plc,White Cement,50,966,2492,2407272
+9/26/2030,Portharcourt,Eterna Plc,White Cement,50,555,3790,2103450
+9/27/2030,Portharcourt,StoneWorks Ltd,Portland Cement,25,718,2715,1949370
+9/28/2030,Kaduna,MegaCem,Portland Cement,50,59,2484,146556
+9/29/2030,Kaduna,StoneWorks Ltd,Slag Cement,25,107,3092,330844
+9/30/2030,Kano,Eterna Plc,PPC,50,890,3188,2837320
+10/1/2030,Lagos,Eterna Plc,White Cement,25,952,2221,2114392
+10/2/2030,Portharcourt,StoneWorks Ltd,PPC,50,616,2820,1737120
+10/3/2030,Kaduna,BuildRight Co,White Cement,50,84,2907,244188
+10/4/2030,Kaduna,Dangote Ltd,Slag Cement,50,764,2471,1887844
+10/5/2030,Portharcourt,Eterna Plc,Portland Cement,50,364,3034,1104376
+10/6/2030,Portharcourt,Eterna Plc,PPC,50,968,2410,2332880
+10/7/2030,Kaduna,StoneWorks Ltd,Slag Cement,50,793,3686,2922998
+10/8/2030,Abuja,Eterna Plc,White Cement,25,808,2979,2407032
+10/9/2030,Lagos,BuildRight Co,PPC,50,286,2956,845416
+10/10/2030,Abuja,MegaCem,PPC,25,218,3476,757768
+10/11/2030,Kaduna,BuildRight Co,PPC,25,690,3686,2543340
+10/12/2030,Portharcourt,StoneWorks Ltd,Portland Cement,25,168,3155,530040
+10/13/2030,Portharcourt,Dangote Ltd,White Cement,50,958,3292,3153736
+10/14/2030,Lagos,Dangote Ltd,White Cement,25,478,3447,1647666
+10/15/2030,Kaduna,Dangote Ltd,PPC,25,416,3456,1437696
+10/16/2030,Kano,StoneWorks Ltd,White Cement,50,733,3196,2342668
+10/17/2030,Kano,Eterna Plc,Slag Cement,25,90,2240,201600
+10/18/2030,Portharcourt,Dangote Ltd,Slag Cement,50,447,3243,1449621
+10/19/2030,Abuja,Dangote Ltd,PPC,25,354,3096,1095984
+10/20/2030,Kano,Eterna Plc,White Cement,25,512,3809,1950208
+10/21/2030,Abuja,StoneWorks Ltd,PPC,50,244,2927,714188
+10/22/2030,Lagos,StoneWorks Ltd,PPC,25,90,3357,302130
+10/23/2030,Kano,Dangote Ltd,Portland Cement,50,954,2654,2531916
+10/24/2030,Kano,MegaCem,Portland Cement,50,79,2992,236368
+10/25/2030,Lagos,Dangote Ltd,Portland Cement,25,531,3483,1849473
+10/26/2030,Lagos,MegaCem,Portland Cement,50,724,2024,1465376
+10/27/2030,Kano,Dangote Ltd,PPC,50,268,3005,805340
+10/28/2030,Kano,BuildRight Co,Slag Cement,50,68,3592,244256
+10/29/2030,Lagos,StoneWorks Ltd,White Cement,25,562,3530,1983860
+10/30/2030,Kano,BuildRight Co,Portland Cement,25,696,3586,2495856
+10/31/2030,Abuja,StoneWorks Ltd,White Cement,25,168,2881,484008
+11/1/2030,Abuja,BuildRight Co,Slag Cement,50,366,3252,1190232
+11/2/2030,Kano,MegaCem,Portland Cement,50,480,2323,1115040
+11/3/2030,Abuja,StoneWorks Ltd,White Cement,50,710,3197,2269870
+11/4/2030,Kaduna,BuildRight Co,PPC,25,283,2442,691086
+11/5/2030,Kano,BuildRight Co,Portland Cement,25,59,2101,123959
+11/6/2030,Lagos,Eterna Plc,PPC,25,743,2284,1697012
+11/7/2030,Lagos,Dangote Ltd,PPC,50,681,3198,2177838
+11/8/2030,Portharcourt,StoneWorks Ltd,Slag Cement,25,109,2223,242307
+11/9/2030,Lagos,MegaCem,White Cement,25,572,2965,1695980
+11/10/2030,Abuja,MegaCem,Slag Cement,25,711,3058,2174238
+11/11/2030,Portharcourt,MegaCem,PPC,50,930,2654,2468220
+11/12/2030,Abuja,StoneWorks Ltd,Slag Cement,25,427,2144,915488
+11/13/2030,Kano,Eterna Plc,PPC,25,341,2577,878757
+11/14/2030,Lagos,MegaCem,PPC,50,318,2569,816942
+11/15/2030,Abuja,Eterna Plc,PPC,25,247,3964,979108
+11/16/2030,Kano,StoneWorks Ltd,Slag Cement,25,550,3434,1888700
+11/17/2030,Kaduna,Dangote Ltd,Portland Cement,25,557,2290,1275530
+11/18/2030,Portharcourt,MegaCem,Portland Cement,50,635,2534,1609090
+11/19/2030,Abuja,BuildRight Co,White Cement,25,179,2339,418681
+11/20/2030,Kano,BuildRight Co,Slag Cement,25,625,3456,2160000
+11/21/2030,Lagos,Eterna Plc,PPC,25,996,2687,2676252
+11/22/2030,Lagos,BuildRight Co,White Cement,25,387,3469,1342503
+11/23/2030,Kaduna,Dangote Ltd,White Cement,25,314,3774,1185036
+11/24/2030,Kaduna,Eterna Plc,Slag Cement,50,407,2010,818070
+11/25/2030,Lagos,BuildRight Co,PPC,25,699,3354,2344446
+11/26/2030,Kaduna,Dangote Ltd,Portland Cement,25,793,2894,2294942
+11/27/2030,Abuja,Dangote Ltd,PPC,50,423,3392,1434816
+11/28/2030,Abuja,StoneWorks Ltd,Portland Cement,25,784,2087,1636208
+11/29/2030,Portharcourt,BuildRight Co,Slag Cement,50,580,2025,1174500
+11/30/2030,Kano,MegaCem,White Cement,25,788,3728,2937664
+12/1/2030,Portharcourt,StoneWorks Ltd,White Cement,25,327,3790,1239330
+12/2/2030,Kano,BuildRight Co,Portland Cement,25,959,3707,3555013
+12/3/2030,Abuja,MegaCem,Slag Cement,25,845,3863,3264235
+12/4/2030,Kaduna,Dangote Ltd,PPC,25,936,3000,2808000
+12/5/2030,Kaduna,BuildRight Co,Slag Cement,25,115,3387,389505
+12/6/2030,Kano,StoneWorks Ltd,PPC,50,75,2284,171300
+12/7/2030,Kaduna,StoneWorks Ltd,Portland Cement,50,403,2772,1117116
+12/8/2030,Lagos,MegaCem,Portland Cement,25,521,3570,1859970
+12/9/2030,Lagos,Dangote Ltd,PPC,25,163,2001,326163
+12/10/2030,Portharcourt,Dangote Ltd,PPC,50,135,3121,421335
+12/11/2030,Portharcourt,MegaCem,White Cement,50,627,3225,2022075
+12/12/2030,Kaduna,BuildRight Co,PPC,25,973,3893,3787889
+12/13/2030,Portharcourt,Dangote Ltd,PPC,25,980,2923,2864540
+12/14/2030,Kaduna,BuildRight Co,Portland Cement,50,303,2404,728412
+12/15/2030,Abuja,BuildRight Co,PPC,25,830,3682,3056060
+12/16/2030,Lagos,MegaCem,White Cement,50,824,3401,2802424
+12/17/2030,Lagos,Dangote Ltd,White Cement,25,73,2957,215861
+12/18/2030,Portharcourt,MegaCem,White Cement,50,702,3503,2459106
+12/19/2030,Kano,MegaCem,White Cement,50,779,3274,2550446
+12/20/2030,Portharcourt,Eterna Plc,Portland Cement,50,959,2400,2301600
+12/21/2030,Abuja,BuildRight Co,White Cement,25,857,2650,2271050
+12/22/2030,Abuja,MegaCem,White Cement,25,566,2972,1682152
+12/23/2030,Kano,StoneWorks Ltd,Portland Cement,50,244,2646,645624
+12/24/2030,Portharcourt,Eterna Plc,Portland Cement,25,513,3187,1634931
+12/25/2030,Kaduna,Dangote Ltd,PPC,50,176,3350,589600
+12/26/2030,Portharcourt,Dangote Ltd,White Cement,25,72,3908,281376
+12/27/2030,Kano,Dangote Ltd,Slag Cement,50,157,2546,399722
+12/28/2030,Portharcourt,Eterna Plc,PPC,25,593,2562,1519266
+12/29/2030,Kano,Dangote Ltd,PPC,25,326,2044,666344
+12/30/2030,Portharcourt,BuildRight Co,Portland Cement,50,574,3024,1735776
+12/31/2030,Kano,StoneWorks Ltd,Slag Cement,25,617,3085,1903445
+1/1/2031,Abuja,Eterna Plc,White Cement,50,392,3153,1235976
+1/2/2031,Portharcourt,Eterna Plc,White Cement,50,93,2313,215109
+1/3/2031,Abuja,StoneWorks Ltd,Slag Cement,25,770,3584,2759680
+1/4/2031,Abuja,Eterna Plc,PPC,25,886,2784,2466624
+1/5/2031,Lagos,Eterna Plc,Slag Cement,25,561,3315,1859715
+1/6/2031,Portharcourt,BuildRight Co,Slag Cement,50,391,2047,800377
+1/7/2031,Kaduna,StoneWorks Ltd,White Cement,50,207,2474,512118
+1/8/2031,Lagos,MegaCem,Portland Cement,25,403,2738,1103414
+1/9/2031,Portharcourt,BuildRight Co,White Cement,25,401,3144,1260744
+1/10/2031,Portharcourt,Dangote Ltd,Slag Cement,25,761,3692,2809612
+1/11/2031,Portharcourt,Eterna Plc,Slag Cement,50,274,2375,650750
+1/12/2031,Kano,MegaCem,Portland Cement,25,897,3137,2813889
+1/13/2031,Lagos,MegaCem,White Cement,25,620,3753,2326860
+1/14/2031,Abuja,Dangote Ltd,PPC,50,217,2355,511035
+1/15/2031,Abuja,StoneWorks Ltd,Slag Cement,50,792,2653,2101176
+1/16/2031,Portharcourt,StoneWorks Ltd,PPC,25,974,3559,3466466
+1/17/2031,Kaduna,Eterna Plc,Slag Cement,25,907,2407,2183149
+1/18/2031,Lagos,Dangote Ltd,Slag Cement,25,235,2242,526870
+1/19/2031,Kano,Eterna Plc,White Cement,25,848,2622,2223456
+1/20/2031,Abuja,BuildRight Co,PPC,50,864,2413,2084832
+1/21/2031,Abuja,Eterna Plc,Slag Cement,50,976,3574,3488224
+1/22/2031,Kaduna,StoneWorks Ltd,Portland Cement,50,600,3535,2121000
+1/23/2031,Lagos,Eterna Plc,Portland Cement,50,509,2929,1490861
+1/24/2031,Kaduna,StoneWorks Ltd,White Cement,50,152,3580,544160
+1/25/2031,Kano,StoneWorks Ltd,Slag Cement,25,802,2313,1855026
+1/26/2031,Portharcourt,StoneWorks Ltd,White Cement,25,340,3119,1060460
+1/27/2031,Abuja,StoneWorks Ltd,PPC,25,393,2051,806043
+1/28/2031,Abuja,StoneWorks Ltd,White Cement,50,337,3375,1137375
+1/29/2031,Lagos,MegaCem,PPC,50,263,2993,787159
+1/30/2031,Portharcourt,MegaCem,Slag Cement,25,459,3819,1752921
+1/31/2031,Abuja,MegaCem,Slag Cement,50,536,3708,1987488
+2/1/2031,Abuja,Dangote Ltd,Portland Cement,25,146,3109,453914
+2/2/2031,Kano,MegaCem,Slag Cement,50,73,3092,225716
+2/3/2031,Abuja,Eterna Plc,Portland Cement,25,225,2545,572625
+2/4/2031,Portharcourt,Eterna Plc,PPC,50,762,2084,1588008
+2/5/2031,Abuja,Dangote Ltd,White Cement,25,389,3675,1429575
+2/6/2031,Abuja,MegaCem,White Cement,50,346,2649,916554
+2/7/2031,Kaduna,BuildRight Co,Portland Cement,25,847,2449,2074303
+2/8/2031,Lagos,Dangote Ltd,White Cement,50,592,2056,1217152
+2/9/2031,Lagos,StoneWorks Ltd,PPC,50,567,2299,1303533
+2/10/2031,Lagos,Dangote Ltd,Slag Cement,50,582,2302,1339764
+2/11/2031,Lagos,Eterna Plc,White Cement,25,407,2465,1003255
+2/12/2031,Kano,BuildRight Co,PPC,25,464,2377,1102928
+2/13/2031,Abuja,BuildRight Co,White Cement,50,745,3118,2322910
+2/14/2031,Kano,Dangote Ltd,White Cement,25,655,3781,2476555
+2/15/2031,Lagos,Eterna Plc,Slag Cement,25,449,2503,1123847
+2/16/2031,Abuja,Dangote Ltd,Portland Cement,25,468,2361,1104948
+2/17/2031,Kaduna,StoneWorks Ltd,Slag Cement,50,441,2470,1089270
+2/18/2031,Lagos,MegaCem,PPC,25,388,2711,1051868
+2/19/2031,Abuja,StoneWorks Ltd,Slag Cement,25,195,2583,503685
+2/20/2031,Abuja,Eterna Plc,Slag Cement,25,750,3878,2908500
+2/21/2031,Kaduna,BuildRight Co,PPC,50,484,2617,1266628
+2/22/2031,Kano,StoneWorks Ltd,PPC,50,840,2312,1942080
+2/23/2031,Abuja,BuildRight Co,Portland Cement,25,642,3839,2464638
+2/24/2031,Lagos,StoneWorks Ltd,White Cement,50,208,3131,651248
+2/25/2031,Portharcourt,StoneWorks Ltd,PPC,25,984,3393,3338712
+2/26/2031,Kaduna,Dangote Ltd,Slag Cement,50,491,2031,997221
+2/27/2031,Abuja,MegaCem,White Cement,50,993,2892,2871756
+2/28/2031,Kano,Eterna Plc,PPC,25,683,3252,2221116
+3/1/2031,Abuja,Dangote Ltd,Portland Cement,25,982,3906,3835692
+3/2/2031,Abuja,StoneWorks Ltd,Slag Cement,50,644,2670,1719480
+3/3/2031,Abuja,MegaCem,White Cement,50,780,2285,1782300
+3/4/2031,Portharcourt,StoneWorks Ltd,PPC,50,362,2317,838754
+3/5/2031,Lagos,MegaCem,Portland Cement,50,68,3730,253640
+3/6/2031,Kano,Eterna Plc,PPC,25,193,2960,571280
+3/7/2031,Kano,Eterna Plc,Portland Cement,50,216,2000,432000
+3/8/2031,Kaduna,Eterna Plc,Slag Cement,50,664,3776,2507264
+3/9/2031,Abuja,Eterna Plc,White Cement,25,725,2042,1480450
+3/10/2031,Portharcourt,Dangote Ltd,PPC,25,724,2242,1623208
+3/11/2031,Portharcourt,MegaCem,White Cement,50,559,3582,2002338
+3/12/2031,Lagos,BuildRight Co,Slag Cement,50,198,3145,622710
+3/13/2031,Portharcourt,BuildRight Co,Portland Cement,25,871,2332,2031172
+3/14/2031,Kaduna,StoneWorks Ltd,Portland Cement,50,137,2941,402917
+3/15/2031,Abuja,Dangote Ltd,Portland Cement,25,766,2337,1790142
+3/16/2031,Abuja,Dangote Ltd,PPC,50,270,2464,665280
+3/17/2031,Abuja,Dangote Ltd,Portland Cement,50,475,2111,1002725
+3/18/2031,Abuja,Dangote Ltd,Slag Cement,25,748,2729,2041292
+3/19/2031,Kaduna,Dangote Ltd,White Cement,50,51,2125,108375
+3/20/2031,Kaduna,Dangote Ltd,PPC,25,876,3977,3483852
+3/21/2031,Abuja,StoneWorks Ltd,Portland Cement,25,916,2985,2734260
+3/22/2031,Lagos,Eterna Plc,White Cement,25,100,3495,349500
+3/23/2031,Abuja,Dangote Ltd,Slag Cement,50,429,2919,1252251
+3/24/2031,Lagos,BuildRight Co,Portland Cement,50,685,2290,1568650
+3/25/2031,Abuja,Dangote Ltd,Portland Cement,25,367,3117,1143939
+3/26/2031,Kaduna,BuildRight Co,White Cement,50,747,2750,2054250
+3/27/2031,Portharcourt,BuildRight Co,White Cement,50,215,3211,690365
+3/28/2031,Kano,MegaCem,White Cement,25,582,2554,1486428
+3/29/2031,Abuja,BuildRight Co,Slag Cement,25,156,2705,421980
+3/30/2031,Lagos,StoneWorks Ltd,Portland Cement,50,413,2932,1210916
+3/31/2031,Lagos,MegaCem,Portland Cement,50,381,2700,1028700
+4/1/2031,Kaduna,Eterna Plc,White Cement,25,837,2092,1751004
+4/2/2031,Abuja,MegaCem,Portland Cement,25,227,3217,730259
+4/3/2031,Kaduna,StoneWorks Ltd,Portland Cement,50,621,3805,2362905
+4/4/2031,Kaduna,BuildRight Co,PPC,50,443,3816,1690488
+4/5/2031,Lagos,Eterna Plc,Slag Cement,50,200,2414,482800
+4/6/2031,Portharcourt,BuildRight Co,Portland Cement,25,535,3966,2121810
+4/7/2031,Kaduna,Dangote Ltd,Portland Cement,25,815,3770,3072550
+4/8/2031,Abuja,Dangote Ltd,PPC,25,391,3722,1455302
+4/9/2031,Kaduna,StoneWorks Ltd,Portland Cement,25,652,3259,2124868
+4/10/2031,Kaduna,StoneWorks Ltd,White Cement,25,382,2905,1109710
+4/11/2031,Kaduna,Dangote Ltd,Slag Cement,25,140,2803,392420
+4/12/2031,Kano,StoneWorks Ltd,PPC,25,95,2744,260680
+4/13/2031,Abuja,Eterna Plc,Slag Cement,50,352,3398,1196096
+4/14/2031,Abuja,MegaCem,White Cement,50,899,3082,2770718
+4/15/2031,Kaduna,BuildRight Co,Portland Cement,25,348,2930,1019640
+4/16/2031,Lagos,StoneWorks Ltd,White Cement,25,183,2549,466467
+4/17/2031,Portharcourt,StoneWorks Ltd,Slag Cement,25,634,3935,2494790
+4/18/2031,Abuja,StoneWorks Ltd,White Cement,25,136,2284,310624
+4/19/2031,Lagos,BuildRight Co,Slag Cement,50,928,2157,2001696
+4/20/2031,Abuja,BuildRight Co,White Cement,50,77,3282,252714
+4/21/2031,Lagos,StoneWorks Ltd,White Cement,50,937,3349,3138013
+4/22/2031,Lagos,Eterna Plc,PPC,50,349,2417,843533
+4/23/2031,Kano,MegaCem,Portland Cement,50,391,2637,1031067
+4/24/2031,Lagos,MegaCem,Slag Cement,25,298,2698,804004
+4/25/2031,Lagos,Dangote Ltd,White Cement,50,632,2548,1610336
+4/26/2031,Abuja,MegaCem,Slag Cement,50,365,2713,990245
+4/27/2031,Abuja,Eterna Plc,PPC,50,295,3309,976155
+4/28/2031,Kano,StoneWorks Ltd,PPC,50,366,3923,1435818
+4/29/2031,Lagos,MegaCem,Slag Cement,50,255,3499,892245
+4/30/2031,Lagos,StoneWorks Ltd,PPC,25,191,2886,551226
+5/1/2031,Abuja,MegaCem,PPC,50,353,3014,1063942
+5/2/2031,Kano,MegaCem,Slag Cement,25,654,3102,2028708
+5/3/2031,Abuja,MegaCem,PPC,50,289,2176,628864
+5/4/2031,Kano,MegaCem,PPC,50,607,3045,1848315
+5/5/2031,Kaduna,Eterna Plc,Portland Cement,25,556,3142,1746952
+5/6/2031,Portharcourt,Eterna Plc,Portland Cement,50,801,2965,2374965
+5/7/2031,Abuja,BuildRight Co,Slag Cement,50,861,2824,2431464
+5/8/2031,Abuja,Eterna Plc,Portland Cement,50,944,2352,2220288
+5/9/2031,Lagos,BuildRight Co,PPC,25,216,3751,810216
+5/10/2031,Kaduna,BuildRight Co,Slag Cement,25,769,3283,2524627
+5/11/2031,Abuja,BuildRight Co,Slag Cement,50,673,2818,1896514
+5/12/2031,Portharcourt,Dangote Ltd,White Cement,50,355,3965,1407575
+5/13/2031,Abuja,Eterna Plc,PPC,50,199,2263,450337
+5/14/2031,Portharcourt,MegaCem,White Cement,50,994,3336,3315984
+5/15/2031,Kaduna,MegaCem,PPC,25,747,3003,2243241
+5/16/2031,Abuja,BuildRight Co,PPC,50,108,3712,400896
+5/17/2031,Kano,MegaCem,White Cement,50,693,3357,2326401
+5/18/2031,Kaduna,Dangote Ltd,Slag Cement,50,454,3959,1797386
+5/19/2031,Abuja,Eterna Plc,White Cement,50,535,2644,1414540
+5/20/2031,Kano,Eterna Plc,Slag Cement,25,846,2305,1950030
+5/21/2031,Kaduna,Eterna Plc,Portland Cement,25,836,2777,2321572
+5/22/2031,Kaduna,Eterna Plc,PPC,50,270,3257,879390
+5/23/2031,Lagos,BuildRight Co,White Cement,50,741,2956,2190396
+5/24/2031,Lagos,Dangote Ltd,Slag Cement,50,911,3911,3562921
+5/25/2031,Portharcourt,Eterna Plc,Slag Cement,50,908,2881,2615948
+5/26/2031,Abuja,Dangote Ltd,White Cement,50,61,3206,195566
+5/27/2031,Abuja,Eterna Plc,PPC,50,972,2665,2590380
+5/28/2031,Abuja,Dangote Ltd,Slag Cement,25,911,2803,2553533
+5/29/2031,Lagos,Dangote Ltd,White Cement,25,325,3644,1184300
+5/30/2031,Kano,Dangote Ltd,Slag Cement,50,559,3836,2144324
+5/31/2031,Lagos,BuildRight Co,PPC,25,665,2233,1484945
+6/1/2031,Abuja,Dangote Ltd,Portland Cement,50,860,3181,2735660
+6/2/2031,Lagos,BuildRight Co,PPC,50,296,2397,709512
+6/3/2031,Portharcourt,StoneWorks Ltd,Slag Cement,25,465,3805,1769325
+6/4/2031,Abuja,BuildRight Co,PPC,25,236,3393,800748
+6/5/2031,Kano,StoneWorks Ltd,Slag Cement,25,591,2406,1421946
+6/6/2031,Portharcourt,Eterna Plc,PPC,50,442,2267,1002014
+6/7/2031,Kaduna,StoneWorks Ltd,PPC,25,627,2171,1361217
+6/8/2031,Kano,BuildRight Co,PPC,50,967,2883,2787861
+6/9/2031,Abuja,Dangote Ltd,PPC,25,743,3377,2509111
+6/10/2031,Lagos,StoneWorks Ltd,PPC,50,86,2576,221536
+6/11/2031,Kano,BuildRight Co,Portland Cement,50,842,3634,3059828
+6/12/2031,Kaduna,StoneWorks Ltd,White Cement,50,722,3378,2438916
+6/13/2031,Kano,StoneWorks Ltd,Slag Cement,50,545,2836,1545620
+6/14/2031,Lagos,BuildRight Co,Portland Cement,25,671,3819,2562549
+6/15/2031,Abuja,Dangote Ltd,Portland Cement,50,885,2077,1838145
+6/16/2031,Kaduna,Eterna Plc,Portland Cement,50,896,2008,1799168
+6/17/2031,Kaduna,Eterna Plc,PPC,50,965,3711,3581115
+6/18/2031,Kaduna,MegaCem,White Cement,25,266,3913,1040858
+6/19/2031,Kaduna,MegaCem,Portland Cement,25,511,3516,1796676
+6/20/2031,Abuja,Dangote Ltd,White Cement,50,456,3346,1525776
+6/21/2031,Abuja,Dangote Ltd,PPC,25,195,3003,585585
+6/22/2031,Abuja,MegaCem,Portland Cement,25,733,2456,1800248
+6/23/2031,Lagos,Eterna Plc,Portland Cement,25,769,3824,2940656
+6/24/2031,Abuja,StoneWorks Ltd,PPC,25,116,2680,310880
+6/25/2031,Portharcourt,StoneWorks Ltd,White Cement,50,903,3184,2875152
+6/26/2031,Kano,StoneWorks Ltd,Slag Cement,50,908,2534,2300872
+6/27/2031,Portharcourt,Dangote Ltd,Portland Cement,25,499,3099,1546401
+6/28/2031,Portharcourt,StoneWorks Ltd,PPC,25,381,2107,802767
+6/29/2031,Kano,Dangote Ltd,White Cement,50,811,2919,2367309
+6/30/2031,Portharcourt,BuildRight Co,PPC,50,495,2044,1011780
+7/1/2031,Lagos,MegaCem,PPC,25,681,3394,2311314
+7/2/2031,Kano,BuildRight Co,Slag Cement,25,811,3286,2664946
+7/3/2031,Kano,Eterna Plc,White Cement,25,999,2106,2103894
+7/4/2031,Abuja,StoneWorks Ltd,PPC,25,968,2000,1936000
+7/5/2031,Kano,BuildRight Co,Slag Cement,25,720,2899,2087280
+7/6/2031,Kaduna,BuildRight Co,Portland Cement,50,796,3328,2649088
+7/7/2031,Abuja,Dangote Ltd,Slag Cement,25,458,3104,1421632
+7/8/2031,Abuja,Dangote Ltd,Portland Cement,50,896,2016,1806336
+7/9/2031,Kaduna,MegaCem,PPC,25,683,3610,2465630
+7/10/2031,Kano,BuildRight Co,PPC,25,563,3839,2161357
+7/11/2031,Kaduna,Eterna Plc,White Cement,25,264,3963,1046232
+7/12/2031,Lagos,StoneWorks Ltd,Slag Cement,50,88,2216,195008
+7/13/2031,Lagos,StoneWorks Ltd,PPC,50,941,2268,2134188
+7/14/2031,Lagos,Dangote Ltd,Slag Cement,25,783,3271,2561193
+7/15/2031,Lagos,BuildRight Co,PPC,25,874,3455,3019670
+7/16/2031,Portharcourt,BuildRight Co,Slag Cement,25,381,2506,954786
+7/17/2031,Kaduna,Dangote Ltd,Slag Cement,50,388,3983,1545404
+7/18/2031,Portharcourt,MegaCem,PPC,50,803,2386,1915958
+7/19/2031,Kano,Dangote Ltd,White Cement,25,959,3489,3345951
+7/20/2031,Abuja,Dangote Ltd,Slag Cement,25,337,2150,724550
+7/21/2031,Lagos,Eterna Plc,PPC,50,555,3184,1767120
+7/22/2031,Portharcourt,Dangote Ltd,PPC,50,215,2770,595550
+7/23/2031,Lagos,StoneWorks Ltd,PPC,50,516,2486,1282776
+7/24/2031,Kaduna,Eterna Plc,Slag Cement,50,213,2652,564876
+7/25/2031,Portharcourt,StoneWorks Ltd,White Cement,50,424,3196,1355104
+7/26/2031,Lagos,StoneWorks Ltd,White Cement,25,344,2657,914008
+7/27/2031,Abuja,Eterna Plc,White Cement,50,938,3827,3589726
+7/28/2031,Kaduna,Dangote Ltd,Slag Cement,25,549,2268,1245132
+7/29/2031,Abuja,StoneWorks Ltd,Portland Cement,25,515,2755,1418825
+7/30/2031,Kaduna,MegaCem,PPC,25,945,2515,2376675
+7/31/2031,Kano,Dangote Ltd,White Cement,50,164,2850,467400
+8/1/2031,Kaduna,StoneWorks Ltd,Portland Cement,25,171,3781,646551
+8/2/2031,Portharcourt,Dangote Ltd,Portland Cement,50,588,2000,1176000
+8/3/2031,Kaduna,MegaCem,PPC,50,356,2798,996088
+8/4/2031,Kano,StoneWorks Ltd,PPC,50,425,3125,1328125
+8/5/2031,Portharcourt,Dangote Ltd,Slag Cement,50,957,3681,3522717
+8/6/2031,Abuja,BuildRight Co,PPC,50,802,2684,2152568
+8/7/2031,Portharcourt,StoneWorks Ltd,White Cement,50,763,2511,1915893
+8/8/2031,Kano,Eterna Plc,Portland Cement,25,245,2733,669585
+8/9/2031,Abuja,Dangote Ltd,White Cement,50,764,3958,3023912
+8/10/2031,Portharcourt,Eterna Plc,Portland Cement,50,266,3392,902272
+8/11/2031,Kaduna,Dangote Ltd,Portland Cement,50,619,3219,1992561
+8/12/2031,Lagos,Dangote Ltd,Slag Cement,50,356,2312,823072
+8/13/2031,Kaduna,StoneWorks Ltd,Portland Cement,50,653,3347,2185591
+8/14/2031,Kano,BuildRight Co,White Cement,50,702,2963,2080026
+8/15/2031,Portharcourt,MegaCem,Portland Cement,25,686,3002,2059372
+8/16/2031,Portharcourt,Eterna Plc,Portland Cement,25,951,2745,2610495
+8/17/2031,Kano,BuildRight Co,White Cement,50,691,2051,1417241
+8/18/2031,Kaduna,BuildRight Co,Slag Cement,25,698,2598,1813404
+8/19/2031,Kaduna,Eterna Plc,PPC,50,167,2270,379090
+8/20/2031,Kaduna,MegaCem,PPC,50,380,2965,1126700
+8/21/2031,Kano,MegaCem,Portland Cement,50,644,2418,1557192
+8/22/2031,Abuja,StoneWorks Ltd,PPC,25,849,2551,2165799
+8/23/2031,Kano,StoneWorks Ltd,Portland Cement,25,825,3248,2679600
+8/24/2031,Kaduna,MegaCem,Slag Cement,25,606,2256,1367136
+8/25/2031,Kano,MegaCem,Portland Cement,50,861,3354,2887794
+8/26/2031,Kaduna,Dangote Ltd,White Cement,50,381,2335,889635
+8/27/2031,Kaduna,BuildRight Co,Portland Cement,50,588,2820,1658160
+8/28/2031,Lagos,Dangote Ltd,White Cement,50,602,2826,1701252
+8/29/2031,Portharcourt,MegaCem,PPC,50,747,3285,2453895
+8/30/2031,Kano,Dangote Ltd,PPC,50,645,2667,1720215
+8/31/2031,Kaduna,MegaCem,Slag Cement,50,978,3896,3810288
+9/1/2031,Kaduna,StoneWorks Ltd,Slag Cement,25,929,3933,3653757
+9/2/2031,Kaduna,Dangote Ltd,Portland Cement,25,862,2151,1854162
+9/3/2031,Kano,Eterna Plc,Portland Cement,25,854,2854,2437316
+9/4/2031,Kano,Eterna Plc,Slag Cement,25,841,2581,2170621
+9/5/2031,Kaduna,MegaCem,White Cement,25,100,2615,261500
+9/6/2031,Abuja,Eterna Plc,Slag Cement,25,603,2014,1214442
+9/7/2031,Lagos,BuildRight Co,White Cement,50,64,2772,177408
+9/8/2031,Kano,StoneWorks Ltd,PPC,50,242,3935,952270
+9/9/2031,Kaduna,StoneWorks Ltd,Portland Cement,50,151,3117,470667
+9/10/2031,Portharcourt,BuildRight Co,PPC,25,785,3565,2798525
+9/11/2031,Kano,Eterna Plc,PPC,25,66,2870,189420
+9/12/2031,Portharcourt,BuildRight Co,PPC,50,368,3411,1255248
+9/13/2031,Lagos,StoneWorks Ltd,Slag Cement,25,137,3738,512106
+9/14/2031,Portharcourt,BuildRight Co,Slag Cement,25,691,2667,1842897
+9/15/2031,Abuja,StoneWorks Ltd,Portland Cement,50,921,3579,3296259
+9/16/2031,Kano,BuildRight Co,Portland Cement,50,800,2639,2111200
+9/17/2031,Abuja,Eterna Plc,Slag Cement,25,818,3870,3165660
+9/18/2031,Kaduna,Dangote Ltd,White Cement,25,805,2733,2200065
+9/19/2031,Kano,Dangote Ltd,White Cement,25,974,3868,3767432
+9/20/2031,Kano,MegaCem,PPC,25,78,3650,284700
+9/21/2031,Kaduna,StoneWorks Ltd,White Cement,50,599,3333,1996467
+9/22/2031,Abuja,StoneWorks Ltd,PPC,50,233,3749,873517
+9/23/2031,Abuja,Dangote Ltd,Portland Cement,50,365,2148,784020
+9/24/2031,Abuja,Eterna Plc,Portland Cement,50,922,3519,3244518
+9/25/2031,Abuja,Eterna Plc,PPC,25,953,2836,2702708
+9/26/2031,Kano,BuildRight Co,PPC,50,266,3731,992446
+9/27/2031,Kano,StoneWorks Ltd,Portland Cement,50,707,2452,1733564
+9/28/2031,Lagos,BuildRight Co,White Cement,25,239,3748,895772
+9/29/2031,Kaduna,Dangote Ltd,Slag Cement,25,751,2759,2072009
+9/30/2031,Kano,Eterna Plc,PPC,50,492,3756,1847952
+10/1/2031,Lagos,Dangote Ltd,Portland Cement,25,664,3224,2140736
+10/2/2031,Abuja,BuildRight Co,PPC,25,762,3663,2791206
+10/3/2031,Portharcourt,MegaCem,Slag Cement,50,62,3667,227354
+10/4/2031,Kaduna,Dangote Ltd,Slag Cement,50,555,3415,1895325
+10/5/2031,Portharcourt,MegaCem,PPC,25,703,2461,1730083
+10/6/2031,Abuja,MegaCem,White Cement,50,501,3551,1779051
+10/7/2031,Portharcourt,Eterna Plc,Slag Cement,50,857,3804,3260028
+10/8/2031,Kaduna,MegaCem,PPC,25,508,2282,1159256
+10/9/2031,Portharcourt,BuildRight Co,White Cement,25,329,2252,740908
+10/10/2031,Kaduna,StoneWorks Ltd,Portland Cement,25,507,2541,1288287
+10/11/2031,Kano,StoneWorks Ltd,White Cement,25,983,3485,3425755
+10/12/2031,Kaduna,Eterna Plc,PPC,50,517,3170,1638890
+10/13/2031,Portharcourt,Dangote Ltd,White Cement,25,454,3806,1727924
+10/14/2031,Portharcourt,StoneWorks Ltd,PPC,50,560,2718,1522080
+10/15/2031,Kaduna,BuildRight Co,Portland Cement,25,542,3213,1741446
+10/16/2031,Portharcourt,BuildRight Co,PPC,50,706,3933,2776698
+10/17/2031,Lagos,Eterna Plc,PPC,25,749,2314,1733186
+10/18/2031,Lagos,MegaCem,White Cement,25,356,3664,1304384
+10/19/2031,Kano,Dangote Ltd,PPC,25,291,3500,1018500
+10/20/2031,Kaduna,Dangote Ltd,Portland Cement,25,735,3601,2646735
+10/21/2031,Lagos,Dangote Ltd,White Cement,25,170,2782,472940
+10/22/2031,Kano,MegaCem,PPC,50,173,3360,581280
+10/23/2031,Kaduna,Dangote Ltd,Portland Cement,25,544,2330,1267520
+10/24/2031,Portharcourt,Eterna Plc,White Cement,25,365,2454,895710
+10/25/2031,Portharcourt,StoneWorks Ltd,Slag Cement,25,518,3648,1889664
+10/26/2031,Lagos,StoneWorks Ltd,PPC,25,962,2661,2559882
+10/27/2031,Lagos,Dangote Ltd,White Cement,50,709,3589,2544601
+10/28/2031,Kaduna,BuildRight Co,White Cement,50,782,2706,2116092
+10/29/2031,Portharcourt,BuildRight Co,PPC,50,998,3333,3326334
+10/30/2031,Portharcourt,BuildRight Co,White Cement,50,482,2509,1209338
+10/31/2031,Abuja,Dangote Ltd,PPC,25,467,2187,1021329
+11/1/2031,Kano,StoneWorks Ltd,White Cement,50,227,3371,765217
+11/2/2031,Kano,MegaCem,White Cement,50,119,3232,384608
+11/3/2031,Lagos,Eterna Plc,PPC,50,81,3761,304641
+11/4/2031,Abuja,Dangote Ltd,Slag Cement,50,509,3740,1903660
+11/5/2031,Kaduna,Eterna Plc,Slag Cement,50,126,2515,316890
